@@ -36,11 +36,11 @@ Những OJ để làm bài tập, contest:
 #### Link bài tập:
 |Problems |Tags 
 |--|--|
-[B. 250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | Sàng O(n$\log(n)$)
-[[QNOI 2020] Ước tự nhiên](https://nbk.homes/problem/qn20natdiv) | Sàng O(n$\log(n)$)
+[B. 250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | Sàng O(nlog(n))
+[[QNOI 2020] Ước tự nhiên](https://nbk.homes/problem/qn20natdiv) | Sàng O(nlog(n))
 [Số nguyên tố (OLP 10 - 2019)](https://lqdoj.edu.vn/problem/primecount) | Sàng trên đoạn
-[G - Short Task](https://codeforces.com/contest/1512/problem/G) | Sàng O(n$\log(n)$)
-[FACT0](https://www.spoj.com/problems/FACT0/) | Phân tích thừa số O($\sqrt(n)$)
+[G - Short Task](https://codeforces.com/contest/1512/problem/G) | Sàng O(nlog(n))
+[FACT0](https://www.spoj.com/problems/FACT0/) | Phân tích thừa số O(sqrt(n))
 [[QNOI 2017] Bảng nguyên tố](https://nbk.homes/problem/qn17mprime) 
 [[QNOI 2016] K-factor](https://nbk.homes/problem/qn16kfactor) | Sàng trên đoạn
 [D - Not Divisible](https://atcoder.jp/contests/abc170/tasks/abc170_d) | Đếm
