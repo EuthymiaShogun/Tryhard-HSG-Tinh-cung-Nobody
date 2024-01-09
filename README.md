@@ -30,8 +30,12 @@ Những OJ để làm bài tập, contest:
  [Giới thiệu về hệ thống Codeforces](https://docs.google.com/presentation/d/17boJWUE4zULRQy9W6xupYA1WWTZI-IHHUEk4L9f2_J4/edit?usp=sharing)
 
 ## Giáo án
-  ### Chương 1: Số nguyên tố:
-  #### Link tài liệu: 
+### Chương 0: Độ phức tạp tính toán:
+#### Link tài liệu: 
+- [Độ phức tạp của thuật toán (Big O)](https://docs.google.com/presentation/d/1g1rdxPHDZbKqr5vXioVNITwALB3Em0VTEEhTqYV2Vfs/edit?usp=sharing)
+ 
+### Chương 1: Số nguyên tố:
+#### Link tài liệu: 
 - [Sieve of Eratosthenes](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html) (cp-algorithms)
 - [Integer factorization](https://cp-algorithms.com/algebra/factorization.html) (cp-algorithms)
 - [Số học 2 - Số nguyên tố, Sàng Eratosthenes](https://vnoi.info/wiki/translate/he/Number-Theory-2.md) (VNOI Wiki)
