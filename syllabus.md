@@ -28,13 +28,13 @@ Những OJ để làm bài tập, contest:
  [Giới thiệu về hệ thống Codeforces](https://docs.google.com/presentation/d/17boJWUE4zULRQy9W6xupYA1WWTZI-IHHUEk4L9f2_J4/edit?usp=sharing)
 
 ## Giáo án
-  ### Chương 1: Số nguyên tố:  
+  ### Chương 1: Số nguyên tố:
   #### Link tài liệu: 
 - [Sieve of Eratosthenes](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html) (cp-algorithms)
 - [Integer factorization](https://cp-algorithms.com/algebra/factorization.html) (cp-algorithms)
 - [Số học 2 - Số nguyên tố, Sàng Eratosthenes](https://vnoi.info/wiki/translate/he/Number-Theory-2.md) (VNOI Wiki)
 #### Link bài tập:
-|Problems |Tags 
+|Problems |Tags |
 |--|--|
 [B. 250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | Sàng O(nlog(n))
 [[QNOI 2020] Ước tự nhiên](https://nbk.homes/problem/qn20natdiv) | Sàng O(nlog(n))
@@ -52,4 +52,53 @@ Những OJ để làm bài tập, contest:
 [B - Between a and b ...](https://atcoder.jp/contests/abc048/tasks/abc048_b)
 [E - Double Factorial](https://atcoder.jp/contests/abc148/tasks/abc148_e)
 
-[To be continue...]
+  ### Chương 2: Tìm kiếm nhị phân:  
+  #### Link tài liệu: 
+- [Chương 2: Tìm kiếm nhị phân](https://docs.google.com/presentation/d/1HgMD-vobIakIukE8eL4ZRiE0yc-cClibuwoGscD5Ztc/edit?usp=sharing)
+#### Link bài tập:
+|Problems |Tags |
+|--|--|
+[Mua bài](https://lqdoj.edu.vn/problem/buycard)
+[Giá trị trung bình](https://lqdoj.edu.vn/problem/gttb)
+[Chia năm nhiều lần](https://lqdoj.edu.vn/problem/five)
+[Khẩu trang](https://lqdoj.edu.vn/problem/mask)
+[Không chia hết](https://lqdoj.edu.vn/problem/ndivi)
+[Số thứ n](https://lqdoj.edu.vn/problem/nth)
+[Factory Machines](https://cses.fi/problemset/task/1620)
+[Kiến xếp hàng](https://lqdoj.edu.vn/problem/antsort)
+[Chia kẹo 01](https://lqdoj.edu.vn/problem/candy01)
+[Leo thang](https://lqdoj.edu.vn/problem/23gl2b3)
+[Sắp xếp bảng số](https://lqdoj.edu.vn/problem/numorder)
+[Sân Golf (OLP 10 - 2018)](https://lqdoj.edu.vn/problem/golf)
+[Multiplication Table](https://cses.fi/problemset/task/2422)
+[Array Division](https://cses.fi/problemset/task/1085)
+
+ ### Chương 3: vector, set/multiset, map:  
+  #### Link tài liệu: 
+- [vector](https://ideone.com/sYNyRU) 
+- [set/multiset](https://ideone.com/vuXH7Y)
+- [map](https://ideone.com/zjRLau)
+#### Link bài tập:
+|Problems |Tags |
+|--|--|
+[Distinct Numbers](https://cses.fi/problemset/task/1621)
+[Subarray Sum II](https://cses.fi/problemset/task/1661)
+[Concert Tickets](https://cses.fi/problemset/task/1091)
+[C. Registration system](https://codeforces.com/problemset/problem/4/C)
+[B. Queries about less or equal elements](https://codeforces.com/problemset/problem/600/B)
+[C. Number of Pairs](https://codeforces.com/problemset/problem/1538/C)
+[D. Pair of Topics](https://codeforces.com/problemset/problem/1324/D)
+[C. Good Subarrays](https://codeforces.com/problemset/problem/1398/C)
+[B. Sereja and Suffixes](https://codeforces.com/problemset/problem/368/B)
+
+### Chương 4: Tổng tiền tố:  
+  #### Link tài liệu: 
+- [2 bài toán về tổng tiền tố](https://ideone.com/emriDj)
+#### Link bài tập:
+|Problems |Tags |
+|--|--|
+[Restaurant Customers](https://cses.fi/problemset/task/1619)
+[F. Eating Candies](https://codeforces.com/problemset/problem/1669/F)
+[Maximum Subarray Sum](https://cses.fi/problemset/task/1643)
+[Duyên Hải 2021 - Khối 10 - Bài 1 - Bài dễ](https://oj.vnoi.info/problem/dhbb21_easytask)
+[Dãy 2-Sum](https://oj.vnoi.info/problem/twosum)
