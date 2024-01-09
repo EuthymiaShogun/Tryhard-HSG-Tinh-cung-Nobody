@@ -32,7 +32,7 @@ Những OJ để làm bài tập, contest:
 ## Giáo án
 ### Chương 0: Độ phức tạp tính toán:
 #### Link tài liệu: 
-- [Độ phức tạp của thuật toán (Big O)](https://docs.google.com/presentation/d/1g1rdxPHDZbKqr5vXioVNITwALB3Em0VTEEhTqYV2Vfs/edit?usp=sharing)
+- [Độ phức tạp tính toán (Big O)](https://docs.google.com/presentation/d/1g1rdxPHDZbKqr5vXioVNITwALB3Em0VTEEhTqYV2Vfs/edit?usp=sharing)
  
 ### Chương 1: Số nguyên tố:
 #### Link tài liệu: 
