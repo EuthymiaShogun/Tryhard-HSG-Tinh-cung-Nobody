@@ -2,7 +2,7 @@
 Đi từ những kiến thức nền tảng quan trọng nhất cho đến nâng cao, tập trung hướng đến kì thi HSG Tỉnh. 
 
 ## Lịch học hàng tuần 
-- Tuần 2 buổi, mỗi buổi từ 1h30 - 2h.
+- Tuần 2 buổi, mỗi buổi kéo dài từ 1 tiếng 30' đến 2 tiếng.
 - Kiến thức mỗi buổi sẽ do anh chọn hoặc tuỳ chọn theo nhu cầu số đông của các em nếu anh thấy hợp lí. 
 - Khi học một thuật toán/ý tưởng mới thì buổi đầu sẽ nói qua lý thuyết, những buổi sau sẽ giải những bài tập liên quan đến nó.  
 - Hình thức: online qua Google Meet. 
