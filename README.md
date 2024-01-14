@@ -112,6 +112,7 @@ Những OJ để làm bài tập, contest:
 ### Chương 5: Đồng dư, tính a<sup>b</sup>
 #### Link tài liệu: 
 - [Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html)
+- [Tính lũy thừa nhanh bằng bình phương và nhân](https://vietcodes.github.io/algo/squaring-exponentiation)
 - [Nghịch đảo modulo](https://vnoi.info/wiki/algo/math/modular-inverse.md)
 - [Tính a<sup>b</sup>](https://ideone.com/rLudfM)
 - [Đồng dư](https://ideone.com/qWdqlY)
