@@ -108,3 +108,19 @@ Những OJ để làm bài tập, contest:
 [Maximum Subarray Sum](https://cses.fi/problemset/task/1643) | Bài toán đoạn con có tổng lớn nhất| [link](https://cses.fi/paste/7895727ce6f95b647c0701/)
 [Duyên Hải 2021 - Khối 10 - Bài 1 - Bài dễ](https://oj.vnoi.info/problem/dhbb21_easytask)
 [Dãy 2-Sum](https://oj.vnoi.info/problem/twosum) | | [link](https://ideone.com/aJMsPs)
+
+### Chương 5: Đồng dư, tính $a^{b}$
+#### Link tài liệu: 
+- [Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html)
+- [Nghịch đảo modulo](https://vnoi.info/wiki/algo/math/modular-inverse.md)
+- [Tính $a^{b}$](https://ideone.com/rLudfM)
+- [Đồng dư](https://ideone.com/qWdqlY)
+
+#### Link bài tập: 
+|Problems |Tags |Editorial
+|--|--|:--:
+[Module 1](https://lqdoj.edu.vn/problem/mod1)
+[Module 2](https://lqdoj.edu.vn/problem/mod2)
+[Module 4](https://lqdoj.edu.vn/problem/mod4)
+[Exponentiation](https://cses.fi/problemset/task/1095)
+[Subarray Divisibility](https://cses.fi/problemset/task/1662)
