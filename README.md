@@ -109,11 +109,11 @@ Những OJ để làm bài tập, contest:
 [Duyên Hải 2021 - Khối 10 - Bài 1 - Bài dễ](https://oj.vnoi.info/problem/dhbb21_easytask)
 [Dãy 2-Sum](https://oj.vnoi.info/problem/twosum) | | [link](https://ideone.com/aJMsPs)
 
-### Chương 5: Đồng dư, tính $a^{b}$
+### Chương 5: Đồng dư, tính a<sup>b</sup>
 #### Link tài liệu: 
 - [Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html)
 - [Nghịch đảo modulo](https://vnoi.info/wiki/algo/math/modular-inverse.md)
-- [Tính $a^{b}$](https://ideone.com/rLudfM)
+- [Tính a<sup>b</sup>](https://ideone.com/rLudfM)
 - [Đồng dư](https://ideone.com/qWdqlY)
 
 #### Link bài tập: 
