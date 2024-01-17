@@ -125,3 +125,4 @@ Những OJ để làm bài tập, contest:
 [Module 4](https://lqdoj.edu.vn/problem/mod4)
 [Exponentiation](https://cses.fi/problemset/task/1095)
 [Subarray Divisibility](https://cses.fi/problemset/task/1662)
+[Bit Strings](https://cses.fi/problemset/task/1617)
