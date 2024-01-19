@@ -108,7 +108,7 @@ Những OJ để làm bài tập, contest:
 [C. Registration system](https://codeforces.com/problemset/problem/4/C)| | [link](https://codeforces.com/contest/4/submission/237862811)
 [B. Queries about less or equal elements](https://codeforces.com/problemset/problem/600/B)| | [link](https://codeforces.com/contest/600/submission/242454361)
 [C. Number of Pairs](https://codeforces.com/problemset/problem/1538/C)| | [link](https://codeforces.com/contest/1538/submission/242456350)
-[D. Pair of Topics](https://codeforces.com/problemset/problem/1324/D) | | [link](https://ideone.com/k02r0O)
+[D. Pair of Topics](https://codeforces.com/problemset/problem/1324/D) | | [link](https://ideone.com/ehre37)
 [C. Good Subarrays](https://codeforces.com/problemset/problem/1398/C)| | [link](https://codeforces.com/contest/1398/submission/242461474)
 [B. Sereja and Suffixes](https://codeforces.com/problemset/problem/368/B)| | [link](https://codeforces.com/contest/368/submission/242462196)
 
