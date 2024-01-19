@@ -102,15 +102,15 @@ Những OJ để làm bài tập, contest:
 #### Link bài tập:
 |Problems |Tags |Editorial | 
 |--|--|:--:
-[Distinct Numbers](https://cses.fi/problemset/task/1621)
-[Subarray Sum II](https://cses.fi/problemset/task/1661)
+[Distinct Numbers](https://cses.fi/problemset/task/1621)| | [link](https://cses.fi/paste/31e85f1592f49d697d8dd3/)
+[Subarray Sum II](https://cses.fi/problemset/task/1661)| | [link](https://cses.fi/paste/29d15be75c988e607d8ef4/)
 [Concert Tickets](https://cses.fi/problemset/task/1091) | | [link](https://ideone.com/3wzdle)
-[C. Registration system](https://codeforces.com/problemset/problem/4/C)
-[B. Queries about less or equal elements](https://codeforces.com/problemset/problem/600/B)
-[C. Number of Pairs](https://codeforces.com/problemset/problem/1538/C)
+[C. Registration system](https://codeforces.com/problemset/problem/4/C)| | [link](https://codeforces.com/contest/4/submission/237862811)
+[B. Queries about less or equal elements](https://codeforces.com/problemset/problem/600/B)| | [link](https://codeforces.com/contest/600/submission/242454361)
+[C. Number of Pairs](https://codeforces.com/problemset/problem/1538/C)| | [link](https://codeforces.com/contest/1538/submission/242456350)
 [D. Pair of Topics](https://codeforces.com/problemset/problem/1324/D) | | [link](https://ideone.com/k02r0O)
-[C. Good Subarrays](https://codeforces.com/problemset/problem/1398/C)
-[B. Sereja and Suffixes](https://codeforces.com/problemset/problem/368/B)
+[C. Good Subarrays](https://codeforces.com/problemset/problem/1398/C)| | [link](https://codeforces.com/contest/1398/submission/242461474)
+[B. Sereja and Suffixes](https://codeforces.com/problemset/problem/368/B)| | [link](https://codeforces.com/contest/368/submission/242462196)
 
 ### Chương 4: Tổng tiền tố:  
   #### Link tài liệu: 
@@ -119,9 +119,9 @@ Những OJ để làm bài tập, contest:
 |Problems |Tags |Editorial
 |--|--|:--:
 [Restaurant Customers](https://cses.fi/problemset/task/1619) | Bài toán 2| [link](https://cses.fi/paste/8147d1bfec6e3377237960/)
-[F. Eating Candies](https://codeforces.com/problemset/problem/1669/F)
+[F. Eating Candies](https://codeforces.com/problemset/problem/1669/F)| | [link](https://ideone.com/IpwdD4)
 [Maximum Subarray Sum](https://cses.fi/problemset/task/1643) | Bài toán đoạn con có tổng lớn nhất| [link](https://cses.fi/paste/7895727ce6f95b647c0701/)
-[Duyên Hải 2021 - Khối 10 - Bài 1 - Bài dễ](https://oj.vnoi.info/problem/dhbb21_easytask)
+[Duyên Hải 2021 - Khối 10 - Bài 1 - Bài dễ](https://oj.vnoi.info/problem/dhbb21_easytask)| | [link](https://ideone.com/DewSp4)
 [Dãy 2-Sum](https://oj.vnoi.info/problem/twosum) | | [link](https://ideone.com/aJMsPs)
 
 ### Chương 5: Đồng dư, tính a<sup>b</sup>
