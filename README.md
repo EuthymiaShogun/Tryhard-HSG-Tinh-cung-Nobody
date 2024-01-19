@@ -135,9 +135,11 @@ Những OJ để làm bài tập, contest:
 #### Link bài tập: 
 |Problems |Tags |Editorial
 |--|--|:--:
-[Module 1](https://lqdoj.edu.vn/problem/mod1)
-[Module 2](https://lqdoj.edu.vn/problem/mod2)
-[Module 4](https://lqdoj.edu.vn/problem/mod4)
+[Module 1](https://lqdoj.edu.vn/problem/mod1)| | [link](https://ideone.com/ewOJmc)
+[Module 2](https://lqdoj.edu.vn/problem/mod2)| | [link](https://ideone.com/yb5lH0)
+[Module 4](https://lqdoj.edu.vn/problem/mod4)| | [link](https://ideone.com/DG6DBT)
 [Exponentiation](https://cses.fi/problemset/task/1095)
-[Subarray Divisibility](https://cses.fi/problemset/task/1662)
-[Bit Strings](https://cses.fi/problemset/task/1617)
+[Subarray Divsibility](https://cses.fi/problemset/task/1662)| | [link](https://ideone.com/IYgilf)
+[Bit Strings](https://cses.fi/problemset/task/1617)| | [link](https://ideone.com/7VsacC)
+
+### Chương 6: Đệ quy
