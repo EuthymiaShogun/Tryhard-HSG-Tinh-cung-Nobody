@@ -1,5 +1,20 @@
  # Giáo án Training HSG Tỉnh by Nobody
-Đi từ những kiến thức nền tảng quan trọng nhất cho đến nâng cao, tập trung hướng đến kì thi HSG Tỉnh. 
+Giáo án đi từ những kiến thức nền tảng quan trọng nhất cho đến nâng cao, tập trung hướng đến kì thi HSG Tỉnh. 
+
+## Dấu ấn cá nhân
+- Anh tên là Huỳnh Thiên An, anh trước đó học ITK19 NBK, anh cũng vừa mới ra trường thôi nên nếu gọi là cựu học sinh thì nghe hơi già :>, nói chung lứa anh thì cũng gần gũi với mấy đứa thôi à nên cứ thoải mái.
+- Giới thiệu sơ qua các thành tích nổi bật mà anh đã đạt được trong 3 năm cấp 3: 
+   - Lớp 10 
+      + Giải KK kỳ thi chọn đội tuyển tham dự kì thi HSG QG.
+      + HCV Olympic 30/4 khối lớp 10
+   - Lớp 11: 
+      + Giải Nhất kỳ thi chọn đội tuyển tham dự kì thi HSG QG.
+      + Giải KK kỳ thi HSG QG.  
+   - Lớp 12: 
+      - Giải Nhất kỳ thi chọn đội tuyển tham dự kì thi HSG QG. 
+      - Giải Ba kỳ thi HSG QG. 
+
+Còn hiện tại thì anh theo học lớp Cử nhân tài năng của trường Đại học Khoa học Tự nhiên, ĐHQG TPHCM.
 
 ## Lịch học hàng tuần 
 - Tuần 2 buổi, mỗi buổi kéo dài từ 1 tiếng 30' đến 2 tiếng.
