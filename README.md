@@ -145,7 +145,7 @@ Những OJ để làm bài tập, contest:
 ### Chương 6: Đệ quy
 #### Link tài liệu: 
 - DFS
-- Youtube 
+- [Youtube](https://www.youtube.com/playlist?list=PLTL0VBc1QhiyHkIRjrAjZhRHtLJiryT1q)
 
 #### Link bài tập: 
 |Problems |Tags |Editorial
