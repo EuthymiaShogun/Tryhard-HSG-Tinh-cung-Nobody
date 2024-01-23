@@ -143,3 +143,16 @@ Những OJ để làm bài tập, contest:
 [Bit Strings](https://cses.fi/problemset/task/1617)| | [link](https://ideone.com/7VsacC)
 
 ### Chương 6: Đệ quy
+#### Link tài liệu: 
+- DFS
+- Youtube 
+
+#### Link bài tập: 
+|Problems |Tags |Editorial
+|--|--|:--:
+[Duyên Hải 2021 - Khối 10 - Bài 3 - Mua hàng](https://oj.vnoi.info/problem/dhbb21_buying) (subtask 1)| | [link](https://ideone.com/Q3JEa1)
+[VOI 22 Bài 1 - Chọn cặp](https://oj.vnoi.info/problem/voi22_pair) (subtask 1)| | [link](https://ideone.com/49NgRe)
+[Chessboard and Queens](https://cses.fi/problemset/task/1624)
+[Grid Paths](https://cses.fi/problemset/task/1625)
+[Educational Backtracking: Biểu thức](https://oj.vnoi.info/problem/backtrack_e)
+
