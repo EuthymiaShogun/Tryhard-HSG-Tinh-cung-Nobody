@@ -152,7 +152,7 @@ Những OJ để làm bài tập, contest:
 |--|--|:--:
 [Duyên Hải 2021 - Khối 10 - Bài 3 - Mua hàng](https://oj.vnoi.info/problem/dhbb21_buying) (subtask 1)| | [link](https://ideone.com/Q3JEa1)
 [VOI 22 Bài 1 - Chọn cặp](https://oj.vnoi.info/problem/voi22_pair) (subtask 1)| | [link](https://ideone.com/49NgRe)
-[Chessboard and Queens](https://cses.fi/problemset/task/1624)
+[Chessboard and Queens](https://cses.fi/problemset/task/1624)| | [link](https://ideone.com/G3zzM4)
 [Grid Paths](https://cses.fi/problemset/task/1625)
-[Educational Backtracking: Biểu thức](https://oj.vnoi.info/problem/backtrack_e)
+[Educational Backtracking: Biểu thức](https://oj.vnoi.info/problem/backtrack_e)| | [link](https://ideone.com/r2c4u8)
 
