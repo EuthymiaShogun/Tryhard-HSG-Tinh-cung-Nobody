@@ -157,4 +157,4 @@ Những OJ để làm bài tập, contest:
 [Educational Backtracking: Biểu thức](https://oj.vnoi.info/problem/backtrack_e)| | [link](https://ideone.com/r2c4u8)
 [A. LLPS](https://codeforces.com/contest/202/problem/A)
 [B. Preparing Olympiad](https://codeforces.com/contest/550/problem/B)
-[Binpacking](https://oj.vnoi.info/problem/binpack)
+[Binpacking](https://oj.vnoi.info/problem/binpack) (subtask 1)
