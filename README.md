@@ -158,3 +158,14 @@ Những OJ để làm bài tập, contest:
 [A. LLPS](https://codeforces.com/contest/202/problem/A)| | [link](https://ideone.com/I4f3fQ)
 [B. Preparing Olympiad](https://codeforces.com/contest/550/problem/B)| | [link](https://ideone.com/ESsanF)
 [Binpacking](https://oj.vnoi.info/problem/binpack) (subtask 1)| | [link](https://ideone.com/Uf3Dqs)
+
+
+### Chương 7: Bitmask - Thao tác bit
+#### Link tài liệu: 
+- [Phép toán bit](https://vnoi.info/wiki/algo/basic/bitwise-operators.md)
+-
+
+#### Link bài tập: 
+|Problems |Tags |Editorial
+|--|--|:--:
+
