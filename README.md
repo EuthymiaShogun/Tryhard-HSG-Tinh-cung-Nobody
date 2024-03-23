@@ -168,4 +168,4 @@ Những OJ để làm bài tập, contest:
 #### Link bài tập: 
 |Problems |Tags |Editorial
 |--|--|:--:
-[B. Preparing Olympiad](https://codeforces.com/contest/550/problem/B)| | 
+[B. Preparing Olympiad](https://codeforces.com/contest/550/problem/B)| | [link](https://ideone.com/WrIZUQ)
