@@ -161,11 +161,11 @@ Những OJ để làm bài tập, contest:
 
 
 ### Chương 7: Bitmask - Thao tác bit
-#### Link tài liệu: 
-- [Phép toán bit](https://vnoi.info/wiki/algo/basic/bitwise-operators.md)
--
+#### Link tài liệu:
+- [Bitmask - Thao tác bit](https://ideone.com/RZlxhU) 
+- [Phép toán bit](https://vnoi.info/wiki/algo/basic/bitwise-operators.md) (VNOI Wiki)
 
 #### Link bài tập: 
 |Problems |Tags |Editorial
 |--|--|:--:
-
+[B. Preparing Olympiad](https://codeforces.com/contest/550/problem/B)| | 
