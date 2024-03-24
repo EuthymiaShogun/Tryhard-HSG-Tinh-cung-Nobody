@@ -172,6 +172,7 @@ Những OJ để làm bài tập, contest:
 
 ### Chương 8: Tổ hợp
 #### Link tài liệu:
+- [Giới thiệu về tổ hợp](https://ideone.com/BXeOGe) (Nobody)
 - [Binomial Coefficients](https://cp-algorithms.com/combinatorics/binomial-coefficients.html) (cp-algorithms)
 - [Stars and bars](https://cp-algorithms.com/combinatorics/stars_and_bars.html) (cp-algorithms)
 - [The Inclusion-Exclusion Principle](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html) (cp-algorithms)
