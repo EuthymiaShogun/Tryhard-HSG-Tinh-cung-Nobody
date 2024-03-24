@@ -169,3 +169,17 @@ Những OJ để làm bài tập, contest:
 |Problems |Tags |Editorial
 |--|--|:--:
 [B. Preparing Olympiad](https://codeforces.com/contest/550/problem/B)| | [link](https://ideone.com/WrIZUQ)
+
+### Chương 8: Tổ hợp
+#### Link tài liệu:
+- [Binomial Coefficients](https://cp-algorithms.com/combinatorics/binomial-coefficients.html) (cp-algorithms)
+- [Stars and bars](https://cp-algorithms.com/combinatorics/stars_and_bars.html) (cp-algorithms)
+- [The Inclusion-Exclusion Principle](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html) (cp-algorithms)
+#### Link bài tập: 
+|Problems |Tags |Editorial
+|--|--|:--:
+[Binomial Coefficients](https://cses.fi/problemset/task/1079)| CSES |
+[Creating Strings II](https://cses.fi/problemset/task/1715)| CSES | 
+[Distributing Apples](https://cses.fi/problemset/task/1716)| CSES | 
+
+
