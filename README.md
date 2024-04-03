@@ -56,7 +56,7 @@ Những OJ để làm bài tập, contest:
 - [Số học 2 - Số nguyên tố, Sàng Eratosthenes](https://vnoi.info/wiki/translate/he/Number-Theory-2.md) (VNOI Wiki)
 #### Link bài tập:
 |Problems |Tags |Editorial
-|--|--|:--:
+|--|:--:|:--:
 [B. 250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | Sàng O(nlog(n))
 [[QNOI 2020] Ước tự nhiên](https://nbk.homes/problem/qn20natdiv) | Sàng O(nlog(n)) | [link](https://ideone.com/j32poW)
 [Số nguyên tố (OLP 10 - 2019)](https://lqdoj.edu.vn/problem/primecount) | Sàng trên đoạn | [link](https://ideone.com/Rgn0Vg)
@@ -78,7 +78,7 @@ Những OJ để làm bài tập, contest:
 - [Chương 2: Tìm kiếm nhị phân](https://docs.google.com/presentation/d/1HgMD-vobIakIukE8eL4ZRiE0yc-cClibuwoGscD5Ztc/edit?usp=sharing)
 #### Link bài tập:
 |Problems |Tags |Editorial
-|--|--|:--:
+|--|:--:|:--:
 [Mua bài](https://lqdoj.edu.vn/problem/buycard) | | [link](https://ideone.com/jRcRs7)
 [Giá trị trung bình](https://lqdoj.edu.vn/problem/gttb)
 [Chia năm nhiều lần](https://lqdoj.edu.vn/problem/five)
@@ -101,7 +101,7 @@ Những OJ để làm bài tập, contest:
 - [map](https://ideone.com/zjRLau)
 #### Link bài tập:
 |Problems |Tags |Editorial | 
-|--|--|:--:
+|--|:--:|:--:
 [Distinct Numbers](https://cses.fi/problemset/task/1621)| | [link](https://cses.fi/paste/31e85f1592f49d697d8dd3/)
 [Subarray Sum II](https://cses.fi/problemset/task/1661)| | [link](https://cses.fi/paste/29d15be75c988e607d8ef4/)
 [Concert Tickets](https://cses.fi/problemset/task/1091) | | [link](https://ideone.com/3wzdle)
@@ -117,7 +117,7 @@ Những OJ để làm bài tập, contest:
 - [2 bài toán về tổng tiền tố](https://ideone.com/emriDj)
 #### Link bài tập:
 |Problems |Tags |Editorial
-|--|--|:--:
+|--|:--:|:--:
 [Restaurant Customers](https://cses.fi/problemset/task/1619) | Bài toán 2| [link](https://cses.fi/paste/8147d1bfec6e3377237960/)
 [F. Eating Candies](https://codeforces.com/problemset/problem/1669/F)| | [link](https://ideone.com/IpwdD4)
 [Maximum Subarray Sum](https://cses.fi/problemset/task/1643) | Bài toán đoạn con có tổng lớn nhất| [link](https://cses.fi/paste/7895727ce6f95b647c0701/)
@@ -134,7 +134,7 @@ Những OJ để làm bài tập, contest:
 
 #### Link bài tập: 
 |Problems |Tags |Editorial
-|--|--|:--:
+|--|:--:|:--:
 [Module 1](https://lqdoj.edu.vn/problem/mod1)| | [link](https://ideone.com/ewOJmc)
 [Module 2](https://lqdoj.edu.vn/problem/mod2)| | [link](https://ideone.com/yb5lH0)
 [Module 4](https://lqdoj.edu.vn/problem/mod4)| | [link](https://ideone.com/DG6DBT)
@@ -149,7 +149,7 @@ Những OJ để làm bài tập, contest:
 
 #### Link bài tập: 
 |Problems |Tags |Editorial
-|--|--|:--:
+|--|:--:|:--:
 [Duyên Hải 2021 - Khối 10 - Bài 3 - Mua hàng](https://oj.vnoi.info/problem/dhbb21_buying) (subtask 1)| | [link](https://ideone.com/Q3JEa1)
 [VOI 22 Bài 1 - Chọn cặp](https://oj.vnoi.info/problem/voi22_pair) (subtask 1)| | [link](https://ideone.com/49NgRe)
 [Chessboard and Queens](https://cses.fi/problemset/task/1624)| | [link](https://ideone.com/G3zzM4)
@@ -167,7 +167,7 @@ Những OJ để làm bài tập, contest:
 
 #### Link bài tập: 
 |Problems |Tags |Editorial
-|--|--|:--:
+|--|:--:|:--:
 [B. Preparing Olympiad](https://codeforces.com/contest/550/problem/B)| | [link](https://ideone.com/WrIZUQ)
 
 ### Chương 8: Tổ hợp
@@ -178,7 +178,7 @@ Những OJ để làm bài tập, contest:
 - [The Inclusion-Exclusion Principle](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html) (cp-algorithms)
 #### Link bài tập: 
 |Problems |Tags |Editorial
-|--|--|:--:
+|--|:--:|:--:
 [Binomial Coefficients](https://cses.fi/problemset/task/1079)| CSES | [link](https://cses.fi/paste/9a4d5880ebccf0668756de/)
 [Creating Strings II](https://cses.fi/problemset/task/1715)| CSES | [link](https://cses.fi/paste/eff0c3342af04f93875886/) 
 [Distributing Apples](https://cses.fi/problemset/task/1716)| CSES | [link](https://cses.fi/paste/6b36f6e4ff4fedd38759e6/)
