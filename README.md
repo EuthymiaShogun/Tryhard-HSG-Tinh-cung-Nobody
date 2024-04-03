@@ -179,8 +179,10 @@ Những OJ để làm bài tập, contest:
 #### Link bài tập: 
 |Problems |Tags |Editorial
 |--|--|:--:
-[Binomial Coefficients](https://cses.fi/problemset/task/1079)| CSES |
-[Creating Strings II](https://cses.fi/problemset/task/1715)| CSES | 
-[Distributing Apples](https://cses.fi/problemset/task/1716)| CSES | 
-
-
+[Binomial Coefficients](https://cses.fi/problemset/task/1079)| CSES | [link](https://cses.fi/paste/9a4d5880ebccf0668756de/)
+[Creating Strings II](https://cses.fi/problemset/task/1715)| CSES | [link](https://cses.fi/paste/eff0c3342af04f93875886/) 
+[Distributing Apples](https://cses.fi/problemset/task/1716)| CSES | [link](https://cses.fi/paste/6b36f6e4ff4fedd38759e6/)
+[D - Blue and Red Balls](https://atcoder.jp/contests/abc132/tasks/abc132_d)| AtCoder | [link](https://atcoder.jp/contests/abc132/submissions/51993124)
+[D - Bouquet](https://atcoder.jp/contests/abc156/tasks/abc156_d)| AtCoder | [link](https://atcoder.jp/contests/abc156/submissions/51993998)
+[E - Max-Min Sums](https://atcoder.jp/contests/abc151/tasks/abc151_e)| AtCoder | 
+[D - Binomial Coefficients](https://atcoder.jp/contests/abc094/tasks/arc095_b)| AtCoder |
