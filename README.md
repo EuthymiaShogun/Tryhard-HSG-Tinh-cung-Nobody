@@ -14,7 +14,7 @@ Giáo án đi từ những kiến thức nền tảng quan trọng nhất cho đ
       - Giải Nhất kỳ thi chọn đội tuyển tham dự kì thi HSG QG. 
       - Giải Ba kỳ thi HSG QG. 
 
-Còn hiện tại thì anh theo học lớp Cử nhân tài năng của Khoa CNTT trường Đại học Khoa học Tự nhiên, ĐHQG TPHCM.
+Còn hiện tại thì anh đang theo học lớp Cử nhân tài năng (Khoá 23) của Khoa CNTT trường Đại học Khoa học Tự nhiên, ĐHQG TPHCM.
 
 ## Lịch học hàng tuần 
 - Tuần 2 buổi, mỗi buổi kéo dài từ 1 tiếng 30' đến 2 tiếng.
