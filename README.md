@@ -14,7 +14,7 @@ Giáo án đi từ những kiến thức nền tảng quan trọng nhất cho đ
       - Giải Nhất kỳ thi chọn đội tuyển tham dự kì thi HSG QG. 
       - Giải Ba kỳ thi HSG QG. 
 
-Còn hiện tại thì anh theo học lớp Cử nhân tài năng của trường Đại học Khoa học Tự nhiên, ĐHQG TPHCM.
+Còn hiện tại thì anh theo học lớp Cử nhân tài năng của Khoa CNTT trường Đại học Khoa học Tự nhiên, ĐHQG TPHCM.
 
 ## Lịch học hàng tuần 
 - Tuần 2 buổi, mỗi buổi kéo dài từ 1 tiếng 30' đến 2 tiếng.
@@ -34,12 +34,12 @@ Các trang web để học thuật toán:
 - [USACO Guide](https://usaco.guide/)
 
 Những OJ để làm bài tập, contest:
-- [VNOJ: VNOI Online Judge](https://oj.vnoi.info/) 
-- [LQDOJ](https://lqdoj.edu.vn/)
-- [NBKOJ](https://nbk.homes/)
 - [Codeforces](https://codeforces.com/)
 - [AtCoder](https://atcoder.jp/)
 - [CSES](https://cses.fi/problemset/)
+- [VNOJ: VNOI Online Judge](https://oj.vnoi.info/) 
+- [LQDOJ](https://lqdoj.edu.vn/)
+- [NBKOJ](https://nbk.homes/)
 - [SPOJ](https://www.spoj.com/)
 
  [Giới thiệu về hệ thống Codeforces](https://docs.google.com/presentation/d/17boJWUE4zULRQy9W6xupYA1WWTZI-IHHUEk4L9f2_J4/edit?usp=sharing)
@@ -138,7 +138,7 @@ Những OJ để làm bài tập, contest:
 [Module 1](https://lqdoj.edu.vn/problem/mod1)| | [link](https://ideone.com/ewOJmc)
 [Module 2](https://lqdoj.edu.vn/problem/mod2)| | [link](https://ideone.com/yb5lH0)
 [Module 4](https://lqdoj.edu.vn/problem/mod4)| | [link](https://ideone.com/DG6DBT)
-[Exponentiation](https://cses.fi/problemset/task/1095)
+[Exponentiation](https://cses.fi/problemset/task/1095)| | [link](https://cses.fi/paste/c3f778335e404bc4881157/)
 [Subarray Divsibility](https://cses.fi/problemset/task/1662)| | [link](https://ideone.com/IYgilf)
 [Bit Strings](https://cses.fi/problemset/task/1617)| | [link](https://ideone.com/7VsacC)
 
