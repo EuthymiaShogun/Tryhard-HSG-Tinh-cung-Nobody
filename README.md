@@ -45,11 +45,11 @@ Những OJ để làm bài tập, contest:
  [Giới thiệu về hệ thống Codeforces](https://docs.google.com/presentation/d/17boJWUE4zULRQy9W6xupYA1WWTZI-IHHUEk4L9f2_J4/edit?usp=sharing)
 
 ## Giáo án
-### Chương 0: Độ phức tạp tính toán:
+### Chương 0: Độ phức tạp tính toán
 #### Link tài liệu: 
 - [Độ phức tạp tính toán (Big O)](https://docs.google.com/presentation/d/1g1rdxPHDZbKqr5vXioVNITwALB3Em0VTEEhTqYV2Vfs/edit?usp=sharing)
  
-### Chương 1: Số nguyên tố:
+### Chương 1: Số nguyên tố
 #### Link tài liệu: 
 - [Sieve of Eratosthenes](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html) (cp-algorithms)
 - [Integer factorization](https://cp-algorithms.com/algebra/factorization.html) (cp-algorithms)
@@ -73,19 +73,18 @@ Những OJ để làm bài tập, contest:
 [B - Between a and b ...](https://atcoder.jp/contests/abc048/tasks/abc048_b)
 [E - Double Factorial](https://atcoder.jp/contests/abc148/tasks/abc148_e)
 
-  ### Chương 2: Tìm kiếm nhị phân:  
+  ### Chương 2: Tìm kiếm nhị phân (Binary Search) 
   #### Link tài liệu: 
 - [Chương 2: Tìm kiếm nhị phân](https://docs.google.com/presentation/d/1HgMD-vobIakIukE8eL4ZRiE0yc-cClibuwoGscD5Ztc/edit?usp=sharing)
 #### Link bài tập:
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Mua bài](https://lqdoj.edu.vn/problem/buycard) | | [link](https://ideone.com/jRcRs7)
-[Giá trị trung bình](https://lqdoj.edu.vn/problem/gttb)
-[Chia năm nhiều lần](https://lqdoj.edu.vn/problem/five)
-[Khẩu trang](https://lqdoj.edu.vn/problem/mask)
-[Không chia hết](https://lqdoj.edu.vn/problem/ndivi)
-[Số thứ n](https://lqdoj.edu.vn/problem/nth)
-[Factory Machines](https://cses.fi/problemset/task/1620)
+[Mua bài](https://lqdoj.edu.vn/problem/buycard) | LQDOJ | [link](https://ideone.com/jRcRs7)
+[Chia năm nhiều lần](https://lqdoj.edu.vn/problem/five)| LQDOJ | [link](https://ideone.com/5byC7i)
+[Khẩu trang](https://lqdoj.edu.vn/problem/mask)| LQDOJ | [link](https://ideone.com/Li886J)
+[Không chia hết](https://lqdoj.edu.vn/problem/ndivi)| LQDOJ | [link](https://ideone.com/xXnh5u)
+[Số thứ n](https://lqdoj.edu.vn/problem/nth)| LQDOJ | [link](https://ideone.com/r6dmiy)
+[Factory Machines](https://cses.fi/problemset/task/1620)| CSES | [link](https://cses.fi/paste/d8210791e898163c882565/)
 [Kiến xếp hàng](https://lqdoj.edu.vn/problem/antsort)
 [Chia kẹo 01](https://lqdoj.edu.vn/problem/candy01)
 [Leo thang](https://lqdoj.edu.vn/problem/23gl2b3)
@@ -94,7 +93,7 @@ Những OJ để làm bài tập, contest:
 [Multiplication Table](https://cses.fi/problemset/task/2422)
 [Array Division](https://cses.fi/problemset/task/1085)
 
- ### Chương 3: vector, set/multiset, map:  
+ ### Chương 3: vector, set/multiset, map 
   #### Link tài liệu: 
 - [vector](https://ideone.com/sYNyRU) 
 - [set/multiset](https://ideone.com/vuXH7Y)
@@ -112,7 +111,7 @@ Những OJ để làm bài tập, contest:
 [C. Good Subarrays](https://codeforces.com/problemset/problem/1398/C)| | [link](https://codeforces.com/contest/1398/submission/242461474)
 [B. Sereja and Suffixes](https://codeforces.com/problemset/problem/368/B)| | [link](https://codeforces.com/contest/368/submission/242462196)
 
-### Chương 4: Tổng tiền tố:  
+### Chương 4: Tổng tiền tố (Prefix Sum)
   #### Link tài liệu: 
 - [2 bài toán về tổng tiền tố](https://ideone.com/emriDj)
 #### Link bài tập:
@@ -142,7 +141,7 @@ Những OJ để làm bài tập, contest:
 [Subarray Divsibility](https://cses.fi/problemset/task/1662)| | [link](https://ideone.com/IYgilf)
 [Bit Strings](https://cses.fi/problemset/task/1617)| | [link](https://ideone.com/7VsacC)
 
-### Chương 6: Đệ quy
+### Chương 6: Đệ quy (Backtracking)
 #### Link tài liệu: 
 - DFS
 - [Youtube](https://www.youtube.com/playlist?list=PLTL0VBc1QhiyHkIRjrAjZhRHtLJiryT1q)
@@ -170,7 +169,7 @@ Những OJ để làm bài tập, contest:
 |--|:--:|:--:
 [B. Preparing Olympiad](https://codeforces.com/contest/550/problem/B)| | [link](https://ideone.com/WrIZUQ)
 
-### Chương 8: Tổ hợp
+### Chương 8: Tổ hợp (Combinatorics)
 #### Link tài liệu:
 - [Giới thiệu về tổ hợp](https://ideone.com/BXeOGe) (Nobody)
 - [Binomial Coefficients](https://cp-algorithms.com/combinatorics/binomial-coefficients.html) (cp-algorithms)
@@ -184,5 +183,13 @@ Những OJ để làm bài tập, contest:
 [Distributing Apples](https://cses.fi/problemset/task/1716)| CSES | [link](https://cses.fi/paste/6b36f6e4ff4fedd38759e6/)
 [D - Blue and Red Balls](https://atcoder.jp/contests/abc132/tasks/abc132_d)| AtCoder | [link](https://atcoder.jp/contests/abc132/submissions/51993124)
 [D - Bouquet](https://atcoder.jp/contests/abc156/tasks/abc156_d)| AtCoder | [link](https://atcoder.jp/contests/abc156/submissions/51993998)
+[D - Binomial Coefficients](https://atcoder.jp/contests/abc094/tasks/arc095_b)| AtCoder | [link](https://atcoder.jp/contests/abc094/submissions/52146163)
 [E - Max-Min Sums](https://atcoder.jp/contests/abc151/tasks/abc151_e)| AtCoder | 
-[D - Binomial Coefficients](https://atcoder.jp/contests/abc094/tasks/arc095_b)| AtCoder |
+
+### Chương 9: Quy hoạch động (DP)
+#### Link tài liệu:
+
+#### Link bài tập: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+
