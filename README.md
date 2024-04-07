@@ -113,7 +113,7 @@ Những OJ để làm bài tập, contest:
 
 ### Chương 4: Tổng tiền tố (Prefix Sum)
   #### Link tài liệu: 
-- [2 bài toán về tổng tiền tố](https://ideone.com/emriDj)
+- [2 bài toán về tổng tiền tố](https://ideone.com/emriDj) (Nobody)
 #### Link bài tập:
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -125,11 +125,11 @@ Những OJ để làm bài tập, contest:
 
 ### Chương 5: Đồng dư, tính a<sup>b</sup>
 #### Link tài liệu: 
-- [Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html)
-- [Tính lũy thừa nhanh bằng bình phương và nhân](https://vietcodes.github.io/algo/squaring-exponentiation)
-- [Nghịch đảo modulo](https://vnoi.info/wiki/algo/math/modular-inverse.md)
-- [Tính a<sup>b</sup>](https://ideone.com/rLudfM)
-- [Đồng dư](https://ideone.com/qWdqlY)
+- [Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html) (cp-algorithms)
+- [Tính lũy thừa nhanh bằng bình phương và nhân](https://vietcodes.github.io/algo/squaring-exponentiation) (vietcodes)
+- [Nghịch đảo modulo](https://vnoi.info/wiki/algo/math/modular-inverse.md) (VNOI Wiki)
+- [Tính a<sup>b</sup>](https://ideone.com/rLudfM) (Nobody)
+- [Đồng dư](https://ideone.com/qWdqlY) (Nobody)
 
 #### Link bài tập: 
 |Problems |Tags |Editorial
@@ -158,12 +158,11 @@ Những OJ để làm bài tập, contest:
 [B. Preparing Olympiad](https://codeforces.com/contest/550/problem/B)| | [link](https://ideone.com/ESsanF)
 [Binpacking](https://oj.vnoi.info/problem/binpack) (subtask 1)| | [link](https://ideone.com/Uf3Dqs)
 
-
 ### Chương 7: Bitmask - Thao tác bit
 #### Link tài liệu:
-- [Bitmask - Thao tác bit](https://ideone.com/RZlxhU) 
+- [Bitmask - Thao tác bit](https://ideone.com/RZlxhU) (Nobody) 
 - [Phép toán bit](https://vnoi.info/wiki/algo/basic/bitwise-operators.md) (VNOI Wiki)
-
+- [Youtube](https://youtube.com/playlist?list=PLTL0VBc1QhiwbdZsp1IjRxHYvuaocbXo6&si=x4nVWy-8JpBVLMOo)
 #### Link bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -172,6 +171,9 @@ Những OJ để làm bài tập, contest:
 ### Chương 8: Tổ hợp (Combinatorics)
 #### Link tài liệu:
 - [Giới thiệu về tổ hợp](https://ideone.com/BXeOGe) (Nobody)
+- [Cách tính tổ hợp dùng mảng fact[], inv_fact[]](https://ideone.com/sEPq61) (Nobody)
+- [Cách tính tổ hợp trong O(k)](https://ideone.com/N8U311) (Nobody)
+- [Cách tính tổ hợp sử dụng tam giác Pascal](https://ideone.com/ZKeXJG) (Nobody)
 - [Binomial Coefficients](https://cp-algorithms.com/combinatorics/binomial-coefficients.html) (cp-algorithms)
 - [Stars and bars](https://cp-algorithms.com/combinatorics/stars_and_bars.html) (cp-algorithms)
 - [The Inclusion-Exclusion Principle](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html) (cp-algorithms)
@@ -190,7 +192,7 @@ Những OJ để làm bài tập, contest:
 
 ### Chương 9: Quy hoạch động (DP)
 #### Link tài liệu:
-   
+
 #### Link bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
