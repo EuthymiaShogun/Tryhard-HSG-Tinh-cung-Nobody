@@ -175,6 +175,8 @@ Những OJ để làm bài tập, contest:
 - [Binomial Coefficients](https://cp-algorithms.com/combinatorics/binomial-coefficients.html) (cp-algorithms)
 - [Stars and bars](https://cp-algorithms.com/combinatorics/stars_and_bars.html) (cp-algorithms)
 - [The Inclusion-Exclusion Principle](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html) (cp-algorithms)
+- [Youtube](https://youtube.com/playlist?list=PLTL0VBc1QhiybIWxjUYiy68vehUGfdIdR&si=FzobuUoHtTK_ZOkq)
+
 #### Link bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -184,7 +186,7 @@ Những OJ để làm bài tập, contest:
 [D - Blue and Red Balls](https://atcoder.jp/contests/abc132/tasks/abc132_d)| AtCoder | [link](https://atcoder.jp/contests/abc132/submissions/51993124)
 [D - Bouquet](https://atcoder.jp/contests/abc156/tasks/abc156_d)| AtCoder | [link](https://atcoder.jp/contests/abc156/submissions/51993998)
 [D - Binomial Coefficients](https://atcoder.jp/contests/abc094/tasks/arc095_b)| AtCoder | [link](https://atcoder.jp/contests/abc094/submissions/52146163)
-[E - Max-Min Sums](https://atcoder.jp/contests/abc151/tasks/abc151_e)| AtCoder | 
+[E - Max-Min Sums](https://atcoder.jp/contests/abc151/tasks/abc151_e)| AtCoder | [link](https://atcoder.jp/contests/abc151/submissions/52157137)
 
 ### Chương 9: Quy hoạch động (DP)
 #### Link tài liệu:
@@ -192,4 +194,18 @@ Những OJ để làm bài tập, contest:
 #### Link bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
+[AtCoder Educational DP Contest](https://atcoder.jp/contests/dp/tasks)| | 
+[Dice Combinations](https://cses.fi/problemset/task/1633)| |
+[Minimizing Coins](https://cses.fi/problemset/task/1634)| | 
+[Coin Combinations I](https://cses.fi/problemset/task/1635)| | 
+[Coin Combinations II](https://cses.fi/problemset/task/1636)| |
+[Removing Digits](https://cses.fi/problemset/task/1637)| |
+[Grid Paths](https://cses.fi/problemset/task/1638)| |
+[Book Shop](https://cses.fi/problemset/task/1158)| | 
+[Array Description](https://cses.fi/problemset/task/1746)| |
+[Edit Distance](https://cses.fi/problemset/task/1639)| |
+[Rectangle Cutting](https://cses.fi/problemset/task/1744)| |
+[Money Sums](https://cses.fi/problemset/task/1745)| |
+[Dãy con tăng dài nhất (bản dễ)](https://oj.vnoi.info/problem/liq)
+[Chuỗi đối xứng](https://oj.vnoi.info/problem/nkpalin)
 
