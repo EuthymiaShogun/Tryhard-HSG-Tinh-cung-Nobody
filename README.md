@@ -190,12 +190,15 @@ Những OJ để làm bài tập, contest:
 
 ### Chương 9: Quy hoạch động (DP)
 #### Link tài liệu:
-
+   
 #### Link bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[AtCoder Educational DP Contest](https://atcoder.jp/contests/dp/tasks)| | 
-[Dice Combinations](https://cses.fi/problemset/task/1633)| |
+[Dãy con tăng dài nhất (bản dễ)](https://oj.vnoi.info/problem/liq)| VNOJ | 
+[Chuỗi đối xứng](https://oj.vnoi.info/problem/nkpalin)| VNOJ |
+[Xếp hàng mua vé](https://oj.vnoi.info/problem/nktick)| VNOJ | 
+[Đường đi có tổng lớn nhất](https://oj.vnoi.info/problem/qbmax) | VNOJ |
+[Dice Combinations](https://cses.fi/problemset/task/1633)| CSES|
 [Minimizing Coins](https://cses.fi/problemset/task/1634)| | 
 [Coin Combinations I](https://cses.fi/problemset/task/1635)| | 
 [Coin Combinations II](https://cses.fi/problemset/task/1636)| |
@@ -203,9 +206,7 @@ Những OJ để làm bài tập, contest:
 [Grid Paths](https://cses.fi/problemset/task/1638)| |
 [Book Shop](https://cses.fi/problemset/task/1158)| | 
 [Array Description](https://cses.fi/problemset/task/1746)| |
-[Edit Distance](https://cses.fi/problemset/task/1639)| |
-[Rectangle Cutting](https://cses.fi/problemset/task/1744)| |
-[Money Sums](https://cses.fi/problemset/task/1745)| |
-[Dãy con tăng dài nhất (bản dễ)](https://oj.vnoi.info/problem/liq)
-[Chuỗi đối xứng](https://oj.vnoi.info/problem/nkpalin)
-
+[Edit Distance](https://cses.fi/problemset/task/1639)|  |
+[Rectangle Cutting](https://cses.fi/problemset/task/1744)|  |
+[Money Sums](https://cses.fi/problemset/task/1745)|  |
+[AtCoder Educational DP Contest](https://atcoder.jp/contests/dp/tasks)| AtCoder | 
