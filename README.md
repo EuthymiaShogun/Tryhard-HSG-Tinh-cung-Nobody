@@ -192,23 +192,48 @@ Những OJ để làm bài tập, contest:
 
 ### Chương 9: Quy hoạch động (DP)
 #### Link tài liệu:
+- [Youtube](https://www.youtube.com/watch?v=C3hQCOUibKU)
 
 #### Link bài tập: 
+#### VNOJ
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Dãy con tăng dài nhất (bản dễ)](https://oj.vnoi.info/problem/liq)| VNOJ | 
-[Chuỗi đối xứng](https://oj.vnoi.info/problem/nkpalin)| VNOJ |
-[Xếp hàng mua vé](https://oj.vnoi.info/problem/nktick)| VNOJ | 
-[Đường đi có tổng lớn nhất](https://oj.vnoi.info/problem/qbmax) | VNOJ |
-[Dice Combinations](https://cses.fi/problemset/task/1633)| CSES|
-[Minimizing Coins](https://cses.fi/problemset/task/1634)| | 
-[Coin Combinations I](https://cses.fi/problemset/task/1635)| | 
-[Coin Combinations II](https://cses.fi/problemset/task/1636)| |
+[Dãy con tăng dài nhất (bản dễ)](https://oj.vnoi.info/problem/liq)| LIS | [link](https://ideone.com/nY88Fc)
+[Chuỗi đối xứng](https://oj.vnoi.info/problem/nkpalin)| Palindrome | [link](https://ideone.com/ijNgb0) (truy vết sẽ được học sau)
+[Xếp hàng mua vé](https://oj.vnoi.info/problem/nktick)| | [link](https://ideone.com/5hHZy4)
+[Đường đi có tổng lớn nhất](https://oj.vnoi.info/problem/qbmax) | | [link](https://ideone.com/VJy6g8)
+
+#### CSES 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Coin Combinations I](https://cses.fi/problemset/task/1635)| DP Knapsack| 
+[Coin Combinations II](https://cses.fi/problemset/task/1636)|DP Knapsack|
 [Removing Digits](https://cses.fi/problemset/task/1637)| |
-[Grid Paths](https://cses.fi/problemset/task/1638)| |
-[Book Shop](https://cses.fi/problemset/task/1158)| | 
+[Grid Paths](https://cses.fi/problemset/task/1638)||
 [Array Description](https://cses.fi/problemset/task/1746)| |
-[Edit Distance](https://cses.fi/problemset/task/1639)|  |
-[Rectangle Cutting](https://cses.fi/problemset/task/1744)|  |
-[Money Sums](https://cses.fi/problemset/task/1745)|  |
-[AtCoder Educational DP Contest](https://atcoder.jp/contests/dp/tasks)| AtCoder | 
+[Edit Distance](https://cses.fi/problemset/task/1639)| |
+[Rectangle Cutting](https://cses.fi/problemset/task/1744)| |
+
+#### AtCoder
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[B - Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b)| | 
+[C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c)| | 
+[D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)| DP Knapsack|
+[E - Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e)| DP Knapsack|
+[F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f)| LCS |
+[M - Candies](https://atcoder.jp/contests/dp/tasks/dp_m)| |
+[C - chokudai](https://atcoder.jp/contests/abc211/tasks/abc211_c)| |
+[D - FG operation](https://atcoder.jp/contests/abc220/tasks/abc220_d)| |
+[D - Count Bracket Sequences](https://atcoder.jp/contests/abc312/tasks/abc312_d)| Dãy ngoặc đúng |
+[D - String Bags](https://atcoder.jp/contests/abc344/tasks/abc344_d)| | 
+[D - Max Multiple](https://atcoder.jp/contests/abc281/tasks/abc281_d)| | 
+[D - I Hate Non-integer Number](https://atcoder.jp/contests/abc262/tasks/abc262_d)| |
+[E - Queen on Grid](https://atcoder.jp/contests/abc183/tasks/abc183_e)
+
+#### HSG Tỉnh - Olympic Khu vực
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[[QNOI 2021] Xâu luân phiên](https://nbk.homes/problem/qn21altstr)| |
+[Olympic 30/4 2018 - Khối 10 - Bài 2 - Chia đất](https://oj.vnoi.info/problem/olp304_18_chiadat)| |
+[Olympic 30/4 2019 - Khối 10 - Bài 3 - Kinh nghiệm](https://lqdoj.edu.vn/problem/twopaths)| |
