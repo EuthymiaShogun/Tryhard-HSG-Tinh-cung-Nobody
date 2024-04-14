@@ -204,11 +204,11 @@ Những OJ để làm bài tập, contest:
 |--|:--:|:--:
 [Coin Combinations I](https://cses.fi/problemset/task/1635)| DP Knapsack| 
 [Coin Combinations II](https://cses.fi/problemset/task/1636)|DP Knapsack|
-[Removing Digits](https://cses.fi/problemset/task/1637)| |
-[Grid Paths](https://cses.fi/problemset/task/1638)||
+[Removing Digits](https://cses.fi/problemset/task/1637)| | [link](https://cses.fi/paste/bfa69186a1a66eb1897392/)
+[Grid Paths](https://cses.fi/problemset/task/1638)|| [link](https://cses.fi/paste/7998916af42956188973b6/)
 [Array Description](https://cses.fi/problemset/task/1746)| |
 [Edit Distance](https://cses.fi/problemset/task/1639)| |
-[Rectangle Cutting](https://cses.fi/problemset/task/1744)| |
+[Rectangle Cutting](https://cses.fi/problemset/task/1744)| | [link](https://cses.fi/paste/b1cad99348e945e18973dd/)
 
 #### AtCoder
 |Problems |Tags |Editorial
