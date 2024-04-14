@@ -217,7 +217,7 @@ Những OJ để làm bài tập, contest:
 [C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c)| | 
 [D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)| DP Knapsack|
 [E - Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e)| DP Knapsack|
-[F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f)| LCS |
+[F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f)| LCS | [link](https://ideone.com/Wg5aup) (truy vết sẽ được học sau)
 [M - Candies](https://atcoder.jp/contests/dp/tasks/dp_m)| |
 [C - chokudai](https://atcoder.jp/contests/abc211/tasks/abc211_c)| |
 [D - FG operation](https://atcoder.jp/contests/abc220/tasks/abc220_d)| |
