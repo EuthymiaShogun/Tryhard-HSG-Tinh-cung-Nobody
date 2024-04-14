@@ -144,7 +144,6 @@ Những OJ để làm bài tập, contest:
 ### Chương 6: Đệ quy (Backtracking)
 #### Link tài liệu: 
 - DFS
-- [Youtube](https://www.youtube.com/playlist?list=PLTL0VBc1QhiyHkIRjrAjZhRHtLJiryT1q)
 
 #### Link bài tập: 
 |Problems |Tags |Editorial
@@ -162,7 +161,6 @@ Những OJ để làm bài tập, contest:
 #### Link tài liệu:
 - [Bitmask - Thao tác bit](https://ideone.com/RZlxhU) (Nobody) 
 - [Phép toán bit](https://vnoi.info/wiki/algo/basic/bitwise-operators.md) (VNOI Wiki)
-- [Youtube](https://youtube.com/playlist?list=PLTL0VBc1QhiwbdZsp1IjRxHYvuaocbXo6&si=x4nVWy-8JpBVLMOo)
 #### Link bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -177,7 +175,6 @@ Những OJ để làm bài tập, contest:
 - [Binomial Coefficients](https://cp-algorithms.com/combinatorics/binomial-coefficients.html) (cp-algorithms)
 - [Stars and bars](https://cp-algorithms.com/combinatorics/stars_and_bars.html) (cp-algorithms)
 - [The Inclusion-Exclusion Principle](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html) (cp-algorithms)
-- [Youtube](https://youtube.com/playlist?list=PLTL0VBc1QhiybIWxjUYiy68vehUGfdIdR&si=FzobuUoHtTK_ZOkq)
 
 #### Link bài tập: 
 |Problems |Tags |Editorial
@@ -192,7 +189,6 @@ Những OJ để làm bài tập, contest:
 
 ### Chương 9: Quy hoạch động (DP)
 #### Link tài liệu:
-- [Youtube](https://www.youtube.com/watch?v=C3hQCOUibKU)
 
 #### Link bài tập: 
 #### VNOJ
