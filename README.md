@@ -122,7 +122,7 @@ Những OJ để làm bài tập, contest:
 [Maximum Subarray Sum](https://cses.fi/problemset/task/1643) | Bài toán đoạn con có tổng lớn nhất| [link](https://cses.fi/paste/7895727ce6f95b647c0701/)
 [Duyên Hải 2021 - Khối 10 - Bài 1 - Bài dễ](https://oj.vnoi.info/problem/dhbb21_easytask)| | [link](https://ideone.com/DewSp4)
 [Dãy 2-Sum](https://oj.vnoi.info/problem/twosum) | | [link](https://ideone.com/aJMsPs)
-
+[B. Karen and Coffee](https://codeforces.com/contest/816/problem/B)| Bài toán 1 + 2| 
 ### Chương 5: Đồng dư, tính a<sup>b</sup>
 #### Link tài liệu: 
 - [Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html) (cp-algorithms)
@@ -198,7 +198,7 @@ Những OJ để làm bài tập, contest:
 [Chuỗi đối xứng](https://oj.vnoi.info/problem/nkpalin)| Palindrome | [link](https://ideone.com/ijNgb0) (truy vết sẽ được học sau)
 [Xếp hàng mua vé](https://oj.vnoi.info/problem/nktick)| | [link](https://ideone.com/5hHZy4)
 [Đường đi có tổng lớn nhất](https://oj.vnoi.info/problem/qbmax) | | [link](https://ideone.com/VJy6g8)
-
+[VOI 11 Bài 1 - Phần thưởng](https://oj.vnoi.info/problem/bonus)| Prefix Sum 2D | 
 #### CSES 
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -231,5 +231,6 @@ Những OJ để làm bài tập, contest:
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [[QNOI 2021] Xâu luân phiên](https://nbk.homes/problem/qn21altstr)| | [link](https://ideone.com/b95DUi)
-[Olympic 30/4 2018 - Khối 10 - Bài 2 - Chia đất](https://oj.vnoi.info/problem/olp304_18_chiadat)| |
+[Olympic 30/4 2018 - Khối 10 - Bài 2 - Chia đất](https://oj.vnoi.info/problem/olp304_18_chiadat)| Prefix Sum 2D|
+[Siêu thị (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3d)| Prefix Sum 2D| 
 [Olympic 30/4 2019 - Khối 10 - Bài 3 - Kinh nghiệm](https://lqdoj.edu.vn/problem/twopaths)| |
