@@ -202,8 +202,8 @@ Những OJ để làm bài tập, contest:
 #### CSES 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Coin Combinations I](https://cses.fi/problemset/task/1635)| DP Knapsack| 
-[Coin Combinations II](https://cses.fi/problemset/task/1636)|DP Knapsack|
+[Coin Combinations I](https://cses.fi/problemset/task/1635)| DP Knapsack| [link](https://ideone.com/80i06s)
+[Coin Combinations II](https://cses.fi/problemset/task/1636)|DP Knapsack| [link](https://ideone.com/uTxuar)
 [Removing Digits](https://cses.fi/problemset/task/1637)| | [link](https://cses.fi/paste/bfa69186a1a66eb1897392/)
 [Grid Paths](https://cses.fi/problemset/task/1638)|| [link](https://cses.fi/paste/7998916af42956188973b6/)
 [Array Description](https://cses.fi/problemset/task/1746)| |
@@ -213,10 +213,8 @@ Những OJ để làm bài tập, contest:
 #### AtCoder
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[B - Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b)| | 
 [C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c)| | [link](https://atcoder.jp/contests/dp/submissions/52517660)
-[D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)| DP Knapsack|
-[E - Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e)| DP Knapsack|
+[D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)| DP Knapsack| [link](https://atcoder.jp/contests/dp/submissions/52670320)
 [F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f)| LCS | [link](https://ideone.com/Wg5aup) (truy vết sẽ được học sau)
 [M - Candies](https://atcoder.jp/contests/dp/tasks/dp_m)| |
 [C - chokudai](https://atcoder.jp/contests/abc211/tasks/abc211_c)| | [link](https://atcoder.jp/contests/abc211/submissions/52518537)
@@ -224,13 +222,14 @@ Những OJ để làm bài tập, contest:
 [D - Count Bracket Sequences](https://atcoder.jp/contests/abc312/tasks/abc312_d)| Dãy ngoặc đúng | [link](https://atcoder.jp/contests/abc312/submissions/52519082)
 [D - String Bags](https://atcoder.jp/contests/abc344/tasks/abc344_d)| | 
 [D - Max Multiple](https://atcoder.jp/contests/abc281/tasks/abc281_d)| | 
-[D - I Hate Non-integer Number](https://atcoder.jp/contests/abc262/tasks/abc262_d)| |
+[D - I Hate Non-integer Number](https://atcoder.jp/contests/abc262/tasks/abc262_d)| | [link](https://atcoder.jp/contests/abc262/submissions/52671375)
 [E - Queen on Grid](https://atcoder.jp/contests/abc183/tasks/abc183_e)
 
 #### HSG Tỉnh - Olympic Khu vực
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [[QNOI 2021] Xâu luân phiên](https://nbk.homes/problem/qn21altstr)| | [link](https://ideone.com/b95DUi)
+[Olympic 30/4 2024 - Khối 10 - Bài 1 - Băng rôn olympic](https://lqdoj.edu.vn/problem/24olp30410a)
 [Olympic 30/4 2018 - Khối 10 - Bài 2 - Chia đất](https://oj.vnoi.info/problem/olp304_18_chiadat)| Prefix Sum 2D|
 [Siêu thị (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3d)| Prefix Sum 2D| 
 [Olympic 30/4 2019 - Khối 10 - Bài 3 - Kinh nghiệm](https://lqdoj.edu.vn/problem/twopaths)| |
