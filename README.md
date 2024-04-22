@@ -39,6 +39,7 @@ Những OJ để làm bài tập, contest:
 - [CSES](https://cses.fi/problemset/)
 - [VNOJ: VNOI Online Judge](https://oj.vnoi.info/) 
 - [LQDOJ](https://lqdoj.edu.vn/)
+- [AtCoder Problems](https://kenkoooo.com/atcoder#/table/)
 - [NBKOJ](https://nbk.homes/)
 - [SPOJ](https://www.spoj.com/)
 
@@ -57,13 +58,13 @@ Những OJ để làm bài tập, contest:
 #### Link bài tập:
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[B. 250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | Sàng O(nlog(n))
-[[QNOI 2020] Ước tự nhiên](https://nbk.homes/problem/qn20natdiv) | Sàng O(nlog(n)) | [link](https://ideone.com/j32poW)
-[Số nguyên tố (OLP 10 - 2019)](https://lqdoj.edu.vn/problem/primecount) | Sàng trên đoạn | [link](https://ideone.com/Rgn0Vg)
-[G - Short Task](https://codeforces.com/contest/1512/problem/G) | Sàng O(nlog(n))
-[FACT0](https://www.spoj.com/problems/FACT0/) | Phân tích thừa số O(sqrt(n))
-[[QNOI 2017] Bảng nguyên tố](https://nbk.homes/problem/qn17mprime) 
-[[QNOI 2016] K-factor](https://nbk.homes/problem/qn16kfactor) | Sàng trên đoạn | [link](https://ideone.com/2Wd6BG)
+[B. 250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | Sàng O(nlog(n))| [code](https://codeforces.com/contest/1899/submission/234215285)
+[[QNOI 2020] Ước tự nhiên](https://nbk.homes/problem/qn20natdiv) | Sàng O(nlog(n)) | [code](https://ideone.com/j32poW)
+[Số nguyên tố (OLP 10 - 2019)](https://lqdoj.edu.vn/problem/primecount) | Sàng trên đoạn | [code](https://ideone.com/Rgn0Vg)
+[G - Short Task](https://codeforces.com/contest/1512/problem/G) | Sàng O(nlog(n)) | [code](https://codeforces.com/contest/1512/submission/234391557)
+[FACT0](https://www.spoj.com/problems/FACT0/) | Phân tích thừa số O(sqrt(n))| [code](https://ideone.com/sL64ba)
+[[QNOI 2017] Bảng nguyên tố](https://nbk.homes/problem/qn17mprime)| |
+[[QNOI 2016] K-factor](https://nbk.homes/problem/qn16kfactor) | Sàng trên đoạn | [code](https://ideone.com/2Wd6BG)
 [D - Not Divisible](https://atcoder.jp/contests/abc170/tasks/abc170_d) | Đếm
 [D - Index Trio](https://atcoder.jp/contests/abc249/tasks/abc249_d) | Đếm 
 [D - Partition](https://atcoder.jp/contests/abc112/tasks/abc112_d) | Meth
@@ -79,19 +80,20 @@ Những OJ để làm bài tập, contest:
 #### Link bài tập:
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Mua bài](https://lqdoj.edu.vn/problem/buycard) | LQDOJ | [link](https://ideone.com/jRcRs7)
-[Chia năm nhiều lần](https://lqdoj.edu.vn/problem/five)| LQDOJ | [link](https://ideone.com/5byC7i)
-[Khẩu trang](https://lqdoj.edu.vn/problem/mask)| LQDOJ | [link](https://ideone.com/Li886J)
-[Không chia hết](https://lqdoj.edu.vn/problem/ndivi)| LQDOJ | [link](https://ideone.com/xXnh5u)
-[Số thứ n](https://lqdoj.edu.vn/problem/nth)| LQDOJ | [link](https://ideone.com/r6dmiy)
-[Factory Machines](https://cses.fi/problemset/task/1620)| CSES | [link](https://cses.fi/paste/d8210791e898163c882565/)
-[Kiến xếp hàng](https://lqdoj.edu.vn/problem/antsort)
+[Mua bài](https://lqdoj.edu.vn/problem/buycard) | LQDOJ | [code](https://ideone.com/jRcRs7)
+[Chia năm nhiều lần](https://lqdoj.edu.vn/problem/five)| | [code](https://ideone.com/5byC7i)
+[Khẩu trang](https://lqdoj.edu.vn/problem/mask)| | [code](https://ideone.com/Li886J)
+[Không chia hết](https://lqdoj.edu.vn/problem/ndivi)| | [code](https://ideone.com/xXnh5u)
+[Số thứ n](https://lqdoj.edu.vn/problem/nth)| | [code](https://ideone.com/r6dmiy)
+[Kiến xếp hàng](https://lqdoj.edu.vn/problem/antsort)| | [code](https://ideone.com/252NXY)
 [Chia kẹo 01](https://lqdoj.edu.vn/problem/candy01)
 [Leo thang](https://lqdoj.edu.vn/problem/23gl2b3)
 [Sắp xếp bảng số](https://lqdoj.edu.vn/problem/numorder)
 [Sân Golf (OLP 10 - 2018)](https://lqdoj.edu.vn/problem/golf)
+[Factory Machines](https://cses.fi/problemset/task/1620)| CSES | [code](https://cses.fi/paste/d8210791e898163c882565/)
 [Multiplication Table](https://cses.fi/problemset/task/2422)
 [Array Division](https://cses.fi/problemset/task/1085)
+[VOI 12 Bài 3 - Điều động](https://oj.vnoi.info/problem/move12)| VNOJ| 
 
  ### Chương 3: vector, set/multiset, map 
   #### Link tài liệu: 
@@ -101,15 +103,15 @@ Những OJ để làm bài tập, contest:
 #### Link bài tập:
 |Problems |Tags |Editorial | 
 |--|:--:|:--:
-[Distinct Numbers](https://cses.fi/problemset/task/1621)| | [link](https://cses.fi/paste/31e85f1592f49d697d8dd3/)
-[Subarray Sum II](https://cses.fi/problemset/task/1661)| | [link](https://cses.fi/paste/29d15be75c988e607d8ef4/)
-[Concert Tickets](https://cses.fi/problemset/task/1091) | | [link](https://ideone.com/3wzdle)
-[C. Registration system](https://codeforces.com/problemset/problem/4/C)| | [link](https://codeforces.com/contest/4/submission/237862811)
-[B. Queries about less or equal elements](https://codeforces.com/problemset/problem/600/B)| | [link](https://codeforces.com/contest/600/submission/242454361)
-[C. Number of Pairs](https://codeforces.com/problemset/problem/1538/C)| | [link](https://codeforces.com/contest/1538/submission/242456350)
-[D. Pair of Topics](https://codeforces.com/problemset/problem/1324/D) | | [link](https://ideone.com/ehre37)
-[C. Good Subarrays](https://codeforces.com/problemset/problem/1398/C)| | [link](https://codeforces.com/contest/1398/submission/242461474)
-[B. Sereja and Suffixes](https://codeforces.com/problemset/problem/368/B)| | [link](https://codeforces.com/contest/368/submission/242462196)
+[Distinct Numbers](https://cses.fi/problemset/task/1621)| | [code](https://cses.fi/paste/31e85f1592f49d697d8dd3/)
+[Subarray Sum II](https://cses.fi/problemset/task/1661)| | [code](https://cses.fi/paste/29d15be75c988e607d8ef4/)
+[Concert Tickets](https://cses.fi/problemset/task/1091) | | [code](https://ideone.com/3wzdle)
+[C. Registration system](https://codeforces.com/problemset/problem/4/C)| | [code](https://codeforces.com/contest/4/submission/237862811)
+[B. Queries about less or equal elements](https://codeforces.com/problemset/problem/600/B)| | [code](https://codeforces.com/contest/600/submission/242454361)
+[C. Number of Pairs](https://codeforces.com/problemset/problem/1538/C)| | [code](https://codeforces.com/contest/1538/submission/242456350)
+[D. Pair of Topics](https://codeforces.com/problemset/problem/1324/D) | | [code](https://ideone.com/ehre37)
+[C. Good Subarrays](https://codeforces.com/problemset/problem/1398/C)| | [code](https://codeforces.com/contest/1398/submission/242461474)
+[B. Sereja and Suffixes](https://codeforces.com/problemset/problem/368/B)| | [code](https://codeforces.com/contest/368/submission/242462196)
 
 ### Chương 4: Tổng tiền tố (Prefix Sum)
   #### Link tài liệu: 
@@ -117,12 +119,12 @@ Những OJ để làm bài tập, contest:
 #### Link bài tập:
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Restaurant Customers](https://cses.fi/problemset/task/1619) | Bài toán 2| [link](https://cses.fi/paste/8147d1bfec6e3377237960/)
-[F. Eating Candies](https://codeforces.com/problemset/problem/1669/F)| | [link](https://ideone.com/IpwdD4)
-[Maximum Subarray Sum](https://cses.fi/problemset/task/1643) | Bài toán đoạn con có tổng lớn nhất| [link](https://cses.fi/paste/7895727ce6f95b647c0701/)
-[Duyên Hải 2021 - Khối 10 - Bài 1 - Bài dễ](https://oj.vnoi.info/problem/dhbb21_easytask)| | [link](https://ideone.com/DewSp4)
-[Dãy 2-Sum](https://oj.vnoi.info/problem/twosum) | | [link](https://ideone.com/aJMsPs)
-[B. Karen and Coffee](https://codeforces.com/contest/816/problem/B)| Bài toán 1 + 2| 
+[Restaurant Customers](https://cses.fi/problemset/task/1619) | Bài toán 2| [code](https://cses.fi/paste/8147d1bfec6e3377237960/)
+[F. Eating Candies](https://codeforces.com/problemset/problem/1669/F)| | [code](https://ideone.com/IpwdD4)
+[Maximum Subarray Sum](https://cses.fi/problemset/task/1643) | Bài toán đoạn con có tổng lớn nhất| [code](https://cses.fi/paste/7895727ce6f95b647c0701/)
+[Duyên Hải 2021 - Khối 10 - Bài 1 - Bài dễ](https://oj.vnoi.info/problem/dhbb21_easytask)| | [code](https://ideone.com/DewSp4)
+[Dãy 2-Sum](https://oj.vnoi.info/problem/twosum) | | [code](https://ideone.com/aJMsPs)
+[B. Karen and Coffee](https://codeforces.com/contest/816/problem/B)| Bài toán 1 + 2| [code](https://codeforces.com/contest/816/submission/257746125)
 ### Chương 5: Đồng dư, tính a<sup>b</sup>
 #### Link tài liệu: 
 - [Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html) (cp-algorithms)
@@ -134,12 +136,12 @@ Những OJ để làm bài tập, contest:
 #### Link bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Module 1](https://lqdoj.edu.vn/problem/mod1)| | [link](https://ideone.com/ewOJmc)
-[Module 2](https://lqdoj.edu.vn/problem/mod2)| | [link](https://ideone.com/yb5lH0)
-[Module 4](https://lqdoj.edu.vn/problem/mod4)| | [link](https://ideone.com/DG6DBT)
-[Exponentiation](https://cses.fi/problemset/task/1095)| | [link](https://cses.fi/paste/c3f778335e404bc4881157/)
-[Subarray Divsibility](https://cses.fi/problemset/task/1662)| | [link](https://ideone.com/IYgilf)
-[Bit Strings](https://cses.fi/problemset/task/1617)| | [link](https://ideone.com/7VsacC)
+[Module 1](https://lqdoj.edu.vn/problem/mod1)| | [code](https://ideone.com/ewOJmc)
+[Module 2](https://lqdoj.edu.vn/problem/mod2)| | [code](https://ideone.com/yb5lH0)
+[Module 4](https://lqdoj.edu.vn/problem/mod4)| | [code](https://ideone.com/DG6DBT)
+[Exponentiation](https://cses.fi/problemset/task/1095)| | [code](https://cses.fi/paste/c3f778335e404bc4881157/)
+[Subarray Divsibility](https://cses.fi/problemset/task/1662)| | [code](https://ideone.com/IYgilf)
+[Bit Strings](https://cses.fi/problemset/task/1617)| | [code](https://ideone.com/7VsacC)
 
 ### Chương 6: Đệ quy (Backtracking)
 #### Link tài liệu: 
@@ -148,14 +150,14 @@ Những OJ để làm bài tập, contest:
 #### Link bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Duyên Hải 2021 - Khối 10 - Bài 3 - Mua hàng](https://oj.vnoi.info/problem/dhbb21_buying) (subtask 1)| | [link](https://ideone.com/Q3JEa1)
-[VOI 22 Bài 1 - Chọn cặp](https://oj.vnoi.info/problem/voi22_pair) (subtask 1)| | [link](https://ideone.com/49NgRe)
-[Chessboard and Queens](https://cses.fi/problemset/task/1624)| | [link](https://ideone.com/G3zzM4)
-[Grid Paths](https://cses.fi/problemset/task/1625)| Nhánh cận (Branch and Bound)| [link](https://ideone.com/NHTVk7)
-[Educational Backtracking: Biểu thức](https://oj.vnoi.info/problem/backtrack_e)| | [link](https://ideone.com/r2c4u8)
-[A. LLPS](https://codeforces.com/contest/202/problem/A)| | [link](https://ideone.com/I4f3fQ)
-[B. Preparing Olympiad](https://codeforces.com/contest/550/problem/B)| | [link](https://ideone.com/ESsanF)
-[Binpacking](https://oj.vnoi.info/problem/binpack) (subtask 1)| | [link](https://ideone.com/Uf3Dqs)
+[Duyên Hải 2021 - Khối 10 - Bài 3 - Mua hàng](https://oj.vnoi.info/problem/dhbb21_buying) (subtask 1)| | [code](https://ideone.com/Q3JEa1)
+[VOI 22 Bài 1 - Chọn cặp](https://oj.vnoi.info/problem/voi22_pair) (subtask 1)| | [code](https://ideone.com/49NgRe)
+[Chessboard and Queens](https://cses.fi/problemset/task/1624)| | [code](https://ideone.com/G3zzM4)
+[Grid Paths](https://cses.fi/problemset/task/1625)| Nhánh cận (Branch and Bound)| [code](https://ideone.com/NHTVk7)
+[Educational Backtracking: Biểu thức](https://oj.vnoi.info/problem/backtrack_e)| | [code](https://ideone.com/r2c4u8)
+[A. LLPS](https://codeforces.com/contest/202/problem/A)| | [code](https://ideone.com/I4f3fQ)
+[B. Preparing Olympiad](https://codeforces.com/contest/550/problem/B)| | [code](https://ideone.com/ESsanF)
+[Binpacking](https://oj.vnoi.info/problem/binpack) (subtask 1)| | [code](https://ideone.com/Uf3Dqs)
 
 ### Chương 7: Bitmask - Thao tác bit
 #### Link tài liệu:
@@ -164,7 +166,7 @@ Những OJ để làm bài tập, contest:
 #### Link bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[B. Preparing Olympiad](https://codeforces.com/contest/550/problem/B)| | [link](https://ideone.com/WrIZUQ)
+[B. Preparing Olympiad](https://codeforces.com/contest/550/problem/B)| | [code](https://ideone.com/WrIZUQ)
 
 ### Chương 8: Tổ hợp (Combinatorics)
 #### Link tài liệu:
@@ -179,13 +181,13 @@ Những OJ để làm bài tập, contest:
 #### Link bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Binomial Coefficients](https://cses.fi/problemset/task/1079)| CSES | [link](https://cses.fi/paste/9a4d5880ebccf0668756de/)
-[Creating Strings II](https://cses.fi/problemset/task/1715)| CSES | [link](https://cses.fi/paste/eff0c3342af04f93875886/) 
-[Distributing Apples](https://cses.fi/problemset/task/1716)| CSES | [link](https://cses.fi/paste/6b36f6e4ff4fedd38759e6/)
-[D - Blue and Red Balls](https://atcoder.jp/contests/abc132/tasks/abc132_d)| AtCoder | [link](https://atcoder.jp/contests/abc132/submissions/51993124)
-[D - Bouquet](https://atcoder.jp/contests/abc156/tasks/abc156_d)| AtCoder | [link](https://atcoder.jp/contests/abc156/submissions/51993998)
-[D - Binomial Coefficients](https://atcoder.jp/contests/abc094/tasks/arc095_b)| AtCoder | [link](https://atcoder.jp/contests/abc094/submissions/52146163)
-[E - Max-Min Sums](https://atcoder.jp/contests/abc151/tasks/abc151_e)| AtCoder | [link](https://atcoder.jp/contests/abc151/submissions/52157137)
+[Binomial Coefficients](https://cses.fi/problemset/task/1079)| CSES | [code](https://cses.fi/paste/9a4d5880ebccf0668756de/)
+[Creating Strings II](https://cses.fi/problemset/task/1715)| CSES | [code](https://cses.fi/paste/eff0c3342af04f93875886/) 
+[Distributing Apples](https://cses.fi/problemset/task/1716)| CSES | [code](https://cses.fi/paste/6b36f6e4ff4fedd38759e6/)
+[D - Blue and Red Balls](https://atcoder.jp/contests/abc132/tasks/abc132_d)| AtCoder | [code](https://atcoder.jp/contests/abc132/submissions/51993124)
+[D - Bouquet](https://atcoder.jp/contests/abc156/tasks/abc156_d)| AtCoder | [code](https://atcoder.jp/contests/abc156/submissions/51993998)
+[D - Binomial Coefficients](https://atcoder.jp/contests/abc094/tasks/arc095_b)| AtCoder | [code](https://atcoder.jp/contests/abc094/submissions/52146163)
+[E - Max-Min Sums](https://atcoder.jp/contests/abc151/tasks/abc151_e)| AtCoder | [code](https://atcoder.jp/contests/abc151/submissions/52157137)
 
 ### Chương 9: Quy hoạch động (DP)
 #### Link tài liệu:
@@ -194,42 +196,42 @@ Những OJ để làm bài tập, contest:
 #### VNOJ
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Dãy con tăng dài nhất (bản dễ)](https://oj.vnoi.info/problem/liq)| LIS | [link](https://ideone.com/nY88Fc)
-[Chuỗi đối xứng](https://oj.vnoi.info/problem/nkpalin)| Palindrome | [link](https://ideone.com/ijNgb0) (truy vết sẽ được học sau)
-[Xếp hàng mua vé](https://oj.vnoi.info/problem/nktick)| | [link](https://ideone.com/5hHZy4)
-[Đường đi có tổng lớn nhất](https://oj.vnoi.info/problem/qbmax) | | [link](https://ideone.com/VJy6g8)
+[Dãy con tăng dài nhất (bản dễ)](https://oj.vnoi.info/problem/liq)| LIS | [code](https://ideone.com/nY88Fc)
+[Chuỗi đối xứng](https://oj.vnoi.info/problem/nkpalin)| Palindrome | [code](https://ideone.com/ijNgb0) (truy vết sẽ được học sau)
+[Xếp hàng mua vé](https://oj.vnoi.info/problem/nktick)| | [code](https://ideone.com/5hHZy4)
+[Đường đi có tổng lớn nhất](https://oj.vnoi.info/problem/qbmax) | | [code](https://ideone.com/VJy6g8)
 [VOI 11 Bài 1 - Phần thưởng](https://oj.vnoi.info/problem/bonus)| Prefix Sum 2D | 
 #### CSES 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Coin Combinations I](https://cses.fi/problemset/task/1635)| DP Knapsack| [link](https://ideone.com/80i06s)
-[Coin Combinations II](https://cses.fi/problemset/task/1636)|DP Knapsack| [link](https://ideone.com/uTxuar)
-[Removing Digits](https://cses.fi/problemset/task/1637)| | [link](https://cses.fi/paste/bfa69186a1a66eb1897392/)
-[Grid Paths](https://cses.fi/problemset/task/1638)|| [link](https://cses.fi/paste/7998916af42956188973b6/)
+[Coin Combinations I](https://cses.fi/problemset/task/1635)| DP Knapsack| [code](https://ideone.com/80i06s)
+[Coin Combinations II](https://cses.fi/problemset/task/1636)|DP Knapsack| [code](https://ideone.com/uTxuar)
+[Removing Digits](https://cses.fi/problemset/task/1637)| | [code](https://cses.fi/paste/bfa69186a1a66eb1897392/)
+[Grid Paths](https://cses.fi/problemset/task/1638)|| [code](https://cses.fi/paste/7998916af42956188973b6/)
 [Array Description](https://cses.fi/problemset/task/1746)| |
 [Edit Distance](https://cses.fi/problemset/task/1639)| |
-[Rectangle Cutting](https://cses.fi/problemset/task/1744)| | [link](https://cses.fi/paste/b1cad99348e945e18973dd/)
+[Rectangle Cutting](https://cses.fi/problemset/task/1744)| | [code](https://cses.fi/paste/b1cad99348e945e18973dd/)
 
 #### AtCoder
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c)| | [link](https://atcoder.jp/contests/dp/submissions/52517660)
-[D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)| DP Knapsack| [link](https://atcoder.jp/contests/dp/submissions/52670320)
-[F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f)| LCS | [link](https://ideone.com/Wg5aup) (truy vết sẽ được học sau)
+[C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c)| | [code](https://atcoder.jp/contests/dp/submissions/52517660)
+[D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)| DP Knapsack| [code](https://atcoder.jp/contests/dp/submissions/52670320)
+[F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f)| LCS | [code](https://ideone.com/Wg5aup) (truy vết sẽ được học sau)
 [M - Candies](https://atcoder.jp/contests/dp/tasks/dp_m)| |
-[C - chokudai](https://atcoder.jp/contests/abc211/tasks/abc211_c)| | [link](https://atcoder.jp/contests/abc211/submissions/52518537)
-[D - FG operation](https://atcoder.jp/contests/abc220/tasks/abc220_d)| | [link](https://atcoder.jp/contests/abc220/submissions/52516767)
-[D - Count Bracket Sequences](https://atcoder.jp/conteưsts/abc312/tasks/abc312_d)| Dãy ngoặc đúng | [link](https://atcoder.jp/contests/abc312/submissions/52519082)
+[C - chokudai](https://atcoder.jp/contests/abc211/tasks/abc211_c)| | [code](https://atcoder.jp/contests/abc211/submissions/52518537)
+[D - FG operation](https://atcoder.jp/contests/abc220/tasks/abc220_d)| | [code](https://atcoder.jp/contests/abc220/submissions/52516767)
+[D - Count Bracket Sequences](https://atcoder.jp/conteưsts/abc312/tasks/abc312_d)| Dãy ngoặc đúng | [code](https://atcoder.jp/contests/abc312/submissions/52519082)
 [D - String Bags](https://atcoder.jp/contests/abc344/tasks/abc344_d)| | 
 [D - Max Multiple](https://atcoder.jp/contests/abc281/tasks/abc281_d)| | 
-[D - I Hate Non-integer Number](https://atcoder.jp/contests/abc262/tasks/abc262_d)| | [link](https://atcoder.jp/contests/abc262/submissions/52671375)
+[D - I Hate Non-integer Number](https://atcoder.jp/contests/abc262/tasks/abc262_d)| | [code](https://atcoder.jp/contests/abc262/submissions/52671375)
 [E - Queen on Grid](https://atcoder.jp/contests/abc183/tasks/abc183_e)
 
 #### HSG Tỉnh - Olympic Khu vực
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[[QNOI 2021] Xâu luân phiên](https://nbk.homes/problem/qn21altstr)| | [link](https://ideone.com/b95DUi)
-[Olympic 30/4 2024 - Khối 10 - Bài 1 - Băng rôn olympic](https://lqdoj.edu.vn/problem/24olp30410a)| | [link](https://ideone.com/HwpaMQ)
+[[QNOI 2021] Xâu luân phiên](https://nbk.homes/problem/qn21altstr)| | [code](https://ideone.com/b95DUi)
+[Olympic 30/4 2024 - Khối 10 - Bài 1 - Băng rôn olympic](https://lqdoj.edu.vn/problem/24olp30410a)| | [code](https://ideone.com/HwpaMQ)
 [Olympic 30/4 2018 - Khối 10 - Bài 2 - Chia đất](https://oj.vnoi.info/problem/olp304_18_chiadat)| Prefix Sum 2D|
 [Siêu thị (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3d)| Prefix Sum 2D| 
-[Olympic 30/4 2019 - Khối 10 - Bài 3 - Kinh nghiệm](https://lqdoj.edu.vn/problem/twopaths)| | [link](https://ideone.com/w7mvZ0)
+[Olympic 30/4 2019 - Khối 10 - Bài 3 - Kinh nghiệm](https://lqdoj.edu.vn/problem/twopaths)| | [code](https://ideone.com/w7mvZ0)
