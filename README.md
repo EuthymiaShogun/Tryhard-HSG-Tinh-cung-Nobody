@@ -219,7 +219,7 @@ Những OJ để làm bài tập, contest:
 [M - Candies](https://atcoder.jp/contests/dp/tasks/dp_m)| |
 [C - chokudai](https://atcoder.jp/contests/abc211/tasks/abc211_c)| | [link](https://atcoder.jp/contests/abc211/submissions/52518537)
 [D - FG operation](https://atcoder.jp/contests/abc220/tasks/abc220_d)| | [link](https://atcoder.jp/contests/abc220/submissions/52516767)
-[D - Count Bracket Sequences](https://atcoder.jp/contests/abc312/tasks/abc312_d)| Dãy ngoặc đúng | [link](https://atcoder.jp/contests/abc312/submissions/52519082)
+[D - Count Bracket Sequences](https://atcoder.jp/conteưsts/abc312/tasks/abc312_d)| Dãy ngoặc đúng | [link](https://atcoder.jp/contests/abc312/submissions/52519082)
 [D - String Bags](https://atcoder.jp/contests/abc344/tasks/abc344_d)| | 
 [D - Max Multiple](https://atcoder.jp/contests/abc281/tasks/abc281_d)| | 
 [D - I Hate Non-integer Number](https://atcoder.jp/contests/abc262/tasks/abc262_d)| | [link](https://atcoder.jp/contests/abc262/submissions/52671375)
@@ -229,7 +229,7 @@ Những OJ để làm bài tập, contest:
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [[QNOI 2021] Xâu luân phiên](https://nbk.homes/problem/qn21altstr)| | [link](https://ideone.com/b95DUi)
-[Olympic 30/4 2024 - Khối 10 - Bài 1 - Băng rôn olympic](https://lqdoj.edu.vn/problem/24olp30410a)
+[Olympic 30/4 2024 - Khối 10 - Bài 1 - Băng rôn olympic](https://lqdoj.edu.vn/problem/24olp30410a)| | [link](https://ideone.com/HwpaMQ)
 [Olympic 30/4 2018 - Khối 10 - Bài 2 - Chia đất](https://oj.vnoi.info/problem/olp304_18_chiadat)| Prefix Sum 2D|
 [Siêu thị (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3d)| Prefix Sum 2D| 
-[Olympic 30/4 2019 - Khối 10 - Bài 3 - Kinh nghiệm](https://lqdoj.edu.vn/problem/twopaths)| |
+[Olympic 30/4 2019 - Khối 10 - Bài 3 - Kinh nghiệm](https://lqdoj.edu.vn/problem/twopaths)| | [link](https://ideone.com/w7mvZ0)
