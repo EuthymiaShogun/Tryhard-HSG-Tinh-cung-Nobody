@@ -191,7 +191,7 @@ Những OJ để làm bài tập, contest:
 
 ### Chương 9: Quy hoạch động (DP)
 #### Link tài liệu:
-
+- [Introduction to Dynamic Programming](https://cp-algorithms.com/dynamic_programming/intro-to-dp.html) (cp-algorithms)
 #### Link bài tập: 
 #### VNOJ
 |Problems |Tags |Editorial
