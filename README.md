@@ -27,11 +27,12 @@ Còn hiện tại thì anh đang theo học lớp Cử nhân tài năng (K23) c�
 - Nắm rõ những gì anh nói trong buổi học, và giải được càng nhiều càng tốt các bài tập có trong giáo án :>
 - Các em có góp ý hay thắc mắc gì trong quá trình học thì cứ nhắn trực tiếp cho anh.
 
-## Một số trang web quan trọng
-Các trang web để học thuật toán: 
+## Nguồn học lập trình thi đấu (CP)
+Những trang web/sách nổi tiếng để học thuật toán: 
 - [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html) 
 - [VNOI Wiki](https://vnoi.info/wiki/Home)
 - [USACO Guide](https://usaco.guide/)
+- [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
 
 Những OJ để làm bài tập, contest:
 - [Codeforces](https://codeforces.com/)
