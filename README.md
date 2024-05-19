@@ -201,7 +201,7 @@ Những OJ để làm bài tập, contest:
 [Chuỗi đối xứng](https://oj.vnoi.info/problem/nkpalin)| Palindrome | [code](https://ideone.com/ijNgb0) (truy vết sẽ được học sau)
 [Xếp hàng mua vé](https://oj.vnoi.info/problem/nktick)| | [code](https://ideone.com/5hHZy4)
 [Đường đi có tổng lớn nhất](https://oj.vnoi.info/problem/qbmax) | | [code](https://ideone.com/VJy6g8)
-[VOI 11 Bài 1 - Phần thưởng](https://oj.vnoi.info/problem/bonus)| Prefix Sum 2D | 
+[VOI 11 Bài 1 - Phần thưởng](https://oj.vnoi.info/problem/bonus)| Prefix Sum 2D | [code](https://ideone.com/63KEem)
 #### CSES 
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -209,7 +209,6 @@ Những OJ để làm bài tập, contest:
 [Coin Combinations II](https://cses.fi/problemset/task/1636)|DP Knapsack| [code](https://ideone.com/uTxuar)
 [Removing Digits](https://cses.fi/problemset/task/1637)| | [code](https://cses.fi/paste/bfa69186a1a66eb1897392/)
 [Grid Paths](https://cses.fi/problemset/task/1638)|| [code](https://cses.fi/paste/7998916af42956188973b6/)
-[Array Description](https://cses.fi/problemset/task/1746)| |
 [Edit Distance](https://cses.fi/problemset/task/1639)| |
 [Rectangle Cutting](https://cses.fi/problemset/task/1744)| | [code](https://cses.fi/paste/b1cad99348e945e18973dd/)
 
@@ -233,6 +232,6 @@ Những OJ để làm bài tập, contest:
 |--|:--:|:--:
 [[QNOI 2021] Xâu luân phiên](https://nbk.homes/problem/qn21altstr)| | [code](https://ideone.com/b95DUi)
 [Olympic 30/4 2024 - Khối 10 - Bài 1 - Băng rôn olympic](https://lqdoj.edu.vn/problem/24olp30410a)| | [code](https://ideone.com/HwpaMQ)
-[Olympic 30/4 2018 - Khối 10 - Bài 2 - Chia đất](https://oj.vnoi.info/problem/olp304_18_chiadat)| Prefix Sum 2D|
-[Siêu thị (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3d)| Prefix Sum 2D| 
+[Olympic 30/4 2018 - Khối 10 - Bài 2 - Chia đất](https://oj.vnoi.info/problem/olp304_18_chiadat)| Prefix Sum 2D| [code](https://ideone.com/k169qu)
+[Siêu thị (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3d)| Prefix Sum 2D| [code](https://ideone.com/ZX0pOR)
 [Olympic 30/4 2019 - Khối 10 - Bài 3 - Kinh nghiệm](https://lqdoj.edu.vn/problem/twopaths)| | [code](https://ideone.com/w7mvZ0)
