@@ -72,8 +72,8 @@ Những OJ để làm bài tập, contest:
 [C - Factors of Factorial](https://atcoder.jp/contests/abc052/tasks/arc067_a) | Công thức Legendre
 [A - Getting Difference](https://atcoder.jp/contests/agc018/tasks/agc018_a)
 [D - Factorial and Multiple](https://atcoder.jp/contests/abc280/tasks/abc280_d)
-[B - Between a and b ...](https://atcoder.jp/contests/abc048/tasks/abc048_b)
-[E - Double Factorial](https://atcoder.jp/contests/abc148/tasks/abc148_e)
+[B - Between a and b ...](https://atcoder.jp/contests/abc048/tasks/abc048_b)| | [code](https://atcoder.jp/contests/abc048/submissions/53700986)
+[E - Double Factorial](https://atcoder.jp/contests/abc148/tasks/abc148_e)| | [code](https://atcoder.jp/contests/abc148/submissions/53703624)
 
   ### Chương 2: Tìm kiếm nhị phân (Binary Search) 
   #### Link tài liệu: 
