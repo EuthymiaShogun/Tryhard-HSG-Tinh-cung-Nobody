@@ -250,7 +250,8 @@ Những OJ để làm bài tập, contest:
 [Increasing Subsequence II](https://cses.fi/problemset/task/1748/)| |
 [D. Ball](https://codeforces.com/contest/12/problem/D)| |
 [List Removals](https://cses.fi/problemset/task/1749/)| Ordered Set Implementation|
+[Nested Ranges Count](https://cses.fi/problemset/task/2169)| Sweepline x BIT| 
 [D-query](https://oj.vnoi.info/problem/dquery)| Distinct Value Queries |
-[Dãy số](https://oj.vnoi.info/problem/c11seq)| BIT + Prefix Sum| 
-[VOI 05 Bài 1 - Phân đoạn](https://oj.vnoi.info/problem/qbsegpar)| Binary Search + Prefix Sum + DP Optimization using BIT| 
+[Dãy số](https://oj.vnoi.info/problem/c11seq)| BIT x Prefix Sum| 
+[VOI 05 Bài 1 - Phân đoạn](https://oj.vnoi.info/problem/qbsegpar)| Binary Search x Prefix Sum x DP Optimization using BIT|
 [Salary Queries](https://cses.fi/problemset/task/1144/)| |
