@@ -217,14 +217,14 @@ Những OJ để làm bài tập, contest:
 [C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c)| | [code](https://atcoder.jp/contests/dp/submissions/52517660)
 [D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)| DP Knapsack| [code](https://atcoder.jp/contests/dp/submissions/52670320)
 [F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f)| LCS | [code](https://ideone.com/MlUIdc)
-[M - Candies](https://atcoder.jp/contests/dp/tasks/dp_m)| |
+[M - Candies](https://atcoder.jp/contests/dp/tasks/dp_m)| | [code](https://ideone.com/4sM1lH)
 [C - chokudai](https://atcoder.jp/contests/abc211/tasks/abc211_c)| | [code](https://atcoder.jp/contests/abc211/submissions/52518537)
 [D - FG operation](https://atcoder.jp/contests/abc220/tasks/abc220_d)| | [code](https://atcoder.jp/contests/abc220/submissions/52516767)
 [D - Count Bracket Sequences](https://atcoder.jp/conteưsts/abc312/tasks/abc312_d)| Dãy ngoặc đúng | [code](https://atcoder.jp/contests/abc312/submissions/52519082)
-[D - String Bags](https://atcoder.jp/contests/abc344/tasks/abc344_d)| | 
+[D - String Bags](https://atcoder.jp/contests/abc344/tasks/abc344_d)| | [code](https://ideone.com/9cd7YE)
 [D - Max Multiple](https://atcoder.jp/contests/abc281/tasks/abc281_d)| | [code](https://ideone.com/0oKOtg)
 [D - I Hate Non-integer Number](https://atcoder.jp/contests/abc262/tasks/abc262_d)| | [code](https://atcoder.jp/contests/abc262/submissions/52671375)
-[E - Queen on Grid](https://atcoder.jp/contests/abc183/tasks/abc183_e)
+[E - Queen on Grid](https://atcoder.jp/contests/abc183/tasks/abc183_e)| | [code](https://ideone.com/AFqrDH)
 
 #### HSG Tỉnh - Olympic Khu vực
 |Problems |Tags |Editorial
