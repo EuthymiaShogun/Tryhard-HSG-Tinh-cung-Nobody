@@ -237,3 +237,10 @@ Những OJ để làm bài tập, contest:
 [Olympic 30/4 2019 - Khối 10 - Bài 3 - Kinh nghiệm](https://lqdoj.edu.vn/problem/twopaths)| | [code](https://ideone.com/w7mvZ0)
 
 ### Chương 10: Cây chỉ số nhị phân (BIT / Fenwick Tree) 
+#### Link tài liệu:
+- [Cây chỉ số nhị phân (Binary Indexed Tree)](https://vnoi.info/wiki/algo/data-structures/fenwick.md) (VNOI Wiki)
+- [Fenwick Tree](https://cp-algorithms.com/data_structures/fenwick.html) (cp-algorithms)
+
+#### Link bài tập: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
