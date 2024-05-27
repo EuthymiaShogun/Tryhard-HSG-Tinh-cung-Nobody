@@ -236,11 +236,21 @@ Những OJ để làm bài tập, contest:
 [[ITK22 TST] Rect](https://nbk.homes/problem/itk22tstrect)| Prefix Sum 2D| [code](https://ideone.com/XHFmeJ)
 [Olympic 30/4 2019 - Khối 10 - Bài 3 - Kinh nghiệm](https://lqdoj.edu.vn/problem/twopaths)| | [code](https://ideone.com/w7mvZ0)
 
-### Chương 10: Cây chỉ số nhị phân (BIT / Fenwick Tree) 
+### Chương 10: Cây chỉ số nhị phân (BIT / Fenwick Tree) ft. Kĩ thuật nén số
 #### Link tài liệu:
 - [Cây chỉ số nhị phân (Binary Indexed Tree)](https://vnoi.info/wiki/algo/data-structures/fenwick.md) (VNOI Wiki)
 - [Fenwick Tree](https://cp-algorithms.com/data_structures/fenwick.html) (cp-algorithms)
-
+- [Rời rạc hoá và ứng dụng](https://vnoi.info/wiki/algo/trick/Roi-rac-hoa-va-ung-dung.md) (VNOI Wiki)
 #### Link bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
+[Dãy nghịch thế](https://oj.vnoi.info/problem/nkinv)| Đếm số nghịch thế|
+[INCSEQ VN](https://oj.vnoi.info/problem/incvn)| LIS optimization |
+[Dãy con tăng dài nhất (bản khó)](https://oj.vnoi.info/problem/lis)| |
+[Increasing Subsequence II](https://cses.fi/problemset/task/1748/)| |
+[D. Ball](https://codeforces.com/contest/12/problem/D)| |
+[List Removals](https://cses.fi/problemset/task/1749/)| Ordered Set Implementation|
+[D-query](https://oj.vnoi.info/problem/dquery)| Distinct Value Queries |
+[Dãy số](https://oj.vnoi.info/problem/c11seq)| BIT + Prefix Sum| 
+[VOI 05 Bài 1 - Phân đoạn](https://oj.vnoi.info/problem/qbsegpar)| Binary Search + Prefix Sum + DP Optimization using BIT| 
+[Salary Queries](https://cses.fi/problemset/task/1144/)| |
