@@ -2,7 +2,7 @@
 Giáo án đi từ những kiến thức nền tảng quan trọng nhất cho đến nâng cao, tập trung hướng đến kì thi HSG Tỉnh. 
 
 ## Dấu ấn cá nhân
-- Anh tên là Huỳnh Thiên An, anh trước đó học ITK19 NBK, anh cũng vừa mới ra trường thôi nên nếu gọi là cựu học sinh thì nghe hơi già :>, nói chung lứa anh thì cũng gần gũi với mấy đứa thôi à nên cứ thoải mái.
+- Anh tên là Huỳnh Thiên An, anh trước đó học ITK19 NBK, anh cũng vừa mới ra trường thôi nên nếu gọi là cựu học sinh thì nghe hơi già kk, nói chung lứa anh thì cũng gần gũi với mấy đứa thôi à nên cứ thoải mái.
 - Giới thiệu sơ qua các thành tích nổi bật mà anh đã đạt được trong 3 năm cấp 3: 
    - Lớp 10 
       + Giải KK kỳ thi chọn đội tuyển tham dự kì thi HSG QG.
@@ -14,17 +14,17 @@ Giáo án đi từ những kiến thức nền tảng quan trọng nhất cho đ
       - Giải Nhất kỳ thi chọn đội tuyển tham dự kì thi HSG QG. 
       - Giải Ba kỳ thi HSG QG. 
 
-Còn hiện tại thì anh đang theo học lớp Cử nhân tài năng (K23) của khoa CNTT, trường Đại học Khoa học Tự nhiên, ĐHQG TPHCM.
+Còn hiện tại thì anh đang theo học lớp Cử nhân tài năng (K23) của khoa CNTT, trường Đại học Khoa học Tự nhiên, ĐHQG TP. HCM.
 
 ## Lịch học hàng tuần 
 - Tuần 2 buổi, mỗi buổi kéo dài từ 1 tiếng 30' đến 2 tiếng.
 - Kiến thức mỗi buổi sẽ do anh chọn hoặc tuỳ chọn theo nhu cầu số đông của các em nếu anh thấy hợp lí. 
 - Khi học một thuật toán/ý tưởng mới thì buổi đầu sẽ nói qua lý thuyết, những buổi sau sẽ giải những bài tập liên quan đến nó.  
-- Bài tập của những chương sau có thể sử dụng kiến thức từ những chương trước.
+- Bài tập của những chương sau có thể sẽ áp dụng kiến thức từ những chương trước.
 - Hình thức: online qua Google Meet. Có thể mỗi buổi là 2 link Google Meet vì Google Meet có giới hạn thời gian :<
   
 ## Yêu cầu
-- Nắm rõ những gì anh nói trong buổi học, và giải được càng nhiều càng tốt các bài tập có trong giáo án :>
+- Nắm rõ những gì anh nói trong buổi học, và khuyến khích các em AC hết tất cả các bài tập có trong giáo án. 
 - Các em có góp ý hay thắc mắc gì trong quá trình học thì cứ nhắn trực tiếp cho anh.
 
 ## Nguồn học lập trình thi đấu (CP)
@@ -176,7 +176,6 @@ Những OJ để làm bài tập, contest:
 - [Cách tính tổ hợp sử dụng tam giác Pascal](https://ideone.com/ZKeXJG) (Nobody)
 - [Binomial Coefficients](https://cp-algorithms.com/combinatorics/binomial-coefficients.html) (cp-algorithms)
 - [Stars and bars](https://cp-algorithms.com/combinatorics/stars_and_bars.html) (cp-algorithms)
-- [The Inclusion-Exclusion Principle](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html) (cp-algorithms)
 
 #### Link bài tập: 
 |Problems |Tags |Editorial
