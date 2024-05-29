@@ -2,7 +2,7 @@
 Giáo án đi từ những kiến thức nền tảng quan trọng nhất cho đến nâng cao, tập trung hướng đến kì thi HSG Tỉnh. 
 
 ## Dấu ấn cá nhân
-- Anh tên là Huỳnh Thiên An, anh trước đó học ITK19 NBK. Trong 3 năm ở cấp 3 thì anh góp mặt vào đội tuyển QG môn Tin học của trường năm 11 và năm 12. Cũng đã nhiều lần chớp lấy được vinh quang nhưng cũng có những nuối tiếc để lại. Anh mở ra giáo án này hy vọng sẽ truyền tải được mọi kiến thức và kinh nghiệm quý báu mà anh có được đến các em nhỏ.
+- Anh tên là Huỳnh Thiên An, anh trước đó học ITK19 NBK, anh cũng vừa mới ra trường thôi nên nếu gọi là cựu học sinh thì nghe hơi già :>, nói chung lứa anh thì cũng gần gũi với mấy đứa thôi à nên cứ thoải mái.
 - Giới thiệu sơ qua các thành tích nổi bật mà anh đã đạt được trong 3 năm cấp 3: 
    - Lớp 10 
       + Giải KK kỳ thi chọn đội tuyển tham dự kì thi HSG QG.
