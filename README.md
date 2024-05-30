@@ -254,3 +254,18 @@ Những OJ để làm bài tập, contest:
 [Dãy số](https://oj.vnoi.info/problem/c11seq)| BIT x Prefix Sum| 
 [VOI 05 Bài 1 - Phân đoạn](https://oj.vnoi.info/problem/qbsegpar)| Binary Search x Prefix Sum x DP Optimization using BIT|
 [Salary Queries](https://cses.fi/problemset/task/1144/)| |
+
+### Chương bổ trợ: Tìm kiếm nhị phân (Tiếp theo)
+- Ôn lại tìm kiếm nhị phân và làm một số dạng bài nâng cao hơn về
+tìm kiếm nhị phân. 
+- Có thể kết hợp các kiến thức khác đã được học ở những chương trước. 
+- Sau khi xong buổi này các bài tập sẽ được gộp lại vào Chương 2: Tìm kiếm nhị phân (Binary Search). 
+#### Link bài tập:
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[D. Max Median](https://codeforces.com/problemset/problem/1486/D)| | 
+[E - Average and Median](https://atcoder.jp/contests/abc236/tasks/abc236_e)
+[G. Grouped Carriages](https://codeforces.com/contest/1866/problem/G)| |
+[D. Reset K Edges](https://codeforces.com/problemset/problem/1739/D)
+[D. Empty Graph](https://codeforces.com/contest/1712/problem/D)| |
+
