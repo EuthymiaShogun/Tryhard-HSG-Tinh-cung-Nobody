@@ -255,11 +255,12 @@ Những OJ để làm bài tập, contest:
 [VOI 05 Bài 1 - Phân đoạn](https://oj.vnoi.info/problem/qbsegpar)| Binary Search x Prefix Sum x DP Optimization using BIT|
 [Salary Queries](https://cses.fi/problemset/task/1144/)| |
 
-### Chương bổ trợ: Tìm kiếm nhị phân (Tiếp theo)
+### Chương bổ trợ: Tìm kiếm nhị phân (Binary Search) (Tiếp theo)
 - Ôn lại tìm kiếm nhị phân và làm một số dạng bài nâng cao hơn về
 tìm kiếm nhị phân. 
 - Có thể kết hợp các kiến thức khác đã được học ở những chương trước. 
 - Sau khi xong buổi này các bài tập sẽ được gộp lại vào Chương 2: Tìm kiếm nhị phân (Binary Search). 
+- Link group Codeforces để submit bài: https://tkcpml.contest.codeforces.com/group/7rw44sKZZu/contests (test tốt hơn)
 #### Link bài tập:
 |Problems |Tags |Editorial
 |--|:--:|:--:
