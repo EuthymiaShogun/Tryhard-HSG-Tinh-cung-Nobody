@@ -260,13 +260,4 @@ Những OJ để làm bài tập, contest:
 tìm kiếm nhị phân. 
 - Có thể kết hợp các kiến thức khác đã được học ở những chương trước. 
 - Sau khi xong buổi này các bài tập sẽ được gộp lại vào Chương 2: Tìm kiếm nhị phân (Binary Search). 
-- Link group Codeforces để submit bài: https://tkcpml.contest.codeforces.com/group/7rw44sKZZu/contests (test tốt hơn)
-#### Link bài tập:
-|Problems |Tags |Editorial
-|--|:--:|:--:
-[D. Max Median](https://codeforces.com/problemset/problem/1486/D)| | 
-[E - Average and Median](https://atcoder.jp/contests/abc236/tasks/abc236_e)
-[G. Grouped Carriages](https://codeforces.com/contest/1866/problem/G)| |
-[D. Reset K Edges](https://codeforces.com/problemset/problem/1739/D)
-[D. Empty Graph](https://codeforces.com/contest/1712/problem/D)| |
-
+- Link group Codeforces để submit bài: https://tkcpml.contest.codeforces.com/group/7rw44sKZZu/contests
