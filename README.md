@@ -164,8 +164,9 @@ Những OJ để làm bài tập, contest:
 
 ### Chương 7: Bitmask - Thao tác bit
 #### Tài liệu:
-- [Bitmask - Thao tác bit](https://ideone.com/RZlxhU) (Nobody) 
+- [Bit manipulation](https://cp-algorithms.com/algebra/bit-manipulation.html) (cp-algorithms)
 - [Phép toán bit](https://vnoi.info/wiki/algo/basic/bitwise-operators.md) (VNOI Wiki)
+- [Bitmask - Thao tác bit](https://ideone.com/RZlxhU) (Nobody)
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
