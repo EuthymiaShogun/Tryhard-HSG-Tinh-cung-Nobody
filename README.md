@@ -48,15 +48,15 @@ Những OJ để làm bài tập, contest:
 
 ## Giáo án
 ### Chương 0: Độ phức tạp tính toán
-#### Link tài liệu: 
+#### Tài liệu: 
 - [Độ phức tạp tính toán (Big O)](https://docs.google.com/presentation/d/1g1rdxPHDZbKqr5vXioVNITwALB3Em0VTEEhTqYV2Vfs/edit?usp=sharing)
  
 ### Chương 1: Số nguyên tố
-#### Link tài liệu: 
+#### Tài liệu: 
 - [Sieve of Eratosthenes](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html) (cp-algorithms)
 - [Integer factorization](https://cp-algorithms.com/algebra/factorization.html) (cp-algorithms)
 - [Số học 2 - Số nguyên tố, Sàng Eratosthenes](https://vnoi.info/wiki/translate/he/Number-Theory-2.md) (VNOI Wiki)
-#### Link bài tập:
+#### Bài tập:
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [B. 250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | Sàng O(nlog(n))| [code](https://codeforces.com/contest/1899/submission/234215285)
@@ -75,10 +75,10 @@ Những OJ để làm bài tập, contest:
 [B - Between a and b ...](https://atcoder.jp/contests/abc048/tasks/abc048_b)| | [code](https://atcoder.jp/contests/abc048/submissions/53700986)
 [E - Double Factorial](https://atcoder.jp/contests/abc148/tasks/abc148_e)| | [code](https://atcoder.jp/contests/abc148/submissions/53703624)
 
-  ### Chương 2: Tìm kiếm nhị phân (Binary Search) 
-  #### Link tài liệu: 
+### Chương 2: Tìm kiếm nhị phân (Binary Search) 
+#### Tài liệu: 
 - [Chương 2: Tìm kiếm nhị phân](https://docs.google.com/presentation/d/1HgMD-vobIakIukE8eL4ZRiE0yc-cClibuwoGscD5Ztc/edit?usp=sharing)
-#### Link bài tập:
+#### Bài tập:
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Mua bài](https://lqdoj.edu.vn/problem/buycard) | LQDOJ | [code](https://ideone.com/jRcRs7)
@@ -94,13 +94,15 @@ Những OJ để làm bài tập, contest:
 [Multiplication Table](https://cses.fi/problemset/task/2422)
 [Array Division](https://cses.fi/problemset/task/1085)
 [VOI 12 Bài 3 - Điều động](https://oj.vnoi.info/problem/move12)| VNOJ| 
+[D. Max Median](https://codeforces.com/problemset/problem/1486/D)| | 
+[E - Average and Median](https://atcoder.jp/contests/abc236/tasks/abc236_e)
 
- ### Chương 3: vector, set/multiset, map 
-  #### Link tài liệu: 
+### Chương 3: vector, set/multiset, map 
+  #### Tài liệu: 
 - [vector](https://ideone.com/sYNyRU) 
 - [set/multiset](https://ideone.com/vuXH7Y)
 - [map](https://ideone.com/zjRLau)
-#### Link bài tập:
+#### Bài tập:
 |Problems |Tags |Editorial | 
 |--|:--:|:--:
 [Distinct Numbers](https://cses.fi/problemset/task/1621)| | [code](https://cses.fi/paste/31e85f1592f49d697d8dd3/)
@@ -114,9 +116,9 @@ Những OJ để làm bài tập, contest:
 [B. Sereja and Suffixes](https://codeforces.com/problemset/problem/368/B)| | [code](https://codeforces.com/contest/368/submission/242462196)
 
 ### Chương 4: Tổng tiền tố (Prefix Sum)
-  #### Link tài liệu: 
+#### Tài liệu: 
 - [2 bài toán về tổng tiền tố](https://ideone.com/emriDj) (Nobody)
-#### Link bài tập:
+#### Bài tập:
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Restaurant Customers](https://cses.fi/problemset/task/1619) | Bài toán 2| [code](https://cses.fi/paste/8147d1bfec6e3377237960/)
@@ -125,15 +127,16 @@ Những OJ để làm bài tập, contest:
 [Duyên Hải 2021 - Khối 10 - Bài 1 - Bài dễ](https://oj.vnoi.info/problem/dhbb21_easytask)| | [code](https://ideone.com/DewSp4)
 [Dãy 2-Sum](https://oj.vnoi.info/problem/twosum) | | [code](https://ideone.com/aJMsPs)
 [B. Karen and Coffee](https://codeforces.com/contest/816/problem/B)| Bài toán 1 + 2| [code](https://codeforces.com/contest/816/submission/257746125)
+
 ### Chương 5: Đồng dư, tính a<sup>b</sup>
-#### Link tài liệu: 
+#### Tài liệu: 
 - [Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html) (cp-algorithms)
 - [Tính lũy thừa nhanh bằng bình phương và nhân](https://vietcodes.github.io/algo/squaring-exponentiation) (vietcodes)
 - [Nghịch đảo modulo](https://vnoi.info/wiki/algo/math/modular-inverse.md) (VNOI Wiki)
 - [Tính a<sup>b</sup>](https://ideone.com/rLudfM) (Nobody)
 - [Đồng dư](https://ideone.com/qWdqlY) (Nobody)
 
-#### Link bài tập: 
+#### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Module 1](https://lqdoj.edu.vn/problem/mod1)| | [code](https://ideone.com/ewOJmc)
@@ -144,10 +147,10 @@ Những OJ để làm bài tập, contest:
 [Bit Strings](https://cses.fi/problemset/task/1617)| | [code](https://ideone.com/7VsacC)
 
 ### Chương 6: Đệ quy (Backtracking)
-#### Link tài liệu: 
+#### Tài liệu: 
 - DFS
 
-#### Link bài tập: 
+#### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Duyên Hải 2021 - Khối 10 - Bài 3 - Mua hàng](https://oj.vnoi.info/problem/dhbb21_buying) (subtask 1)| | [code](https://ideone.com/Q3JEa1)
@@ -160,16 +163,16 @@ Những OJ để làm bài tập, contest:
 [Binpacking](https://oj.vnoi.info/problem/binpack) (subtask 1)| | [code](https://ideone.com/Uf3Dqs)
 
 ### Chương 7: Bitmask - Thao tác bit
-#### Link tài liệu:
+#### Tài liệu:
 - [Bitmask - Thao tác bit](https://ideone.com/RZlxhU) (Nobody) 
 - [Phép toán bit](https://vnoi.info/wiki/algo/basic/bitwise-operators.md) (VNOI Wiki)
-#### Link bài tập: 
+#### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [B. Preparing Olympiad](https://codeforces.com/contest/550/problem/B)| | [code](https://ideone.com/WrIZUQ)
 
 ### Chương 8: Tổ hợp (Combinatorics)
-#### Link tài liệu:
+#### Tài liệu:
 - [Giới thiệu về tổ hợp](https://ideone.com/BXeOGe) (Nobody)
 - [Cách tính tổ hợp dùng mảng fact[], inv_fact[]](https://ideone.com/sEPq61) (Nobody)
 - [Cách tính tổ hợp trong O(k)](https://ideone.com/N8U311) (Nobody)
@@ -177,7 +180,7 @@ Những OJ để làm bài tập, contest:
 - [Binomial Coefficients](https://cp-algorithms.com/combinatorics/binomial-coefficients.html) (cp-algorithms)
 - [Stars and bars](https://cp-algorithms.com/combinatorics/stars_and_bars.html) (cp-algorithms)
 
-#### Link bài tập: 
+#### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Binomial Coefficients](https://cses.fi/problemset/task/1079)| CSES | [code](https://cses.fi/paste/9a4d5880ebccf0668756de/)
@@ -189,9 +192,9 @@ Những OJ để làm bài tập, contest:
 [E - Max-Min Sums](https://atcoder.jp/contests/abc151/tasks/abc151_e)| AtCoder | [code](https://atcoder.jp/contests/abc151/submissions/52157137)
 
 ### Chương 9: Quy hoạch động (DP)
-#### Link tài liệu:
+#### Tài liệu:
 - [Introduction to Dynamic Programming](https://cp-algorithms.com/dynamic_programming/intro-to-dp.html) (cp-algorithms)
-#### Link bài tập: 
+#### Bài tập: 
 #### VNOJ
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -235,17 +238,17 @@ Những OJ để làm bài tập, contest:
 [[ITK22 TST] Rect](https://nbk.homes/problem/itk22tstrect)| Prefix Sum 2D| [code](https://ideone.com/XHFmeJ)
 [Olympic 30/4 2019 - Khối 10 - Bài 3 - Kinh nghiệm](https://lqdoj.edu.vn/problem/twopaths)| | [code](https://ideone.com/w7mvZ0)
 
-### Chương 10: Cây chỉ số nhị phân (BIT / Fenwick Tree) ft. Kĩ thuật nén số
-#### Link tài liệu:
+### Chương 10: Cây chỉ số nhị phân (BIT / Fenwick Tree) ft. Kỹ thuật nén số
+#### Tài liệu:
 - [Cây chỉ số nhị phân (Binary Indexed Tree)](https://vnoi.info/wiki/algo/data-structures/fenwick.md) (VNOI Wiki)
 - [Fenwick Tree](https://cp-algorithms.com/data_structures/fenwick.html) (cp-algorithms)
 - [Rời rạc hoá và ứng dụng](https://vnoi.info/wiki/algo/trick/Roi-rac-hoa-va-ung-dung.md) (VNOI Wiki)
-#### Link bài tập: 
+#### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Dãy nghịch thế](https://oj.vnoi.info/problem/nkinv)| Đếm số nghịch thế|
-[INCSEQ VN](https://oj.vnoi.info/problem/incvn)| LIS optimization |
-[Dãy con tăng dài nhất (bản khó)](https://oj.vnoi.info/problem/lis)| |
+[Dãy nghịch thế](https://oj.vnoi.info/problem/nkinv)| Đếm số nghịch thế| [code](https://ideone.com/t16pJ5)
+[INCSEQ VN](https://oj.vnoi.info/problem/incvn)| LIS optimization | [code](https://ideone.com/mhdbzL)
+[Dãy con tăng dài nhất (bản khó)](https://oj.vnoi.info/problem/lis)| | [code](https://ideone.com/WVXktx)
 [Increasing Subsequence II](https://cses.fi/problemset/task/1748/)| |
 [D. Ball](https://codeforces.com/contest/12/problem/D)| |
 [List Removals](https://cses.fi/problemset/task/1749/)| Ordered Set Implementation|
@@ -255,9 +258,3 @@ Những OJ để làm bài tập, contest:
 [VOI 05 Bài 1 - Phân đoạn](https://oj.vnoi.info/problem/qbsegpar)| Binary Search x Prefix Sum x DP Optimization using BIT|
 [Salary Queries](https://cses.fi/problemset/task/1144/)| |
 
-### Chương bổ trợ: Tìm kiếm nhị phân (Binary Search) (Tiếp theo)
-- Ôn lại tìm kiếm nhị phân và làm một số dạng bài nâng cao hơn về
-tìm kiếm nhị phân. 
-- Có thể kết hợp các kiến thức khác đã được học ở những chương trước. 
-- Sau khi xong buổi này các bài tập sẽ được gộp lại vào Chương 2: Tìm kiếm nhị phân (Binary Search). 
-- Link group Codeforces để submit bài: https://tkcpml.contest.codeforces.com/group/7rw44sKZZu/contests
