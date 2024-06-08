@@ -252,10 +252,11 @@ Những OJ để làm bài tập, contest:
 [Dãy con tăng dài nhất (bản khó)](https://oj.vnoi.info/problem/lis)| | [code](https://ideone.com/WVXktx)
 [Increasing Subsequence II](https://cses.fi/problemset/task/1748/)| |
 [D. Ball](https://codeforces.com/contest/12/problem/D)| | [code](https://ideone.com/5cSgG4)
+[Nested Ranges Count](https://cses.fi/problemset/task/2169)| |[code](https://ideone.com/EwqKWM)
 [List Removals](https://cses.fi/problemset/task/1749/)| Ordered Set Implementation| [code](https://ideone.com/PV9Mut)
-[Nested Ranges Count](https://cses.fi/problemset/task/2169)| Sweepline x BIT| 
-[D-query](https://oj.vnoi.info/problem/dquery)| Distinct Value Queries |
-[Dãy số](https://oj.vnoi.info/problem/c11seq)| BIT x Prefix Sum| [code](https://ideone.com/2CS8w5)
-[VOI 05 Bài 1 - Phân đoạn](https://oj.vnoi.info/problem/qbsegpar)| Binary Search x Prefix Sum x DP Optimization using BIT|
-[Salary Queries](https://cses.fi/problemset/task/1144/)| |
+[Dãy số](https://oj.vnoi.info/problem/c11seq)| BIT x Prefix Sum|  [code](https://ideone.com/2CS8w5)
+[Salary Queries](https://cses.fi/problemset/task/1144/)| BIT x Nén số|
+[D-query](https://oj.vnoi.info/problem/dquery)| Distinct Value Queries | [code](https://ideone.com/PUZYgc)
+[VOI 05 Bài 1 - Phân đoạn](https://oj.vnoi.info/problem/qbsegpar)| Binary Search x Prefix Sum x DP Optimization using BIT| [code](https://ideone.com/hIKz18)
+
 
