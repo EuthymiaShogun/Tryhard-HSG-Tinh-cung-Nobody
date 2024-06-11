@@ -98,7 +98,7 @@ Những OJ để làm bài tập, contest:
 [E - Average and Median](https://atcoder.jp/contests/abc236/tasks/abc236_e)
 
 ### Chương 3: vector, set/multiset, map 
-  #### Tài liệu: 
+#### Tài liệu: 
 - [vector](https://ideone.com/sYNyRU) 
 - [set/multiset](https://ideone.com/vuXH7Y)
 - [map](https://ideone.com/zjRLau)
@@ -135,7 +135,6 @@ Những OJ để làm bài tập, contest:
 - [Nghịch đảo modulo](https://vnoi.info/wiki/algo/math/modular-inverse.md) (VNOI Wiki)
 - [Tính a<sup>b</sup>](https://ideone.com/rLudfM) (Nobody)
 - [Đồng dư](https://ideone.com/qWdqlY) (Nobody)
-
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -149,7 +148,6 @@ Những OJ để làm bài tập, contest:
 ### Chương 6: Đệ quy (Backtracking)
 #### Tài liệu: 
 - DFS
-
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -180,7 +178,6 @@ Những OJ để làm bài tập, contest:
 - [Cách tính tổ hợp sử dụng tam giác Pascal](https://ideone.com/ZKeXJG) (Nobody)
 - [Binomial Coefficients](https://cp-algorithms.com/combinatorics/binomial-coefficients.html) (cp-algorithms)
 - [Stars and bars](https://cp-algorithms.com/combinatorics/stars_and_bars.html) (cp-algorithms)
-
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -251,12 +248,41 @@ Những OJ để làm bài tập, contest:
 [INCSEQ VN](https://oj.vnoi.info/problem/incvn)| LIS optimization | [code](https://ideone.com/mhdbzL)
 [Dãy con tăng dài nhất (bản khó)](https://oj.vnoi.info/problem/lis)| | [code](https://ideone.com/WVXktx)
 [Increasing Subsequence II](https://cses.fi/problemset/task/1748/)| |
-[D. Ball](https://codeforces.com/contest/12/problem/D)| | [code](https://ideone.com/5cSgG4)
 [Nested Ranges Count](https://cses.fi/problemset/task/2169)| |[code](https://ideone.com/EwqKWM)
+[D. Ball](https://codeforces.com/contest/12/problem/D)| | [code](https://ideone.com/5cSgG4)
 [List Removals](https://cses.fi/problemset/task/1749/)| Ordered Set Implementation| [code](https://ideone.com/PV9Mut)
 [Dãy số](https://oj.vnoi.info/problem/c11seq)| BIT x Prefix Sum|  [code](https://ideone.com/2CS8w5)
 [Salary Queries](https://cses.fi/problemset/task/1144/)| BIT x Nén số|
 [D-query](https://oj.vnoi.info/problem/dquery)| Distinct Value Queries | [code](https://ideone.com/PUZYgc)
 [VOI 05 Bài 1 - Phân đoạn](https://oj.vnoi.info/problem/qbsegpar)| Binary Search x Prefix Sum x DP Optimization using BIT| [code](https://ideone.com/hIKz18)
+
+### Chương 11: Cây phân đoạn (Segment Tree)
+#### Tài liệu:
+- [Cây Phân Đoạn (cơ bản)](https://wiki.vnoi.info/vi/algo/data-structures/segment-tree-basic) (VNOI Wiki)
+- [Tất tần tật về Cây Phân Đoạn (Segment Tree)](https://wiki.vnoi.info/vi/algo/data-structures/segment-tree-extend) (VNOI Wiki)
+- [Segment Tree](https://cp-algorithms.com/data_structures/segment_tree.html) (cp-algorithms)
+#### Bài tập: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[ITEZ2](https://oj.vnoi.info/problem/segtree_itez2)| |
+[Pizzeria Queries](https://cses.fi/problemset/task/2206)| |
+[Prefix Sum Queries](https://cses.fi/problemset/task/2166)| | 
+[Hotel Queries](https://cses.fi/problemset/task/1143/)| Walking on Segment Tree|
+#### Advanced Segment Tree: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[K-query](https://oj.vnoi.info/problem/kquery)| MergeSort Tree| 
+[ITMIX](https://oj.vnoi.info/problem/segtree_itmix)| Truy vấn hỗn hợp|
+[Polynomial Queries](https://cses.fi/problemset/task/1736)| Update bậc thang|
+[Subarray Sum Queries](https://cses.fi/problemset/task/1190)| Truy vấn Đoạn con có tổng lớn nhất
+[Sereja and Brackets](https://codeforces.com/contest/380/problem/C)| Truy vấn Dãy ngoặc đúng|
+[Bit Inversions](https://cses.fi/problemset/task/1188/)| Truy vấn Đoạn con dài nhất chỉ chứa 1 bit|
+#### More problems: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[F. SUM and REPLACE](https://codeforces.com/contest/920/problem/F)| |
+[E. A Simple Task](https://codeforces.com/problemset/problem/558/E)| |
+[E. XOR on Segment](https://codeforces.com/problemset/problem/242/E)| |
+[F. Please, another Queries on Array?](https://codeforces.com/problemset/problem/1114/F)| |
 
 
