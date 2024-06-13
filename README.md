@@ -273,16 +273,21 @@ Những OJ để làm bài tập, contest:
 |--|:--:|:--:
 [K-query](https://oj.vnoi.info/problem/kquery)| MergeSort Tree| 
 [ITMIX](https://oj.vnoi.info/problem/segtree_itmix)| Truy vấn hỗn hợp|
-[Polynomial Queries](https://cses.fi/problemset/task/1736)| Update bậc thang|
+[Polynomial Queries](https://cses.fi/problemset/task/1736)| Truy vấn Update bậc thang|
 [Subarray Sum Queries](https://cses.fi/problemset/task/1190)| Truy vấn Đoạn con có tổng lớn nhất
 [Sereja and Brackets](https://codeforces.com/contest/380/problem/C)| Truy vấn Dãy ngoặc đúng|
 [Bit Inversions](https://cses.fi/problemset/task/1188/)| Truy vấn Đoạn con dài nhất chỉ chứa 1 bit|
+#### DP Optimization using Segment Tree: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[ITMED](https://oj.vnoi.info/problem/segtree_itmed)| |
+[Tôi yêu tổ hợp](https://lqdoj.edu.vn/problem/ilovecombinatorics)| |
+[E. Domino Principle](https://codeforces.com/contest/56/problem/E)| |
 #### More problems: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
+[[QNOI 2019] Function](https://nbk.homes/problem/qn19function)
 [F. SUM and REPLACE](https://codeforces.com/contest/920/problem/F)| |
 [E. A Simple Task](https://codeforces.com/problemset/problem/558/E)| |
 [E. XOR on Segment](https://codeforces.com/problemset/problem/242/E)| |
 [F. Please, another Queries on Array?](https://codeforces.com/problemset/problem/1114/F)| |
-
-
