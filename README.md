@@ -286,7 +286,6 @@ Những OJ để làm bài tập, contest:
 #### More problems: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[[QNOI 2019] Function](https://nbk.homes/problem/qn19function)
 [F. SUM and REPLACE](https://codeforces.com/contest/920/problem/F)| |
 [E. A Simple Task](https://codeforces.com/problemset/problem/558/E)| |
 [E. XOR on Segment](https://codeforces.com/problemset/problem/242/E)| |
