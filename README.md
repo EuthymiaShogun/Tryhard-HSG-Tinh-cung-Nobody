@@ -277,7 +277,7 @@ Những OJ để làm bài tập, contest:
 [Subarray Sum Queries](https://cses.fi/problemset/task/1190)| Truy vấn Đoạn con có tổng lớn nhất
 [Sereja and Brackets](https://codeforces.com/contest/380/problem/C)| Truy vấn Dãy ngoặc đúng|
 [Bit Inversions](https://cses.fi/problemset/task/1188/)| Truy vấn Đoạn con dài nhất chỉ chứa 1 bit|
-#### DP Optimization using Segment Tree: 
+#### DP x Segment Tree: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [ITMED](https://oj.vnoi.info/problem/segtree_itmed)| |
