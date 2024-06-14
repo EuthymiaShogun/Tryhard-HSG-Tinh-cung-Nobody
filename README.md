@@ -271,7 +271,8 @@ Những OJ để làm bài tập, contest:
 #### Advanced Segment Tree: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[K-query](https://oj.vnoi.info/problem/kquery)| MergeSort Tree| 
+[K-query](https://oj.vnoi.info/problem/kquery)| MergeSort Tree (vector)|
+[ITDS1](https://oj.vnoi.info/problem/segtree_itds1)| MergeSort Tree (multiset)| 
 [ITMIX](https://oj.vnoi.info/problem/segtree_itmix)| Truy vấn hỗn hợp|
 [Polynomial Queries](https://cses.fi/problemset/task/1736)| Truy vấn Update bậc thang|
 [Subarray Sum Queries](https://cses.fi/problemset/task/1190)| Truy vấn Đoạn con có tổng lớn nhất
