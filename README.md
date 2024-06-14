@@ -247,12 +247,12 @@ Những OJ để làm bài tập, contest:
 [Dãy nghịch thế](https://oj.vnoi.info/problem/nkinv)| Đếm số nghịch thế| [code](https://ideone.com/t16pJ5)
 [INCSEQ VN](https://oj.vnoi.info/problem/incvn)| LIS optimization | [code](https://ideone.com/mhdbzL)
 [Dãy con tăng dài nhất (bản khó)](https://oj.vnoi.info/problem/lis)| | [code](https://ideone.com/WVXktx)
-[Increasing Subsequence II](https://cses.fi/problemset/task/1748/)| |
+[Increasing Subsequence II](https://cses.fi/problemset/task/1748/)| | [code](https://ideone.com/0ufJZ2)
 [Nested Ranges Count](https://cses.fi/problemset/task/2169)| |[code](https://ideone.com/EwqKWM)
 [D. Ball](https://codeforces.com/contest/12/problem/D)| | [code](https://ideone.com/5cSgG4)
 [List Removals](https://cses.fi/problemset/task/1749/)| Ordered Set Implementation| [code](https://ideone.com/PV9Mut)
 [Dãy số](https://oj.vnoi.info/problem/c11seq)| BIT x Prefix Sum|  [code](https://ideone.com/2CS8w5)
-[Salary Queries](https://cses.fi/problemset/task/1144/)| BIT x Nén số|
+[Salary Queries](https://cses.fi/problemset/task/1144/)| BIT x Nén số| [code](https://ideone.com/wVOedy)
 [D-query](https://oj.vnoi.info/problem/dquery)| Distinct Value Queries | [code](https://ideone.com/PUZYgc)
 [VOI 05 Bài 1 - Phân đoạn](https://oj.vnoi.info/problem/qbsegpar)| Binary Search x Prefix Sum x DP Optimization using BIT| [code](https://ideone.com/hIKz18)
 
@@ -273,8 +273,8 @@ Những OJ để làm bài tập, contest:
 |--|:--:|:--:
 [K-query](https://oj.vnoi.info/problem/kquery)| MergeSort Tree (vector)|
 [ITDS1](https://oj.vnoi.info/problem/segtree_itds1)| MergeSort Tree (multiset)| 
-[ITMIX](https://oj.vnoi.info/problem/segtree_itmix)| Truy vấn hỗn hợp|
-[Polynomial Queries](https://cses.fi/problemset/task/1736)| Truy vấn Update bậc thang|
+[ITMIX](https://oj.vnoi.info/problem/segtree_itmix)| Truy vấn hỗn hợp| [code](https://ideone.com/tWZJQO)
+[Polynomial Queries](https://cses.fi/problemset/task/1736)| Truy vấn Update bậc thang| [code](https://ideone.com/ebnUyL)
 [Subarray Sum Queries](https://cses.fi/problemset/task/1190)| Truy vấn Đoạn con có tổng lớn nhất
 [Sereja and Brackets](https://codeforces.com/contest/380/problem/C)| Truy vấn Dãy ngoặc đúng|
 [Bit Inversions](https://cses.fi/problemset/task/1188/)| Truy vấn Đoạn con dài nhất chỉ chứa 1 bit|
