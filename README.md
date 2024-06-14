@@ -281,9 +281,9 @@ Những OJ để làm bài tập, contest:
 #### DP x Segment Tree: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[ITMED](https://oj.vnoi.info/problem/segtree_itmed)| |
-[Tôi yêu tổ hợp](https://lqdoj.edu.vn/problem/ilovecombinatorics)| |
-[E. Domino Principle](https://codeforces.com/contest/56/problem/E)| |
+[ITMED](https://oj.vnoi.info/problem/segtree_itmed)| DP Optimization|
+[E. Domino Principle](https://codeforces.com/contest/56/problem/E)| DP Optimization |
+[Tôi yêu tổ hợp](https://lqdoj.edu.vn/problem/ilovecombinatorics)| Pre-processing x DP|
 #### More problems: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
