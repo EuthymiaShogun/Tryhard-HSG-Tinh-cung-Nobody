@@ -283,7 +283,7 @@ Những OJ để làm bài tập, contest:
 |--|:--:|:--:
 [ITMED](https://oj.vnoi.info/problem/segtree_itmed)| DP Optimization|
 [E. Domino Principle](https://codeforces.com/contest/56/problem/E)| DP Optimization |
-[Tôi yêu tổ hợp](https://lqdoj.edu.vn/problem/ilovecombinatorics)| Pre-processing x DP|
+[Tôi yêu tổ hợp](https://lqdoj.edu.vn/problem/ilovecombinatorics)| Precompute x DP|
 #### More problems: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
