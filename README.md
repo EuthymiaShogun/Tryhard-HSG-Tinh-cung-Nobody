@@ -264,15 +264,15 @@ Những OJ để làm bài tập, contest:
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[ITEZ2](https://oj.vnoi.info/problem/segtree_itez2)| |
-[Pizzeria Queries](https://cses.fi/problemset/task/2206)| |
+[ITEZ2](https://oj.vnoi.info/problem/segtree_itez2)| | [code](https://ideone.com/cgxXdY)
+[Pizzeria Queries](https://cses.fi/problemset/task/2206)| | [code](https://ideone.com/J92VF8)
 [Prefix Sum Queries](https://cses.fi/problemset/task/2166)| | 
-[Hotel Queries](https://cses.fi/problemset/task/1143/)| Walking on Segment Tree|
+[Hotel Queries](https://cses.fi/problemset/task/1143/)| Walking on Segment Tree| [code](https://ideone.com/Qjll9n)
 #### Advanced Segment Tree: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[K-query](https://oj.vnoi.info/problem/kquery)| MergeSort Tree (vector)|
-[ITDS1](https://oj.vnoi.info/problem/segtree_itds1)| MergeSort Tree (multiset)| 
+[K-query](https://oj.vnoi.info/problem/kquery)| MergeSort Tree (vector)| [code](https://ideone.com/vUoA8N)
+[ITDS1](https://oj.vnoi.info/problem/segtree_itds1)| MergeSort Tree (multiset)| [code](https://ideone.com/aAdRhD)
 [ITMIX](https://oj.vnoi.info/problem/segtree_itmix)| Truy vấn hỗn hợp| [code](https://ideone.com/tWZJQO)
 [Polynomial Queries](https://cses.fi/problemset/task/1736)| Truy vấn Update bậc thang| [code](https://ideone.com/ebnUyL)
 [Subarray Sum Queries](https://cses.fi/problemset/task/1190)| Truy vấn Đoạn con có tổng lớn nhất
