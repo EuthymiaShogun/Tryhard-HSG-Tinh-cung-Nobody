@@ -277,17 +277,17 @@ Những OJ để làm bài tập, contest:
 [Polynomial Queries](https://cses.fi/problemset/task/1736)| Truy vấn Update bậc thang| [code](https://ideone.com/ebnUyL)
 [Subarray Sum Queries](https://cses.fi/problemset/task/1190)| Truy vấn Đoạn con có tổng lớn nhất| [code](https://ideone.com/hlRmYp)
 [Sereja and Brackets](https://codeforces.com/contest/380/problem/C)| Truy vấn Dãy ngoặc đúng|
-[Bit Inversions](https://cses.fi/problemset/task/1188/)| Truy vấn Đoạn con dài nhất chỉ chứa 1 bit|
+[Bit Inversions](https://cses.fi/problemset/task/1188/)| Truy vấn Đoạn con dài nhất chỉ chứa 1 bit| Ý tưởng khá tương tự với truy vấn Đoạn con có tổng lớn nhất
 #### DP x Segment Tree: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [ITMED](https://oj.vnoi.info/problem/segtree_itmed)| DP Optimization| [code](https://www.ideone.com/OVGjhc)
-[E. Domino Principle](https://codeforces.com/contest/56/problem/E)| DP Optimization |
-[Tôi yêu tổ hợp](https://lqdoj.edu.vn/problem/ilovecombinatorics)| Precompute x DP|
+[E. Domino Principle](https://codeforces.com/contest/56/problem/E)| DP Optimization | 
+[Tôi yêu tổ hợp](https://lqdoj.edu.vn/problem/ilovecombinatorics)| Precompute x DP| Tối ưu bước precompute bằng Walking on Segment Tree (tìm số thứ k)
 #### More problems: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[F. SUM and REPLACE](https://codeforces.com/contest/920/problem/F)| |
-[E. A Simple Task](https://codeforces.com/problemset/problem/558/E)| |
-[E. XOR on Segment](https://codeforces.com/problemset/problem/242/E)| |
-[F. Please, another Queries on Array?](https://codeforces.com/problemset/problem/1114/F)| |
+[F. SUM and REPLACE](https://codeforces.com/contest/920/problem/F)| Segment Tree x Brute force|
+[E. A Simple Task](https://codeforces.com/problemset/problem/558/E)| Counting Sort x Segment Tree| Mỗi cây Segment Tree quản lí một chữ cái
+[E. XOR on Segment](https://codeforces.com/problemset/problem/242/E)| | Chúng ta có thể xử lí độc lập theo từng bit, mỗi bit đóng góp vào trong đáp án bao nhiêu?. Mỗi cây Segment Tree quản lí một vị trí bit.  
+[F. Please, another Queries on Array?](https://codeforces.com/problemset/problem/1114/F)| | Tìm công thức tính Phi hàm euler của một số nguyên n. Mỗi cây segment tree quản lí 1 thừa số nguyên tố.
