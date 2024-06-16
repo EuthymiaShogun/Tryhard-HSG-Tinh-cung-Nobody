@@ -49,6 +49,7 @@ Những OJ để làm bài tập, contest:
 ## Giáo án
 ### Chương 0: Độ phức tạp tính toán
 #### Tài liệu: 
+- [Độ phức tạp thời gian](https://wiki.vnoi.info/vi/algo/basic/computational-complexity) (VNOI Wiki)
 - [Độ phức tạp tính toán (Big O)](https://docs.google.com/presentation/d/1g1rdxPHDZbKqr5vXioVNITwALB3Em0VTEEhTqYV2Vfs/edit?usp=sharing)
  
 ### Chương 1: Số nguyên tố
@@ -89,7 +90,6 @@ Những OJ để làm bài tập, contest:
 [Kiến xếp hàng](https://lqdoj.edu.vn/problem/antsort)| | [code](https://ideone.com/252NXY)
 [Leo thang](https://lqdoj.edu.vn/problem/23gl2b3)| | [code](https://ideone.com/BCLm6z)
 [Sắp xếp bảng số](https://lqdoj.edu.vn/problem/numorder)| | [code](https://ideone.com/tTFyVN)
-[Sân Golf (OLP 10 - 2018)](https://lqdoj.edu.vn/problem/golf)
 [Factory Machines](https://cses.fi/problemset/task/1620)| CSES | [code](https://cses.fi/paste/d8210791e898163c882565/)
 [Multiplication Table](https://cses.fi/problemset/task/2422)
 [Array Division](https://cses.fi/problemset/task/1085)
