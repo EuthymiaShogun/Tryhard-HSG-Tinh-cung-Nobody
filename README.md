@@ -266,7 +266,7 @@ Những OJ để làm bài tập, contest:
 |--|:--:|:--:
 [ITEZ2](https://oj.vnoi.info/problem/segtree_itez2)| | [code](https://ideone.com/cgxXdY)
 [Pizzeria Queries](https://cses.fi/problemset/task/2206)| | [code](https://ideone.com/J92VF8)
-[Prefix Sum Queries](https://cses.fi/problemset/task/2166)| | 
+[Prefix Sum Queries](https://cses.fi/problemset/task/2166)| | [code](https://ideone.com/dPIVPd)
 [Hotel Queries](https://cses.fi/problemset/task/1143/)| Walking on Segment Tree| [code](https://ideone.com/Qjll9n)
 #### Advanced Segment Tree: 
 |Problems |Tags |Editorial
@@ -275,13 +275,13 @@ Những OJ để làm bài tập, contest:
 [ITDS1](https://oj.vnoi.info/problem/segtree_itds1)| MergeSort Tree (multiset)| [code](https://ideone.com/aAdRhD)
 [ITMIX](https://oj.vnoi.info/problem/segtree_itmix)| Truy vấn hỗn hợp| [code](https://ideone.com/tWZJQO)
 [Polynomial Queries](https://cses.fi/problemset/task/1736)| Truy vấn Update bậc thang| [code](https://ideone.com/ebnUyL)
-[Subarray Sum Queries](https://cses.fi/problemset/task/1190)| Truy vấn Đoạn con có tổng lớn nhất
+[Subarray Sum Queries](https://cses.fi/problemset/task/1190)| Truy vấn Đoạn con có tổng lớn nhất| [code](https://ideone.com/hlRmYp)
 [Sereja and Brackets](https://codeforces.com/contest/380/problem/C)| Truy vấn Dãy ngoặc đúng|
 [Bit Inversions](https://cses.fi/problemset/task/1188/)| Truy vấn Đoạn con dài nhất chỉ chứa 1 bit|
 #### DP x Segment Tree: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[ITMED](https://oj.vnoi.info/problem/segtree_itmed)| DP Optimization|
+[ITMED](https://oj.vnoi.info/problem/segtree_itmed)| DP Optimization| [code](https://www.ideone.com/OVGjhc)
 [E. Domino Principle](https://codeforces.com/contest/56/problem/E)| DP Optimization |
 [Tôi yêu tổ hợp](https://lqdoj.edu.vn/problem/ilovecombinatorics)| Precompute x DP|
 #### More problems: 
