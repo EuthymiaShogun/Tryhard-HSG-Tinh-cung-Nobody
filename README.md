@@ -276,14 +276,14 @@ Những OJ để làm bài tập, contest:
 [ITMIX](https://oj.vnoi.info/problem/segtree_itmix)| Truy vấn hỗn hợp| [code](https://ideone.com/tWZJQO)
 [Polynomial Queries](https://cses.fi/problemset/task/1736)| Truy vấn Update bậc thang| [code](https://ideone.com/ebnUyL)
 [Subarray Sum Queries](https://cses.fi/problemset/task/1190)| Truy vấn Đoạn con có tổng lớn nhất| [code](https://ideone.com/hlRmYp)
-[Sereja and Brackets](https://codeforces.com/contest/380/problem/C)| Truy vấn Dãy ngoặc đúng|
-[Bit Inversions](https://cses.fi/problemset/task/1188/)| Truy vấn Đoạn con dài nhất chỉ chứa 1 bit| Ý tưởng khá tương tự với truy vấn Đoạn con có tổng lớn nhất
+[Sereja and Brackets](https://codeforces.com/contest/380/problem/C)| Truy vấn Dãy ngoặc đúng| [code](https://ideone.com/NIhNtG)
+[Bit Inversions](https://cses.fi/problemset/task/1188/)| Truy vấn Đoạn con dài nhất chỉ chứa 1 bit| [code](https://ideone.com/M9OccU)
 #### DP x Segment Tree: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [ITMED](https://oj.vnoi.info/problem/segtree_itmed)| DP Optimization| [code](https://www.ideone.com/OVGjhc)
-[E. Domino Principle](https://codeforces.com/contest/56/problem/E)| DP Optimization | 
-[Tôi yêu tổ hợp](https://lqdoj.edu.vn/problem/ilovecombinatorics)| Precompute x DP| Tối ưu bước precompute bằng Walking on Segment Tree (tìm số thứ k)
+[E. Domino Principle](https://codeforces.com/contest/56/problem/E)| DP Optimization | [code](https://ideone.com/HrZ3Nv)
+[Tôi yêu tổ hợp](https://lqdoj.edu.vn/problem/ilovecombinatorics)| Precompute x DP| [code](https://ideone.com/l9K0kG)
 #### More problems: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
