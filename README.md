@@ -91,6 +91,9 @@ Những OJ để làm bài tập, contest:
 [Leo thang](https://lqdoj.edu.vn/problem/23gl2b3)| | [code](https://ideone.com/BCLm6z)
 [Sắp xếp bảng số](https://lqdoj.edu.vn/problem/numorder)| | [code](https://ideone.com/tTFyVN)
 [Factory Machines](https://cses.fi/problemset/task/1620)| CSES | [code](https://cses.fi/paste/d8210791e898163c882565/)
+#### More Problems:
+|Problems |Tags |Editorial
+|--|:--:|:--:
 [Multiplication Table](https://cses.fi/problemset/task/2422)
 [Array Division](https://cses.fi/problemset/task/1085)
 [VOI 12 Bài 3 - Điều động](https://oj.vnoi.info/problem/move12)| VNOJ| 
@@ -114,6 +117,10 @@ Những OJ để làm bài tập, contest:
 [D. Pair of Topics](https://codeforces.com/problemset/problem/1324/D) | | [code](https://ideone.com/ehre37)
 [C. Good Subarrays](https://codeforces.com/problemset/problem/1398/C)| | [code](https://codeforces.com/contest/1398/submission/242461474)
 [B. Sereja and Suffixes](https://codeforces.com/problemset/problem/368/B)| | [code](https://codeforces.com/contest/368/submission/242462196)
+#### More Problems:
+|Problems |Tags |Editorial | 
+|--|:--:|:--:
+[Traffic Lights](https://cses.fi/problemset/task/1163)| |
 
 ### Chương 4: Tổng tiền tố (Prefix Sum)
 #### Tài liệu: 
@@ -127,7 +134,10 @@ Những OJ để làm bài tập, contest:
 [Duyên Hải 2021 - Khối 10 - Bài 1 - Bài dễ](https://oj.vnoi.info/problem/dhbb21_easytask)| | [code](https://ideone.com/DewSp4)
 [Dãy 2-Sum](https://oj.vnoi.info/problem/twosum) | | [code](https://ideone.com/aJMsPs)
 [B. Karen and Coffee](https://codeforces.com/contest/816/problem/B)| Bài toán 1 + 2| [code](https://codeforces.com/contest/816/submission/257746125)
-
+#### Bài tập:
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Restaurant Customers](https://cses.fi/problemset/task/1619)| |
 ### Chương 5: Đồng dư, tính a<sup>b</sup>
 #### Tài liệu: 
 - [Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html) (cp-algorithms)
@@ -159,6 +169,12 @@ Những OJ để làm bài tập, contest:
 [A. LLPS](https://codeforces.com/contest/202/problem/A)| | [code](https://ideone.com/I4f3fQ)
 [B. Preparing Olympiad](https://codeforces.com/contest/550/problem/B)| | [code](https://ideone.com/ESsanF)
 [Binpacking](https://oj.vnoi.info/problem/binpack) (subtask 1)| | [code](https://ideone.com/Uf3Dqs)
+
+#### More Problems: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Educational Backtracking: Bể chứa nước](https://oj.vnoi.info/problem/backtrack_c)| |
+[Educational Backtracking: Đổi dấu](https://oj.vnoi.info/problem/backtrack_k)| |
 
 ### Chương 7: Bitmask - Thao tác bit
 #### Tài liệu:
@@ -236,6 +252,12 @@ Những OJ để làm bài tập, contest:
 [[ITK22 TST] Rect](https://nbk.homes/problem/itk22tstrect)| Prefix Sum 2D| [code](https://ideone.com/XHFmeJ)
 [Olympic 30/4 2019 - Khối 10 - Bài 3 - Kinh nghiệm](https://lqdoj.edu.vn/problem/twopaths)| | [code](https://ideone.com/w7mvZ0)
 
+#### More Problems 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Projects](https://cses.fi/problemset/task/1140)| |
+[E - Rook Path](https://atcoder.jp/contests/abc232/tasks/abc232_e)
+
 ### Chương 10: Cây chỉ số nhị phân (BIT / Fenwick Tree) ft. Kỹ thuật nén số
 #### Tài liệu:
 - [Cây chỉ số nhị phân (Binary Indexed Tree)](https://vnoi.info/wiki/algo/data-structures/fenwick.md) (VNOI Wiki)
@@ -284,7 +306,7 @@ Những OJ để làm bài tập, contest:
 [ITMED](https://oj.vnoi.info/problem/segtree_itmed)| DP Optimization| [code](https://www.ideone.com/OVGjhc)
 [E. Domino Principle](https://codeforces.com/contest/56/problem/E)| DP Optimization | [code](https://ideone.com/HrZ3Nv)
 [Tôi yêu tổ hợp](https://lqdoj.edu.vn/problem/ilovecombinatorics)| Precompute x DP| [code](https://ideone.com/l9K0kG)
-#### More problems: 
+#### More Problems: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [F. SUM and REPLACE](https://codeforces.com/contest/920/problem/F)| Segment Tree x Brute force|
