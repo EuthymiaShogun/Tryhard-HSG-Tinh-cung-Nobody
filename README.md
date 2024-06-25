@@ -133,11 +133,13 @@ Những OJ để làm bài tập, contest:
 [Maximum Subarray Sum](https://cses.fi/problemset/task/1643) | Bài toán đoạn con có tổng lớn nhất| [code](https://cses.fi/paste/7895727ce6f95b647c0701/)
 [Duyên Hải 2021 - Khối 10 - Bài 1 - Bài dễ](https://oj.vnoi.info/problem/dhbb21_easytask)| | [code](https://ideone.com/DewSp4)
 [Dãy 2-Sum](https://oj.vnoi.info/problem/twosum) | | [code](https://ideone.com/aJMsPs)
-[B. Karen and Coffee](https://codeforces.com/contest/816/problem/B)| Bài toán 1 + 2| [code](https://codeforces.com/contest/816/submission/257746125)
-#### Bài tập:
+
+#### More Problems: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Restaurant Customers](https://cses.fi/problemset/task/1619)| |
+[Restaurant Customers](https://cses.fi/problemset/task/1619) | Bài toán 2| [code](https://cses.fi/paste/8147d1bfec6e3377237960/)
+[B. Karen and Coffee](https://codeforces.com/contest/816/problem/B)| Bài toán 1 + 2| [code](https://codeforces.com/contest/816/submission/257746125)
+
 ### Chương 5: Đồng dư, tính a<sup>b</sup>
 #### Tài liệu: 
 - [Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html) (cp-algorithms)
@@ -250,14 +252,14 @@ Những OJ để làm bài tập, contest:
 [Olympic 30/4 2018 - Khối 10 - Bài 2 - Chia đất](https://oj.vnoi.info/problem/olp304_18_chiadat)| Prefix Sum 2D| [code](https://ideone.com/k169qu)
 [Siêu thị (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3d)| Prefix Sum 2D| [code](https://ideone.com/ZX0pOR)
 [[ITK22 TST] Rect](https://nbk.homes/problem/itk22tstrect)| Prefix Sum 2D| [code](https://ideone.com/XHFmeJ)
-[Olympic 30/4 2019 - Khối 10 - Bài 3 - Kinh nghiệm](https://lqdoj.edu.vn/problem/twopaths)| | [code](https://ideone.com/w7mvZ0)
 
-#### More Problems 
+#### More Problems: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Projects](https://cses.fi/problemset/task/1140)| |
-[E - Rook Path](https://atcoder.jp/contests/abc232/tasks/abc232_e)
-
+[E - Rook Path](https://atcoder.jp/contests/abc232/tasks/abc232_e)| |
+[D - Flipping Signs](https://atcoder.jp/contests/abc125/tasks/abc125_d)| |
+[Olympic 30/4 2019 - Khối 10 - Bài 3 - Kinh nghiệm](https://lqdoj.edu.vn/problem/twopaths)| | [code](https://ideone.com/w7mvZ0)
 ### Chương 10: Cây chỉ số nhị phân (BIT / Fenwick Tree) ft. Kỹ thuật nén số
 #### Tài liệu:
 - [Cây chỉ số nhị phân (Binary Indexed Tree)](https://vnoi.info/wiki/algo/data-structures/fenwick.md) (VNOI Wiki)
@@ -309,7 +311,7 @@ Những OJ để làm bài tập, contest:
 #### More Problems: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[F. SUM and REPLACE](https://codeforces.com/contest/920/problem/F)| Segment Tree x Brute force|
+[F. SUM and REPLACE](https://codeforces.com/contest/920/problem/F)| Segment Tree x Brute force| [code](https://ideone.com/rlJvuX)
 [E. A Simple Task](https://codeforces.com/problemset/problem/558/E)| Counting Sort x Segment Tree| Mỗi cây Segment Tree quản lí một chữ cái
 [E. XOR on Segment](https://codeforces.com/problemset/problem/242/E)| | Chúng ta có thể xử lí độc lập theo từng bit, mỗi bit đóng góp vào trong đáp án bao nhiêu?. Mỗi cây Segment Tree quản lí một vị trí bit.  
 [F. Please, another Queries on Array?](https://codeforces.com/problemset/problem/1114/F)| | Tìm công thức tính Phi hàm euler của một số nguyên n. Mỗi cây segment tree quản lí 1 thừa số nguyên tố.
