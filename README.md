@@ -259,7 +259,9 @@ Những OJ để làm bài tập, contest:
 [Projects](https://cses.fi/problemset/task/1140)| |
 [E - Rook Path](https://atcoder.jp/contests/abc232/tasks/abc232_e)| |
 [D - Flipping Signs](https://atcoder.jp/contests/abc125/tasks/abc125_d)| |
+[Olympic 30/4 2024 - Khối 10 - Bài 1 - Băng rôn olympic](https://lqdoj.edu.vn/problem/24olp30410a)| | [code](https://ideone.com/HwpaMQ)
 [Olympic 30/4 2019 - Khối 10 - Bài 3 - Kinh nghiệm](https://lqdoj.edu.vn/problem/twopaths)| | [code](https://ideone.com/w7mvZ0)
+
 ### Chương 10: Cây chỉ số nhị phân (BIT / Fenwick Tree) ft. Kỹ thuật nén số
 #### Tài liệu:
 - [Cây chỉ số nhị phân (Binary Indexed Tree)](https://vnoi.info/wiki/algo/data-structures/fenwick.md) (VNOI Wiki)
@@ -312,6 +314,6 @@ Những OJ để làm bài tập, contest:
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [F. SUM and REPLACE](https://codeforces.com/contest/920/problem/F)| Segment Tree x Brute force| [code](https://ideone.com/rlJvuX)
-[E. A Simple Task](https://codeforces.com/problemset/problem/558/E)| Counting Sort x Segment Tree| Mỗi cây Segment Tree quản lí một chữ cái
+[E. A Simple Task](https://codeforces.com/problemset/problem/558/E)| Counting Sort x Segment Tree| [code](https://ideone.com/IWO2Pv)
 [E. XOR on Segment](https://codeforces.com/problemset/problem/242/E)| | Chúng ta có thể xử lí độc lập theo từng bit, mỗi bit đóng góp vào trong đáp án bao nhiêu?. Mỗi cây Segment Tree quản lí một vị trí bit.  
 [F. Please, another Queries on Array?](https://codeforces.com/problemset/problem/1114/F)| | Tìm công thức tính Phi hàm euler của một số nguyên n. Mỗi cây segment tree quản lí 1 thừa số nguyên tố.
