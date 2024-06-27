@@ -133,7 +133,6 @@ Những OJ để làm bài tập, contest:
 [Maximum Subarray Sum](https://cses.fi/problemset/task/1643) | Bài toán đoạn con có tổng lớn nhất| [code](https://cses.fi/paste/7895727ce6f95b647c0701/)
 [Duyên Hải 2021 - Khối 10 - Bài 1 - Bài dễ](https://oj.vnoi.info/problem/dhbb21_easytask)| | [code](https://ideone.com/DewSp4)
 [Dãy 2-Sum](https://oj.vnoi.info/problem/twosum) | | [code](https://ideone.com/aJMsPs)
-
 #### More Problems: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -171,7 +170,6 @@ Những OJ để làm bài tập, contest:
 [A. LLPS](https://codeforces.com/contest/202/problem/A)| | [code](https://ideone.com/I4f3fQ)
 [B. Preparing Olympiad](https://codeforces.com/contest/550/problem/B)| | [code](https://ideone.com/ESsanF)
 [Binpacking](https://oj.vnoi.info/problem/binpack) (subtask 1)| | [code](https://ideone.com/Uf3Dqs)
-
 #### More Problems: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -228,7 +226,6 @@ Những OJ để làm bài tập, contest:
 [Grid Paths](https://cses.fi/problemset/task/1638)|| [code](https://cses.fi/paste/7998916af42956188973b6/)
 [Edit Distance](https://cses.fi/problemset/task/1639)| | [code](https://ideone.com/CoZVES)
 [Rectangle Cutting](https://cses.fi/problemset/task/1744)| | [code](https://cses.fi/paste/b1cad99348e945e18973dd/)
-
 #### AtCoder
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -243,7 +240,6 @@ Những OJ để làm bài tập, contest:
 [D - Max Multiple](https://atcoder.jp/contests/abc281/tasks/abc281_d)| | [code](https://ideone.com/0oKOtg)
 [D - I Hate Non-integer Number](https://atcoder.jp/contests/abc262/tasks/abc262_d)| | [code](https://atcoder.jp/contests/abc262/submissions/52671375)
 [E - Queen on Grid](https://atcoder.jp/contests/abc183/tasks/abc183_e)| | [code](https://ideone.com/AFqrDH)
-
 #### HSG Tỉnh - Olympic Khu vực
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -252,7 +248,6 @@ Những OJ để làm bài tập, contest:
 [Olympic 30/4 2018 - Khối 10 - Bài 2 - Chia đất](https://oj.vnoi.info/problem/olp304_18_chiadat)| Prefix Sum 2D| [code](https://ideone.com/k169qu)
 [Siêu thị (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3d)| Prefix Sum 2D| [code](https://ideone.com/ZX0pOR)
 [[ITK22 TST] Rect](https://nbk.homes/problem/itk22tstrect)| Prefix Sum 2D| [code](https://ideone.com/XHFmeJ)
-
 #### More Problems: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -315,5 +310,5 @@ Những OJ để làm bài tập, contest:
 |--|:--:|:--:
 [F. SUM and REPLACE](https://codeforces.com/contest/920/problem/F)| Segment Tree x Brute force| [code](https://ideone.com/rlJvuX)
 [E. A Simple Task](https://codeforces.com/problemset/problem/558/E)| Counting Sort x Segment Tree| [code](https://ideone.com/IWO2Pv)
-[E. XOR on Segment](https://codeforces.com/problemset/problem/242/E)| | Chúng ta có thể xử lí độc lập theo từng bit, mỗi bit đóng góp vào trong đáp án bao nhiêu?. Mỗi cây Segment Tree quản lí một vị trí bit.  
+[E. XOR on Segment](https://codeforces.com/problemset/problem/242/E)| Bitmask x Segment Tree | [code](https://ideone.com/LBKkLc) 
 [F. Please, another Queries on Array?](https://codeforces.com/problemset/problem/1114/F)| | Tìm công thức tính Phi hàm euler của một số nguyên n. Mỗi cây segment tree quản lí 1 thừa số nguyên tố.
