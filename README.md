@@ -83,14 +83,13 @@ Những OJ để làm bài tập, contest:
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Mua bài](https://lqdoj.edu.vn/problem/buycard) | LQDOJ | [code](https://ideone.com/jRcRs7)
-[Chia năm nhiều lần](https://lqdoj.edu.vn/problem/five)| | [code](https://ideone.com/5byC7i)
-[Khẩu trang](https://lqdoj.edu.vn/problem/mask)| | [code](https://ideone.com/Li886J)
-[Không chia hết](https://lqdoj.edu.vn/problem/ndivi)| | [code](https://ideone.com/xXnh5u)
+[Chia năm nhiều lần](https://lqdoj.edu.vn/problem/five)| | [code](https://ideone.com/YOxVk2)
+[Không chia hết](https://lqdoj.edu.vn/problem/ndivi)| | [code](https://ideone.com/jLapQS)
 [Số thứ n](https://lqdoj.edu.vn/problem/nth)| | [code](https://ideone.com/r6dmiy)
 [Kiến xếp hàng](https://lqdoj.edu.vn/problem/antsort)| | [code](https://ideone.com/252NXY)
 [Leo thang](https://lqdoj.edu.vn/problem/23gl2b3)| | [code](https://ideone.com/BCLm6z)
 [Sắp xếp bảng số](https://lqdoj.edu.vn/problem/numorder)| | [code](https://ideone.com/tTFyVN)
-[Factory Machines](https://cses.fi/problemset/task/1620)| CSES | [code](https://cses.fi/paste/d8210791e898163c882565/)
+[Factory Machines](https://cses.fi/problemset/task/1620)| CSES | [code](https://cses.fi/paste/66d203bbff2eaef4944f12/)
 #### More Problems:
 |Problems |Tags |Editorial
 |--|:--:|:--:
