@@ -57,23 +57,22 @@ Những OJ để làm bài tập, contest:
 - [Sieve of Eratosthenes](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html) (cp-algorithms)
 - [Integer factorization](https://cp-algorithms.com/algebra/factorization.html) (cp-algorithms)
 - [Số học 2 - Số nguyên tố, Sàng Eratosthenes](https://vnoi.info/wiki/translate/he/Number-Theory-2.md) (VNOI Wiki)
+- [Finding Power of Factorial Divisor](https://cp-algorithms.com/algebra/factorial-divisors.html) (cp-algorithms)
 #### Bài tập:
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [B. 250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | Sàng O(nlog(n))| [code](https://codeforces.com/contest/1899/submission/234215285)
 [[QNOI 2020] Ước tự nhiên](https://nbk.homes/problem/qn20natdiv) | Sàng O(nlog(n)) | [code](https://ideone.com/j32poW)
-[Số nguyên tố (OLP 10 - 2019)](https://lqdoj.edu.vn/problem/primecount) | Sàng trên đoạn | [code](https://ideone.com/Rgn0Vg)
 [G - Short Task](https://codeforces.com/contest/1512/problem/G) | Sàng O(nlog(n)) | [code](https://codeforces.com/contest/1512/submission/234391557)
 [FACT0](https://www.spoj.com/problems/FACT0/) | Phân tích thừa số O(sqrt(n))| [code](https://ideone.com/sL64ba)
-[[QNOI 2017] Bảng nguyên tố](https://nbk.homes/problem/qn17mprime)| |
+[Số nguyên tố (OLP 10 - 2019)](https://lqdoj.edu.vn/problem/primecount) | Sàng trên đoạn | [code](https://ideone.com/Rgn0Vg)
 [[QNOI 2016] K-factor](https://nbk.homes/problem/qn16kfactor) | Sàng trên đoạn | [code](https://ideone.com/2Wd6BG)
+[[QNOI 2017] Bảng nguyên tố](https://nbk.homes/problem/qn17mprime)| Brute force x Sàng | [code](https://ideone.com/TZVJJ9)
 [D - Not Divisible](https://atcoder.jp/contests/abc170/tasks/abc170_d) | Đếm
 [D - Index Trio](https://atcoder.jp/contests/abc249/tasks/abc249_d) | Đếm 
-[D - Partition](https://atcoder.jp/contests/abc112/tasks/abc112_d) | Meth
-[C - Factors of Factorial](https://atcoder.jp/contests/abc052/tasks/arc067_a) | Công thức Legendre
-[A - Getting Difference](https://atcoder.jp/contests/agc018/tasks/agc018_a)
-[D - Factorial and Multiple](https://atcoder.jp/contests/abc280/tasks/abc280_d)
 [B - Between a and b ...](https://atcoder.jp/contests/abc048/tasks/abc048_b)| | [code](https://atcoder.jp/contests/abc048/submissions/53700986)
+[C - Factors of Factorial](https://atcoder.jp/contests/abc052/tasks/arc067_a) | Công thức Legendre
+[D - Factorial and Multiple](https://atcoder.jp/contests/abc280/tasks/abc280_d)| | [code](https://ideone.com/4Rq6h3)
 [E - Double Factorial](https://atcoder.jp/contests/abc148/tasks/abc148_e)| | [code](https://atcoder.jp/contests/abc148/submissions/53703624)
 
 ### Chương 2: Tìm kiếm nhị phân (Binary Search) 
@@ -250,11 +249,11 @@ Những OJ để làm bài tập, contest:
 #### More Problems: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Projects](https://cses.fi/problemset/task/1140)| |
+[Projects](https://cses.fi/problemset/task/1140)| Sort x Binary Search / BIT x DP|
 [E - Rook Path](https://atcoder.jp/contests/abc232/tasks/abc232_e)| |
 [D - Flipping Signs](https://atcoder.jp/contests/abc125/tasks/abc125_d)| |
 [Olympic 30/4 2024 - Khối 10 - Bài 1 - Băng rôn olympic](https://lqdoj.edu.vn/problem/24olp30410a)| | [code](https://ideone.com/HwpaMQ)
-[Olympic 30/4 2019 - Khối 10 - Bài 3 - Kinh nghiệm](https://lqdoj.edu.vn/problem/twopaths)| | [code](https://ideone.com/w7mvZ0)
+[Olympic 30/4 2019 - Khối 10 - Bài 3 - Kinh nghiệm](https://lqdoj.edu.vn/problem/twopaths)| Đường đi trên lưới với 2 người| [code](https://ideone.com/w7mvZ0)
 
 ### Chương 10: Cây chỉ số nhị phân (BIT / Fenwick Tree) ft. Kỹ thuật nén số
 #### Tài liệu:
@@ -310,4 +309,4 @@ Những OJ để làm bài tập, contest:
 [F. SUM and REPLACE](https://codeforces.com/contest/920/problem/F)| Segment Tree x Brute force| [code](https://ideone.com/rlJvuX)
 [E. A Simple Task](https://codeforces.com/problemset/problem/558/E)| Counting Sort x Segment Tree| [code](https://ideone.com/IWO2Pv)
 [E. XOR on Segment](https://codeforces.com/problemset/problem/242/E)| Bitmask x Segment Tree | [code](https://ideone.com/LBKkLc) 
-[F. Please, another Queries on Array?](https://codeforces.com/problemset/problem/1114/F)| | Tìm công thức tính Phi hàm euler của một số nguyên n. Mỗi cây segment tree quản lí 1 thừa số nguyên tố.
+
