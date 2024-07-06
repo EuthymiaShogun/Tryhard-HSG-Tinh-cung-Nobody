@@ -58,20 +58,21 @@ Những OJ để làm bài tập, contest:
 - [Integer factorization](https://cp-algorithms.com/algebra/factorization.html) (cp-algorithms)
 - [Số học 2 - Số nguyên tố, Sàng Eratosthenes](https://vnoi.info/wiki/translate/he/Number-Theory-2.md) (VNOI Wiki)
 - [Finding Power of Factorial Divisor](https://cp-algorithms.com/algebra/factorial-divisors.html) (cp-algorithms)
+- [Number of divisors / sum of divisors](https://cp-algorithms.com/algebra/divisors.html) (cp-algorithms)
 #### Bài tập:
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [B. 250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | Sàng O(nlog(n))| [code](https://codeforces.com/contest/1899/submission/234215285)
-[[QNOI 2020] Ước tự nhiên](https://nbk.homes/problem/qn20natdiv) | Sàng O(nlog(n)) | [code](https://ideone.com/j32poW)
-[G - Short Task](https://codeforces.com/contest/1512/problem/G) | Sàng O(nlog(n)) | [code](https://codeforces.com/contest/1512/submission/234391557)
+[[QNOI 2020] Ước tự nhiên](https://nbk.homes/problem/qn20natdiv) | | [code](https://ideone.com/j32poW)
+[G - Short Task](https://codeforces.com/contest/1512/problem/G) | | [code](https://codeforces.com/contest/1512/submission/234391557)
 [FACT0](https://www.spoj.com/problems/FACT0/) | Phân tích thừa số O(sqrt(n))| [code](https://ideone.com/sL64ba)
 [Số nguyên tố (OLP 10 - 2019)](https://lqdoj.edu.vn/problem/primecount) | Sàng trên đoạn | [code](https://ideone.com/Rgn0Vg)
-[[QNOI 2016] K-factor](https://nbk.homes/problem/qn16kfactor) | Sàng trên đoạn | [code](https://ideone.com/2Wd6BG)
+[[QNOI 2016] K-factor](https://nbk.homes/problem/qn16kfactor) | | [code](https://ideone.com/2Wd6BG)
 [[QNOI 2017] Bảng nguyên tố](https://nbk.homes/problem/qn17mprime)| Brute force x Sàng | [code](https://ideone.com/TZVJJ9)
-[D - Not Divisible](https://atcoder.jp/contests/abc170/tasks/abc170_d) | Đếm
-[D - Index Trio](https://atcoder.jp/contests/abc249/tasks/abc249_d) | Đếm 
+[D - Not Divisible](https://atcoder.jp/contests/abc170/tasks/abc170_d) | Đếm | [code](https://ideone.com/wv6Utl)
+[D - Index Trio](https://atcoder.jp/contests/abc249/tasks/abc249_d) | | [code](https://ideone.com/GdhMnc)
 [B - Between a and b ...](https://atcoder.jp/contests/abc048/tasks/abc048_b)| | [code](https://atcoder.jp/contests/abc048/submissions/53700986)
-[C - Factors of Factorial](https://atcoder.jp/contests/abc052/tasks/arc067_a) | Công thức Legendre
+[C - Factors of Factorial](https://atcoder.jp/contests/abc052/tasks/arc067_a) | Công thức Legendre | [code](https://ideone.com/HZKUX1)
 [D - Factorial and Multiple](https://atcoder.jp/contests/abc280/tasks/abc280_d)| | [code](https://ideone.com/4Rq6h3)
 [E - Double Factorial](https://atcoder.jp/contests/abc148/tasks/abc148_e)| | [code](https://atcoder.jp/contests/abc148/submissions/53703624)
 
