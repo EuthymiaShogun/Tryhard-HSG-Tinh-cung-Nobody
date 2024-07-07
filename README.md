@@ -93,11 +93,11 @@ Những OJ để làm bài tập, contest:
 #### More Problems:
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Multiplication Table](https://cses.fi/problemset/task/2422)
-[Array Division](https://cses.fi/problemset/task/1085)
-[VOI 12 Bài 3 - Điều động](https://oj.vnoi.info/problem/move12)| VNOJ| 
-[D. Max Median](https://codeforces.com/problemset/problem/1486/D)| | 
-[E - Average and Median](https://atcoder.jp/contests/abc236/tasks/abc236_e)
+[Multiplication Table](https://cses.fi/problemset/task/2422)| | [code](https://ideone.com/mXMq1o)
+[Array Division](https://cses.fi/problemset/task/1085)| Binary Search x Tham lam | [code](https://www.ideone.com/Zn7DmP)
+[VOI 12 Bài 3 - Điều động](https://oj.vnoi.info/problem/move12)| Binary Search x Tham lam | [code](https://ideone.com/xw2bA5)
+[D. Max Median](https://codeforces.com/problemset/problem/1486/D)| Binary Search x DP| [code](https://ideone.com/HJm0NH)
+[E - Average and Median](https://atcoder.jp/contests/abc236/tasks/abc236_e)| Binary Search x DP| [code](https://ideone.com/hvLwU6)
 
 ### Chương 3: vector, set/multiset, map 
 #### Tài liệu: 
