@@ -250,9 +250,9 @@ Những OJ để làm bài tập, contest:
 #### More Problems: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Projects](https://cses.fi/problemset/task/1140)| Sort x Binary Search / BIT x DP|
-[E - Rook Path](https://atcoder.jp/contests/abc232/tasks/abc232_e)| |
-[D - Flipping Signs](https://atcoder.jp/contests/abc125/tasks/abc125_d)| |
+[Projects](https://cses.fi/problemset/task/1140)| Sort x Binary Search / BIT x DP| [code](https://ideone.com/JLYahs)
+[E - Rook Path](https://atcoder.jp/contests/abc232/tasks/abc232_e)| | [code](https://ideone.com/00bf79)
+[D - Flipping Signs](https://atcoder.jp/contests/abc125/tasks/abc125_d)| | [code](https://ideone.com/4Xuq40)
 [Olympic 30/4 2024 - Khối 10 - Bài 1 - Băng rôn olympic](https://lqdoj.edu.vn/problem/24olp30410a)| | [code](https://ideone.com/HwpaMQ)
 [Olympic 30/4 2019 - Khối 10 - Bài 3 - Kinh nghiệm](https://lqdoj.edu.vn/problem/twopaths)| Đường đi trên lưới với 2 người| [code](https://ideone.com/w7mvZ0)
 
