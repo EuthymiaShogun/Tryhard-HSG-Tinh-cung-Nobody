@@ -314,15 +314,14 @@ Những OJ để làm bài tập, contest:
 ### Chương 12: Chia căn x Thuật toán Mo (Sqrt Decomposition x Mo's Algorithm)
 #### Tài liệu:
 - [Sqrt Decomposition](https://cp-algorithms.com/data_structures/sqrt_decomposition.html) (cp-algorithms)
+- [Square Root Decomposition](https://usaco.guide/plat/sqrt?lang=cpp) (USACO Guide)
 #### Bài tập: 
 #### Chia căn: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[E. Holes](https://codeforces.com/contest/13/problem/E)| | 
+[E. Holes](https://codeforces.com/contest/13/problem/E)| |
 [K-query II](https://oj.vnoi.info/problem/kquery2)| |
-[D. Destiny](https://codeforces.com/contest/840/problem/D)| |
-[C. Till I Collapse](https://codeforces.com/contest/786/problem/C)| DP | 
-[F - Hop Sugoroku](https://atcoder.jp/contests/abc335/tasks/abc335_f)| DP |
+[F - Hop Sugoroku](https://atcoder.jp/contests/abc335/tasks/abc335_f)| |
 #### Thuật toán Mo:
 |Problems |Tags |Editorial
 |--|:--:|:--:
