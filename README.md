@@ -321,6 +321,7 @@ Những OJ để làm bài tập, contest:
 |--|:--:|:--:
 [E. Holes](https://codeforces.com/contest/13/problem/E)| |
 [K-query II](https://oj.vnoi.info/problem/kquery2)| |
+[Sum of Divisors](https://cses.fi/problemset/task/1082)| |
 [F - Hop Sugoroku](https://atcoder.jp/contests/abc335/tasks/abc335_f)| |
 #### Thuật toán Mo:
 |Problems |Tags |Editorial
