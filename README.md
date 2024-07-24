@@ -250,6 +250,7 @@ Những OJ để làm bài tập, contest:
 #### More Problems: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
+[String Removals](https://cses.fi/problemset/task/1149/)| |
 [Projects](https://cses.fi/problemset/task/1140)| Sort x Binary Search / BIT x DP| [code](https://ideone.com/JLYahs)
 [E - Rook Path](https://atcoder.jp/contests/abc232/tasks/abc232_e)| | [code](https://ideone.com/00bf79)
 [D - Flipping Signs](https://atcoder.jp/contests/abc125/tasks/abc125_d)| | [code](https://ideone.com/4Xuq40)
@@ -261,6 +262,7 @@ Những OJ để làm bài tập, contest:
 - [Cây chỉ số nhị phân (Binary Indexed Tree)](https://vnoi.info/wiki/algo/data-structures/fenwick.md) (VNOI Wiki)
 - [Fenwick Tree](https://cp-algorithms.com/data_structures/fenwick.html) (cp-algorithms)
 - [Rời rạc hoá và ứng dụng](https://vnoi.info/wiki/algo/trick/Roi-rac-hoa-va-ung-dung.md) (VNOI Wiki)
+- [Coordinate Compression](https://usaco.guide/silver/sorting-custom?lang=cpp#coordinate-compression) (USACO Guide)
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -307,6 +309,7 @@ Những OJ để làm bài tập, contest:
 #### More Problems: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
+[E. Turn Off The TV](https://codeforces.com/contest/863/problem/E)| Nén số x Prefix Sum x Segment Tree|
 [F. SUM and REPLACE](https://codeforces.com/contest/920/problem/F)| Segment Tree x Brute force| [code](https://ideone.com/rlJvuX)
 [E. A Simple Task](https://codeforces.com/problemset/problem/558/E)| Counting Sort x Segment Tree| [code](https://ideone.com/IWO2Pv)
 [E. XOR on Segment](https://codeforces.com/problemset/problem/242/E)| Bitmask x Segment Tree | [code](https://ideone.com/LBKkLc) 
@@ -329,3 +332,21 @@ Những OJ để làm bài tập, contest:
 [D. Powerful array](https://codeforces.com/problemset/problem/86/D)| |
 [E. XOR and Favorite Number](https://codeforces.com/problemset/problem/617/E)
 [G - Cubic?](https://atcoder.jp/contests/abc238/tasks/abc238_g)
+
+### Chương 13: Sparse Table x Binary Lifting
+#### Tài liệu:
+- [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html) (cp-algorithms)
+#### Bài tập: 
+#### Sparse Table: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Nearest Smaller Values](https://cses.fi/problemset/task/1645)| |
+[D. CGCDSSQ](https://codeforces.com/contest/475/problem/D)| |
+
+#### Binary Lifting: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Planets Queries I](https://cses.fi/problemset/task/1750)| |
+[Cyclic Array](https://cses.fi/problemset/task/1191/)| |
+[Dãy bằng không](https://oj.vnoi.info/problem/codetour24_c3_c)
+[Increasing Array Queries](https://cses.fi/problemset/task/2416)| |
