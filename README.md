@@ -32,7 +32,7 @@ Những trang web/sách nổi tiếng để học thuật toán:
 - [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html) 
 - [VNOI Wiki](https://vnoi.info/wiki/Home)
 - [USACO Guide](https://usaco.guide/)
-- [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
+- [Competitive Programmer’s Handbook](https://usaco.guide/CPH.pdf)
 
 Những OJ để làm bài tập, contest:
 - [Codeforces](https://codeforces.com/)
@@ -238,7 +238,7 @@ Những OJ để làm bài tập, contest:
 [D - String Bags](https://atcoder.jp/contests/abc344/tasks/abc344_d)| | [code](https://ideone.com/9cd7YE)
 [D - Max Multiple](https://atcoder.jp/contests/abc281/tasks/abc281_d)| | [code](https://ideone.com/0oKOtg)
 [D - I Hate Non-integer Number](https://atcoder.jp/contests/abc262/tasks/abc262_d)| | [code](https://atcoder.jp/contests/abc262/submissions/52671375)
-[E - Queen on Grid](https://atcoder.jp/contests/abc183/tasks/abc183_e)| | [code](https://ideone.com/AFqrDH)
+[E - Queen on Grid](https://atcoder.jp/contests/abc183/tasks/abc183_e)| DP x Prefix Sum| [code](https://ideone.com/AFqrDH)
 #### HSG Tỉnh - Olympic Khu vực
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -254,7 +254,6 @@ Những OJ để làm bài tập, contest:
 [Projects](https://cses.fi/problemset/task/1140)| Sort x Binary Search / BIT x DP| [code](https://ideone.com/JLYahs)
 [E - Rook Path](https://atcoder.jp/contests/abc232/tasks/abc232_e)| | [code](https://ideone.com/00bf79)
 [D - Flipping Signs](https://atcoder.jp/contests/abc125/tasks/abc125_d)| | [code](https://ideone.com/4Xuq40)
-[Olympic 30/4 2024 - Khối 10 - Bài 1 - Băng rôn olympic](https://lqdoj.edu.vn/problem/24olp30410a)| | [code](https://ideone.com/HwpaMQ)
 [Olympic 30/4 2019 - Khối 10 - Bài 3 - Kinh nghiệm](https://lqdoj.edu.vn/problem/twopaths)| Đường đi trên lưới với 2 người| [code](https://ideone.com/w7mvZ0)
 
 ### Chương 10: Cây chỉ số nhị phân (BIT / Fenwick Tree) ft. Kỹ thuật nén số
@@ -350,3 +349,30 @@ Những OJ để làm bài tập, contest:
 [Cyclic Array](https://cses.fi/problemset/task/1191/)| |
 [Dãy bằng không](https://oj.vnoi.info/problem/codetour24_c3_c)
 [Increasing Array Queries](https://cses.fi/problemset/task/2416)| |
+
+### Chương 14: Quy hoạch động Bitmask (DP Bitmask) 
+#### Tài liệu: 
+- [Bitmask DP](https://usaco.guide/gold/dp-bitmasks?lang=cpp) (USACO Guide)
+- [Submask Enumeration](https://cp-algorithms.com/algebra/all-submasks.html) (cp-algorithms)
+#### Bài tập: 
+|Problems |Tags |Editorial
+|--|:--:|:--: 
+[VOI 23 Bài 4 - Nhà gỗ](https://oj.vnoi.info/problem/voi23_whome)| |
+[VOI 16 Bài 1 - SEQ198](https://oj.vnoi.info/problem/seq198)| |
+[Cô gái chăn bò](https://oj.vnoi.info/problem/cowgirl)| |
+[B. Little Pony and Harmony Chest](https://codeforces.com/problemset/problem/453/B)| |
+[C. Square Subsets](https://codeforces.com/problemset/problem/895/C)
+#### Tối ưu duyệt hoán vị: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[TRIP](https://oj.vnoi.info/problem/lem3)| |
+[Hamiltonian Flights](https://cses.fi/problemset/task/1690)| |
+[D. A Simple Task](https://codeforces.com/contest/11/problem/D)| |
+[O - Matching](https://atcoder.jp/contests/dp/tasks/dp_o)| |
+[Elevator Rides](https://cses.fi/problemset/task/1653)| |
+[E. Keyboard Purchase](https://codeforces.com/contest/1238/problem/E)| |
+#### Chia nhóm: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[U - Grouping](https://atcoder.jp/contests/dp/tasks/dp_u)| |
+[F - Close Group](https://atcoder.jp/contests/abc187/tasks/abc187_f)| |
