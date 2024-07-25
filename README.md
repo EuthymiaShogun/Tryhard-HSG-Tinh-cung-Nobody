@@ -370,6 +370,7 @@ Những OJ để làm bài tập, contest:
 [D. A Simple Task](https://codeforces.com/contest/11/problem/D)| |
 [O - Matching](https://atcoder.jp/contests/dp/tasks/dp_o)| |
 [Elevator Rides](https://cses.fi/problemset/task/1653)| |
+[F. Elongated Matrix](https://codeforces.com/contest/1102/problem/F)| |
 [E. Keyboard Purchase](https://codeforces.com/contest/1238/problem/E)| |
 #### Chia nhóm: 
 |Problems |Tags |Editorial
