@@ -204,57 +204,65 @@ Những OJ để làm bài tập, contest:
 [D - Binomial Coefficients](https://atcoder.jp/contests/abc094/tasks/arc095_b)| AtCoder | [code](https://atcoder.jp/contests/abc094/submissions/52146163)
 [E - Max-Min Sums](https://atcoder.jp/contests/abc151/tasks/abc151_e)| AtCoder | [code](https://atcoder.jp/contests/abc151/submissions/52157137)
 
-### Chương 9: Quy hoạch động (DP)
+### Chương 9: Quy hoạch động (DP General)
 #### Tài liệu:
 - [Introduction to Dynamic Programming](https://cp-algorithms.com/dynamic_programming/intro-to-dp.html) (cp-algorithms)
 #### Bài tập: 
-#### VNOJ
-|Problems |Tags |Editorial
-|--|:--:|:--:
-[Dãy con tăng dài nhất (bản dễ)](https://oj.vnoi.info/problem/liq)| LIS | [code](https://ideone.com/nY88Fc)
-[Chuỗi đối xứng](https://oj.vnoi.info/problem/nkpalin)| Palindrome | [code](https://ideone.com/ejYPRv)
-[Xếp hàng mua vé](https://oj.vnoi.info/problem/nktick)| | [code](https://ideone.com/5hHZy4)
-[Đường đi có tổng lớn nhất](https://oj.vnoi.info/problem/qbmax) | | [code](https://ideone.com/VJy6g8)
-[VOI 11 Bài 1 - Phần thưởng](https://oj.vnoi.info/problem/bonus)| Prefix Sum 2D | [code](https://ideone.com/63KEem)
-#### CSES 
-|Problems |Tags |Editorial
-|--|:--:|:--:
-[Coin Combinations I](https://cses.fi/problemset/task/1635)| DP Knapsack| [code](https://ideone.com/80i06s)
-[Coin Combinations II](https://cses.fi/problemset/task/1636)|DP Knapsack| [code](https://ideone.com/uTxuar)
-[Removing Digits](https://cses.fi/problemset/task/1637)| | [code](https://cses.fi/paste/bfa69186a1a66eb1897392/)
-[Grid Paths](https://cses.fi/problemset/task/1638)|| [code](https://cses.fi/paste/7998916af42956188973b6/)
-[Edit Distance](https://cses.fi/problemset/task/1639)| | [code](https://ideone.com/CoZVES)
-[Rectangle Cutting](https://cses.fi/problemset/task/1744)| | [code](https://cses.fi/paste/b1cad99348e945e18973dd/)
-#### AtCoder
+#### DP General: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c)| | [code](https://atcoder.jp/contests/dp/submissions/52517660)
-[D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)| DP Knapsack| [code](https://atcoder.jp/contests/dp/submissions/52670320)
-[F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f)| LCS | [code](https://ideone.com/MlUIdc)
-[M - Candies](https://atcoder.jp/contests/dp/tasks/dp_m)| | [code](https://ideone.com/4sM1lH)
-[C - chokudai](https://atcoder.jp/contests/abc211/tasks/abc211_c)| | [code](https://atcoder.jp/contests/abc211/submissions/52518537)
-[D - FG operation](https://atcoder.jp/contests/abc220/tasks/abc220_d)| | [code](https://atcoder.jp/contests/abc220/submissions/52516767)
-[D - Count Bracket Sequences](https://atcoder.jp/conteưsts/abc312/tasks/abc312_d)| Dãy ngoặc đúng | [code](https://atcoder.jp/contests/abc312/submissions/52519082)
-[D - String Bags](https://atcoder.jp/contests/abc344/tasks/abc344_d)| | [code](https://ideone.com/9cd7YE)
-[D - Max Multiple](https://atcoder.jp/contests/abc281/tasks/abc281_d)| | [code](https://ideone.com/0oKOtg)
-[D - I Hate Non-integer Number](https://atcoder.jp/contests/abc262/tasks/abc262_d)| | [code](https://atcoder.jp/contests/abc262/submissions/52671375)
-[E - Queen on Grid](https://atcoder.jp/contests/abc183/tasks/abc183_e)| DP x Prefix Sum| [code](https://ideone.com/AFqrDH)
-#### HSG Tỉnh - Olympic Khu vực
-|Problems |Tags |Editorial
-|--|:--:|:--:
+[Xếp hàng mua vé](https://oj.vnoi.info/problem/nktick)| | [code](https://ideone.com/5hHZy4)
+[D - Flipping Signs](https://atcoder.jp/contests/abc125/tasks/abc125_d)| | [code](https://ideone.com/4Xuq40)
+[Removing Digits](https://cses.fi/problemset/task/1637)| | [code](https://cses.fi/paste/bfa69186a1a66eb1897392/)
+[Rectangle Cutting](https://cses.fi/problemset/task/1744)| | [code](https://cses.fi/paste/b1cad99348e945e18973dd/)
 [[QNOI 2021] Xâu luân phiên](https://nbk.homes/problem/qn21altstr)| | [code](https://ideone.com/b95DUi)
-[Olympic 30/4 2024 - Khối 10 - Bài 1 - Băng rôn olympic](https://lqdoj.edu.vn/problem/24olp30410a)| | [code](https://ideone.com/HwpaMQ)
-[Olympic 30/4 2018 - Khối 10 - Bài 2 - Chia đất](https://oj.vnoi.info/problem/olp304_18_chiadat)| Prefix Sum 2D| [code](https://ideone.com/k169qu)
-[Siêu thị (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3d)| Prefix Sum 2D| [code](https://ideone.com/ZX0pOR)
-[[ITK22 TST] Rect](https://nbk.homes/problem/itk22tstrect)| Prefix Sum 2D| [code](https://ideone.com/XHFmeJ)
-#### More Problems: 
-|Problems |Tags |Editorial
-|--|:--:|:--:
 [String Removals](https://cses.fi/problemset/task/1149/)| |
 [Projects](https://cses.fi/problemset/task/1140)| Sort x Binary Search / BIT x DP| [code](https://ideone.com/JLYahs)
+#### LIS: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Dãy con tăng dài nhất (bản dễ)](https://oj.vnoi.info/problem/liq)| | [code](https://ideone.com/nY88Fc)
+#### String Matching: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f)| LCS | [code](https://ideone.com/MlUIdc)
+[Edit Distance](https://cses.fi/problemset/task/1639)| | [code](https://ideone.com/CoZVES)
+[D - String Bags](https://atcoder.jp/contests/abc344/tasks/abc344_d)| | [code](https://ideone.com/9cd7YE)
+#### Xâu đối xứng:
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Chuỗi đối xứng](https://oj.vnoi.info/problem/nkpalin)| | [code](https://ideone.com/ejYPRv)
+
+#### Dãy ngoặc đúng: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[D - Count Bracket Sequences](https://atcoder.jp/conteưsts/abc312/tasks/abc312_d)| | [code](https://atcoder.jp/contests/abc312/submissions/52519082)
+
+#### Knapsack:
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)| | [code](https://atcoder.jp/contests/dp/submissions/52670320)
+[Coin Combinations I](https://cses.fi/problemset/task/1635)| | [code](https://ideone.com/80i06s)
+[Coin Combinations II](https://cses.fi/problemset/task/1636)| | [code](https://ideone.com/uTxuar)
+[M - Candies](https://atcoder.jp/contests/dp/tasks/dp_m)| | [code](https://ideone.com/4sM1lH)
+[D - Max Multiple](https://atcoder.jp/contests/abc281/tasks/abc281_d)| | [code](https://ideone.com/0oKOtg)
+[D - I Hate Non-integer Number](https://atcoder.jp/contests/abc262/tasks/abc262_d)| | [code](https://atcoder.jp/contests/abc262/submissions/52671375)
+
+#### Đường đi trên lưới: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Grid Paths](https://cses.fi/problemset/task/1638)|| [code](https://cses.fi/paste/7998916af42956188973b6/)
+[Đường đi có tổng lớn nhất](https://oj.vnoi.info/problem/qbmax) | | [code](https://ideone.com/VJy6g8)
+[E - Queen on Grid](https://atcoder.jp/contests/abc183/tasks/abc183_e)| DP x Prefix Sum| [code](https://ideone.com/AFqrDH)
 [E - Rook Path](https://atcoder.jp/contests/abc232/tasks/abc232_e)| | [code](https://ideone.com/00bf79)
-[D - Flipping Signs](https://atcoder.jp/contests/abc125/tasks/abc125_d)| | [code](https://ideone.com/4Xuq40)
 [Olympic 30/4 2019 - Khối 10 - Bài 3 - Kinh nghiệm](https://lqdoj.edu.vn/problem/twopaths)| Đường đi trên lưới với 2 người| [code](https://ideone.com/w7mvZ0)
+#### Prefix Sum 2D: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[VOI 11 Bài 1 - Phần thưởng](https://oj.vnoi.info/problem/bonus)| | [code](https://ideone.com/63KEem)
+[Olympic 30/4 2018 - Khối 10 - Bài 2 - Chia đất](https://oj.vnoi.info/problem/olp304_18_chiadat)| | [code](https://ideone.com/k169qu)
+[Siêu thị (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3d)| | [code](https://ideone.com/ZX0pOR)
 
 ### Chương 10: Cây chỉ số nhị phân (BIT / Fenwick Tree) ft. Kỹ thuật nén số
 #### Tài liệu:
