@@ -332,13 +332,13 @@ Những OJ để làm bài tập, contest:
 [E. Holes](https://codeforces.com/contest/13/problem/E)| | [code](https://ideone.com/KgJm5X)
 [K-query II](https://oj.vnoi.info/problem/kquery2)| | [code](https://ideone.com/Fkwg9h)
 [Sum of Divisors](https://cses.fi/problemset/task/1082)| | [code](https://ideone.com/Wd5mRr)
-[F - Hop Sugoroku](https://atcoder.jp/contests/abc335/tasks/abc335_f)| |
+[F - Hop Sugoroku](https://atcoder.jp/contests/abc335/tasks/abc335_f)| | [code](https://ideone.com/wmBy0z)
 #### Thuật toán Mo:
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[D. Powerful array](https://codeforces.com/problemset/problem/86/D)| |
-[E. XOR and Favorite Number](https://codeforces.com/problemset/problem/617/E)
-[G - Cubic?](https://atcoder.jp/contests/abc238/tasks/abc238_g)
+[D. Powerful array](https://codeforces.com/problemset/problem/86/D)| | [code](https://ideone.com/ZMGTyY)
+[E. XOR and Favorite Number](https://codeforces.com/problemset/problem/617/E)| | [code](https://ideone.com/nymn1o)
+[G - Cubic?](https://atcoder.jp/contests/abc238/tasks/abc238_g)| | [code](https://ideone.com/IZlseA)
 
 ### Chương 13: Sparse Table x Binary Lifting
 #### Tài liệu:
