@@ -355,7 +355,8 @@ Những OJ để làm bài tập, contest:
 |--|:--:|:--:
 [Planets Queries I](https://cses.fi/problemset/task/1750)| |
 [Cyclic Array](https://cses.fi/problemset/task/1191/)| |
-[Dãy bằng không](https://oj.vnoi.info/problem/codetour24_c3_c)
+[Movie Festival Queries](https://cses.fi/problemset/task/1664)| |
+[Dãy bằng không](https://oj.vnoi.info/problem/codetour24_c3_c)| |
 [Increasing Array Queries](https://cses.fi/problemset/task/2416)| |
 
 ### Chương 14: Quy hoạch động Bitmask (DP Bitmask) 
