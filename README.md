@@ -366,7 +366,7 @@ Những OJ để làm bài tập, contest:
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--: 
-[VOI 23 Bài 4 - Nhà gỗ](https://oj.vnoi.info/problem/voi23_whome)| |
+[VOI 23 Bài 4 - Nhà gỗ](https://oj.vnoi.info/problem/voi23_whome)| | [code](https://ideone.com/3snVH1)
 [VOI 16 Bài 1 - SEQ198](https://oj.vnoi.info/problem/seq198)| |
 [Cô gái chăn bò](https://oj.vnoi.info/problem/cowgirl)| |
 [B. Little Pony and Harmony Chest](https://codeforces.com/problemset/problem/453/B)| |
@@ -374,7 +374,7 @@ Những OJ để làm bài tập, contest:
 #### Tối ưu duyệt hoán vị: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[TRIP](https://oj.vnoi.info/problem/lem3)| |
+[TRIP](https://oj.vnoi.info/problem/lem3)| | [code](https://ideone.com/xVAwWb)
 [Hamiltonian Flights](https://cses.fi/problemset/task/1690)| |
 [D. A Simple Task](https://codeforces.com/contest/11/problem/D)| |
 [O - Matching](https://atcoder.jp/contests/dp/tasks/dp_o)| |
@@ -384,7 +384,7 @@ Những OJ để làm bài tập, contest:
 #### Chia nhóm: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[U - Grouping](https://atcoder.jp/contests/dp/tasks/dp_u)| |
+[U - Grouping](https://atcoder.jp/contests/dp/tasks/dp_u)| | [code](https://ideone.com/bj5xs8)
 [F - Close Group](https://atcoder.jp/contests/abc187/tasks/abc187_f)| |
 
 ### Chương 15: Quy hoạch động chữ số (DP Digit)
