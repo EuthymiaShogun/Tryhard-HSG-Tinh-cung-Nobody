@@ -353,7 +353,7 @@ Những OJ để làm bài tập, contest:
 #### Binary Lifting: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Planets Queries I](https://cses.fi/problemset/task/1750)| |
+[Planets Queries I](https://cses.fi/problemset/task/1750)| | [code](https://ideone.com/p1xaqr)
 [Cyclic Array](https://cses.fi/problemset/task/1191/)| |
 [Movie Festival Queries](https://cses.fi/problemset/task/1664)| |
 [Dãy bằng không](https://oj.vnoi.info/problem/codetour24_c3_c)| |
@@ -386,3 +386,6 @@ Những OJ để làm bài tập, contest:
 |--|:--:|:--:
 [U - Grouping](https://atcoder.jp/contests/dp/tasks/dp_u)| |
 [F - Close Group](https://atcoder.jp/contests/abc187/tasks/abc187_f)| |
+
+### Chương 15: Quy hoạch động chữ số (DP Digit)
+ 
