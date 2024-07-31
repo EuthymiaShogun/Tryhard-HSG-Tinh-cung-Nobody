@@ -353,7 +353,7 @@ Những OJ để làm bài tập, contest:
 #### Binary Lifting: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Planets Queries I](https://cses.fi/problemset/task/1750)| | [code](https://ideone.com/p1xaqr)
+[Planets Queries I](https://cses.fi/problemset/task/1750)| | [code](https://ideone.com/6bHBzp)
 [Cyclic Array](https://cses.fi/problemset/task/1191/)| |
 [Movie Festival Queries](https://cses.fi/problemset/task/1664)| |
 [Dãy bằng không](https://oj.vnoi.info/problem/codetour24_c3_c)| |
