@@ -347,14 +347,14 @@ Những OJ để làm bài tập, contest:
 #### Sparse Table: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Nearest Smaller Values](https://cses.fi/problemset/task/1645)| |
-[D. CGCDSSQ](https://codeforces.com/contest/475/problem/D)| |
+[Nearest Smaller Values](https://cses.fi/problemset/task/1645)| | [code](https://ideone.com/yQXbjn)
+[D. CGCDSSQ](https://codeforces.com/contest/475/problem/D)| | [code](https://ideone.com/jSoxKT)
 
 #### Binary Lifting: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Planets Queries I](https://cses.fi/problemset/task/1750)| | [code](https://ideone.com/6bHBzp)
-[Cyclic Array](https://cses.fi/problemset/task/1191/)| |
+[Cyclic Array](https://cses.fi/problemset/task/1191/)| | [code](https://ideone.com/iLHisW)
 [Movie Festival Queries](https://cses.fi/problemset/task/1664)| |
 [Dãy bằng không](https://oj.vnoi.info/problem/codetour24_c3_c)| |
 [Increasing Array Queries](https://cses.fi/problemset/task/2416)| |
