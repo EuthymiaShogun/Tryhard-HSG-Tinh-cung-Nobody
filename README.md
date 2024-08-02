@@ -217,18 +217,18 @@ Những OJ để làm bài tập, contest:
 [Removing Digits](https://cses.fi/problemset/task/1637)| | [code](https://cses.fi/paste/bfa69186a1a66eb1897392/)
 [Rectangle Cutting](https://cses.fi/problemset/task/1744)| | [code](https://cses.fi/paste/b1cad99348e945e18973dd/)
 [[QNOI 2021] Xâu luân phiên](https://nbk.homes/problem/qn21altstr)| | [code](https://ideone.com/b95DUi)
-[String Removals](https://cses.fi/problemset/task/1149/)| |
 [Projects](https://cses.fi/problemset/task/1140)| Sort x Binary Search / BIT x DP| [code](https://ideone.com/JLYahs)
 #### LIS: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Dãy con tăng dài nhất (bản dễ)](https://oj.vnoi.info/problem/liq)| | [code](https://ideone.com/nY88Fc)
-#### String Matching: 
+#### String: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f)| LCS | [code](https://ideone.com/MlUIdc)
 [Edit Distance](https://cses.fi/problemset/task/1639)| | [code](https://ideone.com/CoZVES)
 [D - String Bags](https://atcoder.jp/contests/abc344/tasks/abc344_d)| | [code](https://ideone.com/9cd7YE)
+[String Removals](https://cses.fi/problemset/task/1149/)| |
 #### Xâu đối xứng:
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -243,6 +243,7 @@ Những OJ để làm bài tập, contest:
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)| | [code](https://atcoder.jp/contests/dp/submissions/52670320)
+[E - Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e)| |
 [Coin Combinations I](https://cses.fi/problemset/task/1635)| | [code](https://ideone.com/80i06s)
 [Coin Combinations II](https://cses.fi/problemset/task/1636)| | [code](https://ideone.com/uTxuar)
 [M - Candies](https://atcoder.jp/contests/dp/tasks/dp_m)| | [code](https://ideone.com/4sM1lH)
@@ -297,9 +298,6 @@ Những OJ để làm bài tập, contest:
 [Pizzeria Queries](https://cses.fi/problemset/task/2206)| | [code](https://ideone.com/J92VF8)
 [Prefix Sum Queries](https://cses.fi/problemset/task/2166)| | [code](https://ideone.com/dPIVPd)
 [Hotel Queries](https://cses.fi/problemset/task/1143/)| Walking on Segment Tree| [code](https://ideone.com/Qjll9n)
-#### Advanced Segment Tree: 
-|Problems |Tags |Editorial
-|--|:--:|:--:
 [K-query](https://oj.vnoi.info/problem/kquery)| MergeSort Tree (vector)| [code](https://ideone.com/vUoA8N)
 [ITDS1](https://oj.vnoi.info/problem/segtree_itds1)| MergeSort Tree (multiset)| [code](https://ideone.com/aAdRhD)
 [ITMIX](https://oj.vnoi.info/problem/segtree_itmix)| Truy vấn hỗn hợp| [code](https://ideone.com/tWZJQO)
