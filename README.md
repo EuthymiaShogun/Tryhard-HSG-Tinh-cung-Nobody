@@ -388,4 +388,29 @@ Những OJ để làm bài tập, contest:
 [F - Close Group](https://atcoder.jp/contests/abc187/tasks/abc187_f)| |
 
 ### Chương 15: Quy hoạch động chữ số (DP Digit)
- 
+#### Tài liệu: 
+- [Digit DP](https://usaco.guide/gold/digit-dp?lang=cpp) (USACO Guide)
+#### Bài tập:
+#### Đếm số lượng số trong đoạn [L, R] thoả mãn điều kiện: 
+|Problems |Tags | Editorial
+|--|:--:|:--:
+[Số lượng số](https://oj.vnoi.info/problem/snad)| |
+[E - Digit Sum Divisible](https://atcoder.jp/contests/abc336/tasks/abc336_e)
+[LUCKY13](https://oj.vnoi.info/problem/lucky13)
+[D. Magic Numbers](https://codeforces.com/contest/628/problem/D)
+[E - Digit Products](https://atcoder.jp/contests/abc208/tasks/abc208_e)| |
+#### Đếm số bộ số thoả mãn điều kiện: 
+|Problems |Tags | Editorial
+|--|:--:|:--:
+[ICPC 2021 miền Bắc - E: Special Number](https://oj.vnoi.info/problem/icpc21_mb_e)
+[F - Nim](https://atcoder.jp/contests/abc317/tasks/abc317_f)
+#### Tính tổng các số trong đoạn [L, R] thoả mãn điều kiện: 
+|Problems |Tags | Editorial
+|--|:--:|:--:
+[Writing Numbers](https://cses.fi/problemset/task/1086)
+[E. Segment Sum](https://codeforces.com/problemset/problem/1073/E)| |   
+#### Duy trì điều kiện 2 cận: 
+|Problems |Tags | Editorial
+|--|:--:|:--:
+[G. Maximum Product](https://codeforces.com/gym/100886/problem/G)
+[D. Little Girl and Maximum XOR](https://codeforces.com/contest/276/problem/D)
