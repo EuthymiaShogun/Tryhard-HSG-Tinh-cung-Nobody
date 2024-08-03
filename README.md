@@ -352,10 +352,10 @@ Những OJ để làm bài tập, contest:
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Planets Queries I](https://cses.fi/problemset/task/1750)| | [code](https://ideone.com/6bHBzp)
-[Cyclic Array](https://cses.fi/problemset/task/1191/)| | [code](https://ideone.com/7KQBsB)
-[Movie Festival Queries](https://cses.fi/problemset/task/1664)| |
+[Cyclic Array](https://cses.fi/problemset/task/1191/)| | [code](https://ideone.com/Mu0Rhu)
+[Movie Festival Queries](https://cses.fi/problemset/task/1664)| | [code](https://ideone.com/eOcntW)
 [Dãy bằng không](https://oj.vnoi.info/problem/codetour24_c3_c)| |
-[Increasing Array Queries](https://cses.fi/problemset/task/2416)| |
+[Increasing Array Queries](https://cses.fi/problemset/task/2416)| | [code](https://ideone.com/IsGYaa)
 
 ### Chương 14: Quy hoạch động Bitmask (DP Bitmask) 
 #### Tài liệu: 
