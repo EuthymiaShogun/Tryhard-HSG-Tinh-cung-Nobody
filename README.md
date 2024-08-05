@@ -82,14 +82,14 @@ Những OJ để làm bài tập, contest:
 #### Bài tập:
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Mua bài](https://lqdoj.edu.vn/problem/buycard) | LQDOJ | [code](https://ideone.com/jRcRs7)
+[Mua bài](https://lqdoj.edu.vn/problem/buycard) | | [code](https://ideone.com/jRcRs7)
 [Chia năm nhiều lần](https://lqdoj.edu.vn/problem/five)| | [code](https://ideone.com/YOxVk2)
 [Không chia hết](https://lqdoj.edu.vn/problem/ndivi)| | [code](https://ideone.com/jLapQS)
 [Số thứ n](https://lqdoj.edu.vn/problem/nth)| | [code](https://ideone.com/r6dmiy)
 [Kiến xếp hàng](https://lqdoj.edu.vn/problem/antsort)| | [code](https://ideone.com/252NXY)
 [Leo thang](https://lqdoj.edu.vn/problem/23gl2b3)| | [code](https://ideone.com/BCLm6z)
 [Sắp xếp bảng số](https://lqdoj.edu.vn/problem/numorder)| | [code](https://ideone.com/tTFyVN)
-[Factory Machines](https://cses.fi/problemset/task/1620)| CSES | [code](https://cses.fi/paste/66d203bbff2eaef4944f12/)
+[Factory Machines](https://cses.fi/problemset/task/1620)| | [code](https://cses.fi/paste/66d203bbff2eaef4944f12/)
 #### More Problems:
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -263,6 +263,7 @@ Những OJ để làm bài tập, contest:
 |--|:--:|:--:
 [VOI 11 Bài 1 - Phần thưởng](https://oj.vnoi.info/problem/bonus)| | [code](https://ideone.com/63KEem)
 [Olympic 30/4 2018 - Khối 10 - Bài 2 - Chia đất](https://oj.vnoi.info/problem/olp304_18_chiadat)| | [code](https://ideone.com/k169qu)
+[VOI 15 Bài 4 - Cắt hình](https://oj.vnoi.info/problem/mincut)
 [Siêu thị (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3d)| | [code](https://ideone.com/ZX0pOR)
 
 ### Chương 10: Cây chỉ số nhị phân (BIT / Fenwick Tree) ft. Kỹ thuật nén số
@@ -364,7 +365,7 @@ Những OJ để làm bài tập, contest:
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--: 
-[VOI 23 Bài 4 - Nhà gỗ](https://oj.vnoi.info/problem/voi23_whome)| | [code](https://ideone.com/3snVH1)
+[VOI 23 Bài 4 - Nhà gỗ](https://oj.vnoi.info/problem/voi23_whome)| | [code](https://ideone.com/h7JFre)
 [VOI 16 Bài 1 - SEQ198](https://oj.vnoi.info/problem/seq198)| |
 [Cô gái chăn bò](https://oj.vnoi.info/problem/cowgirl)| |
 [B. Little Pony and Harmony Chest](https://codeforces.com/problemset/problem/453/B)| |
@@ -393,10 +394,11 @@ Những OJ để làm bài tập, contest:
 |Problems |Tags | Editorial
 |--|:--:|:--:
 [Số lượng số](https://oj.vnoi.info/problem/snad)| |
-[E - Digit Sum Divisible](https://atcoder.jp/contests/abc336/tasks/abc336_e)
-[LUCKY13](https://oj.vnoi.info/problem/lucky13)
-[D. Magic Numbers](https://codeforces.com/contest/628/problem/D)
+[LUCKY13](https://oj.vnoi.info/problem/lucky13)| |
+[E - Digit Sum Divisible](https://atcoder.jp/contests/abc336/tasks/abc336_e)| |
 [E - Digit Products](https://atcoder.jp/contests/abc208/tasks/abc208_e)| |
+[D. Magic Numbers](https://codeforces.com/contest/628/problem/D)| |
+[E. Salazar Slytherin's Locket](https://codeforces.com/problemset/problem/855/E)| |
 #### Đếm số bộ số thoả mãn điều kiện: 
 |Problems |Tags | Editorial
 |--|:--:|:--:
@@ -407,7 +409,7 @@ Những OJ để làm bài tập, contest:
 |--|:--:|:--:
 [Writing Numbers](https://cses.fi/problemset/task/1086)
 [E. Segment Sum](https://codeforces.com/problemset/problem/1073/E)| |   
-#### Duy trì điều kiện 2 cận: 
+#### Truy vết / Duy trì điều kiện 2 cận: 
 |Problems |Tags | Editorial
 |--|:--:|:--:
 [G. Maximum Product](https://codeforces.com/gym/100886/problem/G)
