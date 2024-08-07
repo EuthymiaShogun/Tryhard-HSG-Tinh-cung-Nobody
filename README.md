@@ -366,20 +366,20 @@ Những OJ để làm bài tập, contest:
 |Problems |Tags |Editorial
 |--|:--:|:--: 
 [VOI 23 Bài 4 - Nhà gỗ](https://oj.vnoi.info/problem/voi23_whome)| | [code](https://ideone.com/h7JFre)
-[VOI 16 Bài 1 - SEQ198](https://oj.vnoi.info/problem/seq198)| |
 [Cô gái chăn bò](https://oj.vnoi.info/problem/cowgirl)| |
+[C. Square Subsets](https://codeforces.com/problemset/problem/895/C)| |
 [B. Little Pony and Harmony Chest](https://codeforces.com/problemset/problem/453/B)| |
-[C. Square Subsets](https://codeforces.com/problemset/problem/895/C)
+[VOI 16 Bài 1 - SEQ198](https://oj.vnoi.info/problem/seq198)| |
 #### Tối ưu duyệt hoán vị: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [TRIP](https://oj.vnoi.info/problem/lem3)| | [code](https://ideone.com/xVAwWb)
 [Hamiltonian Flights](https://cses.fi/problemset/task/1690)| |
-[D. A Simple Task](https://codeforces.com/contest/11/problem/D)| |
 [O - Matching](https://atcoder.jp/contests/dp/tasks/dp_o)| |
 [Elevator Rides](https://cses.fi/problemset/task/1653)| |
-[F. Elongated Matrix](https://codeforces.com/contest/1102/problem/F)| |
+[D. A Simple Task](https://codeforces.com/contest/11/problem/D)| |
 [E. Keyboard Purchase](https://codeforces.com/contest/1238/problem/E)| |
+[F. Elongated Matrix](https://codeforces.com/contest/1102/problem/F)| |
 #### Chia nhóm: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
