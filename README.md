@@ -366,7 +366,7 @@ Những OJ để làm bài tập, contest:
 ### Chương 2.2: Quy hoạch động Bitmask (DP Bitmask) 
 #### Tài liệu: 
 - [Bitmask DP](https://usaco.guide/gold/dp-bitmasks?lang=cpp) (USACO Guide)
-- Chương 7: Bitmask - Thao tác bit
+- Chương 2.1: Bitmask - Thao tác bit
 - [Submask Enumeration](https://cp-algorithms.com/algebra/all-submasks.html) (cp-algorithms)
 #### Bài tập: 
 |Problems |Tags |Editorial
