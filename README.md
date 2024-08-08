@@ -367,8 +367,8 @@ Những OJ để làm bài tập, contest:
 |Problems |Tags |Editorial
 |--|:--:|:--: 
 [VOI 23 Bài 4 - Nhà gỗ](https://oj.vnoi.info/problem/voi23_whome)| | [code](https://ideone.com/h7JFre)
-[Cô gái chăn bò](https://oj.vnoi.info/problem/cowgirl)| |
-[C. Square Subsets](https://codeforces.com/problemset/problem/895/C)| |
+[Cô gái chăn bò](https://oj.vnoi.info/problem/cowgirl)| | [code](https://ideone.com/brIA6Z)
+[C. Square Subsets](https://codeforces.com/problemset/problem/895/C)| | [code](https://ideone.com/yPofNv)
 [B. Little Pony and Harmony Chest](https://codeforces.com/problemset/problem/453/B)| |
 [VOI 16 Bài 1 - SEQ198](https://oj.vnoi.info/problem/seq198)| |
 #### Tối ưu duyệt hoán vị: 
