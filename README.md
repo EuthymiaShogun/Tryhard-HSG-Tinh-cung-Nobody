@@ -421,6 +421,19 @@ Những OJ để làm bài tập, contest:
 [G. Maximum Product](https://codeforces.com/gym/100886/problem/G)
 [D. Little Girl and Maximum XOR](https://codeforces.com/contest/276/problem/D)
 
+### Chương 4: Quy hoạch động Đoạn (DP Range)
+#### Tài liệu: 
+- [Range DP](https://usaco.guide/gold/dp-ranges?lang=cpp) (USACO Guide)
+- [Knuth's Optimization](https://cp-algorithms.com/dynamic_programming/knuth-optimization.html) (cp-algorithms)
+#### Bài tập: 
+Problems| Tags| Editorial
+|--|:--:|:--:
+[H. Queries for Number of Palindromes](https://codeforces.com/contest/245/problem/H)| |
+[[Pre-QNOI 2022#02] Mắt biếc](https://nbk.homes/problem/cwdmatbiec)
+[Empty String](https://cses.fi/problemset/task/1080)| |
+[B. Zuma](https://codeforces.com/problemset/problem/607/B)| |
+[F - Hammer 2](https://atcoder.jp/contests/abc273/tasks/abc273_f)| |
+[Knuth Division](https://cses.fi/problemset/task/2088)| Knuth's Optimization |
 ## Phần VI: Đồ thị (Graphs)
 ### Chương 1: DFS
 ### Chương 2: DSU
