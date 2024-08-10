@@ -389,8 +389,8 @@ Những OJ để làm bài tập, contest:
 #### Chia nhóm: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[U - Grouping](https://atcoder.jp/contests/dp/tasks/dp_u)| | [code](https://ideone.com/bj5xs8)
 [F - Close Group](https://atcoder.jp/contests/abc187/tasks/abc187_f)| | [code](https://ideone.com/mtBh07)
+[U - Grouping](https://atcoder.jp/contests/dp/tasks/dp_u)| | [code](https://ideone.com/bj5xs8)
 
 ### Chương 3: Quy hoạch động chữ số (DP Digit)
 #### Tài liệu: 
@@ -399,7 +399,7 @@ Những OJ để làm bài tập, contest:
 #### Đếm số lượng số trong đoạn [L, R] thoả mãn điều kiện: 
 |Problems |Tags | Editorial
 |--|:--:|:--:
-[Số lượng số](https://oj.vnoi.info/problem/snad)| |
+[Số lượng số](https://oj.vnoi.info/problem/snad)| | [code](https://ideone.com/hKx9BY)
 [LUCKY13](https://oj.vnoi.info/problem/lucky13)| |
 [E - Digit Sum Divisible](https://atcoder.jp/contests/abc336/tasks/abc336_e)| |
 [E - Digit Products](https://atcoder.jp/contests/abc208/tasks/abc208_e)| |
@@ -408,7 +408,7 @@ Những OJ để làm bài tập, contest:
 #### Đếm số bộ số thoả mãn điều kiện: 
 |Problems |Tags | Editorial
 |--|:--:|:--:
-[ICPC 2021 miền Bắc - E: Special Number](https://oj.vnoi.info/problem/icpc21_mb_e)
+[ICPC 2021 miền Bắc - E: Special Number](https://oj.vnoi.info/problem/icpc21_mb_e)| | [code](https://ideone.com/NTxeNc)
 [F - Nim](https://atcoder.jp/contests/abc317/tasks/abc317_f)
 #### Tính tổng các số trong đoạn [L, R] thoả mãn điều kiện: 
 |Problems |Tags | Editorial
@@ -418,7 +418,7 @@ Những OJ để làm bài tập, contest:
 #### Truy vết / Duy trì điều kiện 2 cận: 
 |Problems |Tags | Editorial
 |--|:--:|:--:
-[G. Maximum Product](https://codeforces.com/gym/100886/problem/G)
+[G. Maximum Product](https://codeforces.com/gym/100886/problem/G)| | [code](https://ideone.com/NA8oyp)
 [D. Little Girl and Maximum XOR](https://codeforces.com/contest/276/problem/D)
 
 ### Chương 4: Quy hoạch động Đoạn (DP Range)
