@@ -373,19 +373,19 @@ Những OJ để làm bài tập, contest:
 |--|:--:|:--: 
 [VOI 23 Bài 4 - Nhà gỗ](https://oj.vnoi.info/problem/voi23_whome)| | [code](https://ideone.com/h7JFre)
 [Cô gái chăn bò](https://oj.vnoi.info/problem/cowgirl)| | [code](https://ideone.com/brIA6Z)
-[C. Square Subsets](https://codeforces.com/problemset/problem/895/C)| | [code](https://ideone.com/yPofNv)
-[B. Little Pony and Harmony Chest](https://codeforces.com/problemset/problem/453/B)| |
-[VOI 16 Bài 1 - SEQ198](https://oj.vnoi.info/problem/seq198)| |
+[C. Square Subsets](https://codeforces.com/problemset/problem/895/C)| | [code](https://ideone.com/wo4N3u)
+[B. Little Pony and Harmony Chest](https://codeforces.com/problemset/problem/453/B)| | [code](https://ideone.com/1qffma)
+[VOI 16 Bài 1 - SEQ198](https://oj.vnoi.info/problem/seq198)| | [code](https://ideone.com/2feM1z)
 #### Tối ưu duyệt hoán vị: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[TRIP](https://oj.vnoi.info/problem/lem3)| | [code](https://ideone.com/xVAwWb)
-[Hamiltonian Flights](https://cses.fi/problemset/task/1690)| |
-[O - Matching](https://atcoder.jp/contests/dp/tasks/dp_o)| |
-[Elevator Rides](https://cses.fi/problemset/task/1653)| |
-[D. A Simple Task](https://codeforces.com/contest/11/problem/D)| |
-[E. Keyboard Purchase](https://codeforces.com/contest/1238/problem/E)| |
-[F. Elongated Matrix](https://codeforces.com/contest/1102/problem/F)| |
+[TRIP](https://oj.vnoi.info/problem/lem3)| | [code](https://ideone.com/Q00vUd)
+[Hamiltonian Flights](https://cses.fi/problemset/task/1690)| | [code](https://ideone.com/8weBUf)
+[O - Matching](https://atcoder.jp/contests/dp/tasks/dp_o)| | [code](https://ideone.com/xzK2Ef)
+[Elevator Rides](https://cses.fi/problemset/task/1653)| | [code](https://ideone.com/bjhv7H)
+[D. A Simple Task](https://codeforces.com/contest/11/problem/D)| | [code](https://ideone.com/fc2l9Y)
+[E. Keyboard Purchase](https://codeforces.com/contest/1238/problem/E)| | [code](https://ideone.com/G2NOwB)
+[F. Elongated Matrix](https://codeforces.com/contest/1102/problem/F)| | [code](https://ideone.com/ksE70b)
 #### Chia nhóm: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
