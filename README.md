@@ -385,12 +385,12 @@ Những OJ để làm bài tập, contest:
 [Elevator Rides](https://cses.fi/problemset/task/1653)| | [code](https://ideone.com/bjhv7H)
 [D. A Simple Task](https://codeforces.com/contest/11/problem/D)| | [code](https://ideone.com/fc2l9Y)
 [E. Keyboard Purchase](https://codeforces.com/contest/1238/problem/E)| | [code](https://ideone.com/G2NOwB)
-[F. Elongated Matrix](https://codeforces.com/contest/1102/problem/F)| | [code](https://ideone.com/ksE70b)
+[F. Elongated Matrix](https://codeforces.com/contest/1102/problem/F)| | [code](https://ideone.com/gps4ri)
 #### Chia nhóm: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [U - Grouping](https://atcoder.jp/contests/dp/tasks/dp_u)| | [code](https://ideone.com/bj5xs8)
-[F - Close Group](https://atcoder.jp/contests/abc187/tasks/abc187_f)| |
+[F - Close Group](https://atcoder.jp/contests/abc187/tasks/abc187_f)| | [code](https://ideone.com/mtBh07)
 
 ### Chương 3: Quy hoạch động chữ số (DP Digit)
 #### Tài liệu: 
