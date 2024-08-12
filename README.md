@@ -264,14 +264,14 @@ Những OJ để làm bài tập, contest:
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Quản lý vùng BALLAS](https://lqdoj.edu.vn/problem/connect)| |
-[Phá đường](https://oj.vnoi.info/problem/qhroad)| |
 [Yugi-Oh](https://oj.vnoi.info/problem/yugi)
+[Phá đường](https://oj.vnoi.info/problem/qhroad)| |
 [A. Knight Tournament](https://codeforces.com/problemset/problem/356/A)| |
 [Color query](https://oj.vnoi.info/problem/colquery)| |
-[G. Path Queries](https://codeforces.com/contest/1213/problem/G)| |
-[Đặc trưng của cây (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3g)| |
 [Distinct Colors](https://cses.fi/problemset/task/1139)| |
 [E. Lomsat gelral](https://codeforces.com/contest/600/problem/E)| |
+[G. Path Queries](https://codeforces.com/contest/1213/problem/G)| |
+[Đặc trưng của cây (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3g)| |
 
 ## Phần IV: Quay lui, Vét cạn
 ### Chương 1: Quay lui, vét cạn (Backtracking)
@@ -485,7 +485,7 @@ Problems| Tags| Editorial
 
 ### Chương 3: Quy hoạch động trên Cây (DP on Trees)
 #### Tài liệu: 
-- [Quy hoạch động trên cây](https://wiki.vnoi.info/algo/dp/treedp)
+- [Quy hoạch động trên cây](https://wiki.vnoi.info/algo/dp/treedp) (VNOI Wiki)
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -493,7 +493,7 @@ Problems| Tags| Editorial
 
 ### Chương 4: Euler Tour
 #### Tài liệu: 
-- [Đường đi Euler trên cây](https://wiki.vnoi.info/vi/algo/graph-theory/euler-tour-on-tree)
+- [Đường đi Euler trên cây](https://wiki.vnoi.info/vi/algo/graph-theory/euler-tour-on-tree) (VNOI Wiki)
 
 ## Phần VIII: Xử lí xâu (String)
 ### Chương 1: Hashing
