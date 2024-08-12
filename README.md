@@ -474,6 +474,7 @@ Problems| Tags| Editorial
 |--|:--:|:--:
 [Tree Distances I](https://cses.fi/problemset/task/1132)| |
 [F - Exactly K Steps](https://atcoder.jp/contests/abc267/tasks/abc267_f)| |
+
 ### Chương 2: LCA
 #### Tài liệu: 
 - [Lowest Common Ancestor - Binary Lifting](https://cp-algorithms.com/graph/lca_binary_lifting.html) (cp-algorithms)
@@ -483,19 +484,20 @@ Problems| Tags| Editorial
 |--|:--:|:--:
 
 ### Chương 3: Quy hoạch động trên Cây (DP on Trees)
-### Tài liệu: 
+#### Tài liệu: 
 - [Quy hoạch động trên cây](https://wiki.vnoi.info/algo/dp/treedp)
-### Bài tập: 
+#### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [P - Independent Set](https://atcoder.jp/contests/dp/tasks/dp_p)
 
 ### Chương 4: Euler Tour
-### Tài liệu: 
+#### Tài liệu: 
 - [Đường đi Euler trên cây](https://wiki.vnoi.info/vi/algo/graph-theory/euler-tour-on-tree)
 
 ## Phần VIII: Xử lí xâu (String)
 ### Chương 1: Hashing
+
 ### Chương 2: Trie
 #### Tài liệu: 
 - [Trie](https://wiki.vnoi.info/vi/algo/data-structures/trie) (VNOI Wiki)
@@ -507,4 +509,5 @@ Problems| Tags| Editorial
 [E. Beautiful Subarrays](https://codeforces.com/problemset/problem/665/E)| |
 [Order statistic set](https://oj.vnoi.info/problem/ORDERSET)| |
 [E - Lexicographical disorder](https://atcoder.jp/contests/code-festival-2016-qualb/tasks/codefestival_2016_qualB_e)| |
+
 ### Chương 3: KMP
