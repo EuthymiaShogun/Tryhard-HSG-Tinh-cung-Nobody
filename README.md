@@ -256,6 +256,23 @@ Những OJ để làm bài tập, contest:
 [Dãy bằng không](https://oj.vnoi.info/problem/codetour24_c3_c)| |
 [Increasing Array Queries](https://cses.fi/problemset/task/2416)| | [code](https://ideone.com/IsGYaa)
 
+### Chương 7: DSU x Small to Large
+#### Tài liệu: 
+- [Disjoint Set Union](https://cp-algorithms.com/data_structures/disjoint_set_union.html) (cp-algorithms)
+- [Small-To-Large Merging](https://usaco.guide/plat/merging?lang=cpp) (USACO Guide) 
+#### Bài tập: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Quản lý vùng BALLAS](https://lqdoj.edu.vn/problem/connect)| |
+[Phá đường](https://oj.vnoi.info/problem/qhroad)| |
+[Yugi-Oh](https://oj.vnoi.info/problem/yugi)
+[A. Knight Tournament](https://codeforces.com/problemset/problem/356/A)| |
+[Color query](https://oj.vnoi.info/problem/colquery)| |
+[G. Path Queries](https://codeforces.com/contest/1213/problem/G)| |
+[Đặc trưng của cây (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3g)| |
+[Distinct Colors](https://cses.fi/problemset/task/1139)| |
+[E. Lomsat gelral](https://codeforces.com/contest/600/problem/E)| |
+
 ## Phần IV: Quay lui, Vét cạn
 ### Chương 1: Quay lui, vét cạn (Backtracking)
 #### Tài liệu: 
@@ -288,10 +305,8 @@ Những OJ để làm bài tập, contest:
 [Removing Digits](https://cses.fi/problemset/task/1637)| | [code](https://cses.fi/paste/bfa69186a1a66eb1897392/)
 [Rectangle Cutting](https://cses.fi/problemset/task/1744)| | [code](https://cses.fi/paste/b1cad99348e945e18973dd/)
 [[QNOI 2021] Xâu luân phiên](https://nbk.homes/problem/qn21altstr)| | [code](https://ideone.com/b95DUi)
-[Projects](https://cses.fi/problemset/task/1140)| Sort x Binary Search / BIT x DP| [code](https://ideone.com/JLYahs)
 [E - Many Operations](https://atcoder.jp/contests/abc261/tasks/abc261_e)| |
 [F - Reordering](https://atcoder.jp/contests/abc234/tasks/abc234_f)| |
-
 #### LIS: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -347,6 +362,11 @@ Những OJ để làm bài tập, contest:
 [Olympic 30/4 2018 - Khối 10 - Bài 2 - Chia đất](https://oj.vnoi.info/problem/olp304_18_chiadat)| | [code](https://ideone.com/k169qu)
 [VOI 15 Bài 4 - Cắt hình](https://oj.vnoi.info/problem/mincut)
 [Siêu thị (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3d)| | [code](https://ideone.com/ZX0pOR)
+#### Sort/Tham lam x DP: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Projects](https://cses.fi/problemset/task/1140)| Sort x Binary Search / BIT x DP| [code](https://ideone.com/JLYahs)
+[F - Maximum Composition](https://atcoder.jp/contests/abc366/tasks/abc366_f)| |
 
 ### Chương 2.1: Bitmask - Thao tác bit
 #### Tài liệu:
@@ -425,17 +445,16 @@ Những OJ để làm bài tập, contest:
 Problems| Tags| Editorial
 |--|:--:|:--:
 [H. Queries for Number of Palindromes](https://codeforces.com/contest/245/problem/H)| |
+[N - Slimes](https://atcoder.jp/contests/dp/tasks/dp_n)| |
 [[Pre-QNOI 2022#02] Mắt biếc](https://nbk.homes/problem/cwdmatbiec)
 [Empty String](https://cses.fi/problemset/task/1080)| |
 [B. Zuma](https://codeforces.com/problemset/problem/607/B)| |
 [F - Hammer 2](https://atcoder.jp/contests/abc273/tasks/abc273_f)| |
 [Knuth Division](https://cses.fi/problemset/task/2088)| Knuth's Optimization |
+
 ## Phần VI: Đồ thị (Graphs)
-### Chương 1: DFS
-### Chương 2: DSU
-* #### DSU
-* #### Kĩ thuật Small to large
-* #### Cây khung nhỏ nhất (MST)
+### Chương 1: Duyệt đồ thị (DFS/BFS)
+### Chương 2: Cây khung nhỏ nhất (MST) - Thuật toán Kruskal 
 ### Chương 3: Đồ thị hai phía
 ### Chương 4: Đường đi ngắn nhất
 * #### BFS
@@ -445,15 +464,47 @@ Problems| Tags| Editorial
 * #### Các loại cạnh, tìm chu trình
 * #### Khớp, cầu
 * #### Thành phần liên thông mạnh (SCC) 
-### Chương 6: DAG  
-### Chương 7: Cây
-* #### Đường kính của cây
-[F - Exactly K Steps](https://atcoder.jp/contests/abc267/tasks/abc267_f)
-* #### LCA
-* #### DP Cây
-* #### Euler Tour
+### Chương 6: DAG
 
-## Phần VII: Xử lí xâu (String)
+## Phần VII: Cây  
+### Chương 1: Đường kính của cây
+#### Tài liệu: 
+#### Bài tập:
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Tree Distances I](https://cses.fi/problemset/task/1132)| |
+[F - Exactly K Steps](https://atcoder.jp/contests/abc267/tasks/abc267_f)| |
+### Chương 2: LCA
+#### Tài liệu: 
+- [Lowest Common Ancestor - Binary Lifting](https://cp-algorithms.com/graph/lca_binary_lifting.html) (cp-algorithms)
+- [Lowest Common Ancestor (LCA) - Binary Lifting](https://wiki.vnoi.info/vi/algo/data-structures/lca-binlift) (VNOI Wiki)
+#### Bài tập: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+
+### Chương 3: Quy hoạch động trên Cây (DP on Trees)
+### Tài liệu: 
+- [Quy hoạch động trên cây](https://wiki.vnoi.info/algo/dp/treedp)
+### Bài tập: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[P - Independent Set](https://atcoder.jp/contests/dp/tasks/dp_p)
+
+### Chương 4: Euler Tour
+### Tài liệu: 
+- [Đường đi Euler trên cây](https://wiki.vnoi.info/vi/algo/graph-theory/euler-tour-on-tree)
+
+## Phần VIII: Xử lí xâu (String)
 ### Chương 1: Hashing
 ### Chương 2: Trie
+#### Tài liệu: 
+- [Trie](https://wiki.vnoi.info/vi/algo/data-structures/trie) (VNOI Wiki)
+#### Bài tập: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Tách từ](https://oj.vnoi.info/problem/nksev)| |
+[Maximum Xor Subarray](https://cses.fi/problemset/task/1655)| |
+[E. Beautiful Subarrays](https://codeforces.com/problemset/problem/665/E)| |
+[Order statistic set](https://oj.vnoi.info/problem/ORDERSET)| |
+[E - Lexicographical disorder](https://atcoder.jp/contests/code-festival-2016-qualb/tasks/codefestival_2016_qualB_e)| |
 ### Chương 3: KMP
