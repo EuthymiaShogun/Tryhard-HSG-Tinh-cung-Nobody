@@ -359,8 +359,8 @@ Những OJ để làm bài tập, contest:
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [VOI 11 Bài 1 - Phần thưởng](https://oj.vnoi.info/problem/bonus)| | [code](https://ideone.com/63KEem)
-[Olympic 30/4 2018 - Khối 10 - Bài 2 - Chia đất](https://oj.vnoi.info/problem/olp304_18_chiadat)| | [code](https://ideone.com/k169qu)
-[VOI 15 Bài 4 - Cắt hình](https://oj.vnoi.info/problem/mincut)
+[H. Queries for Number of Palindromes](https://codeforces.com/contest/245/problem/H)| |
+[VOI 15 Bài 4 - Cắt hình](https://oj.vnoi.info/problem/mincut)| |
 [Siêu thị (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3d)| | [code](https://ideone.com/ZX0pOR)
 #### Sort/Tham lam x DP: 
 |Problems |Tags |Editorial
@@ -441,7 +441,6 @@ Những OJ để làm bài tập, contest:
 #### Bài tập: 
 Problems| Tags| Editorial
 |--|:--:|:--:
-[H. Queries for Number of Palindromes](https://codeforces.com/contest/245/problem/H)| |
 [N - Slimes](https://atcoder.jp/contests/dp/tasks/dp_n)| |
 [[Pre-QNOI 2022#02] Mắt biếc](https://nbk.homes/problem/cwdmatbiec)
 [Empty String](https://cses.fi/problemset/task/1080)| |
