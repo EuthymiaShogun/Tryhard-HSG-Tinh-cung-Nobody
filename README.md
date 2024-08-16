@@ -416,26 +416,23 @@ Những OJ để làm bài tập, contest:
 |Problems |Tags | Editorial
 |--|:--:|:--:
 [Số lượng số](https://oj.vnoi.info/problem/snad)| | [code](https://ideone.com/hKx9BY)
-[LUCKY13](https://oj.vnoi.info/problem/lucky13)| |
-[E - Digit Sum Divisible](https://atcoder.jp/contests/abc336/tasks/abc336_e)| |
-[E - Digit Products](https://atcoder.jp/contests/abc208/tasks/abc208_e)| |
+[LUCKY13](https://oj.vnoi.info/problem/lucky13)| | [code](https://ideone.com/EKjDL2)
+[E - Digit Sum Divisible](https://atcoder.jp/contests/abc336/tasks/abc336_e)| | [code](https://ideone.com/8UQw0Y)
+[E - Digit Products](https://atcoder.jp/contests/abc208/tasks/abc208_e)| | [code](https://ideone.com/E3SnyC)
 [D. Magic Numbers](https://codeforces.com/contest/628/problem/D)| |
 [E. Salazar Slytherin's Locket](https://codeforces.com/problemset/problem/855/E)| |
-#### Đếm số bộ số thoả mãn điều kiện: 
-|Problems |Tags | Editorial
-|--|:--:|:--:
-[ICPC 2021 miền Bắc - E: Special Number](https://oj.vnoi.info/problem/icpc21_mb_e)| | [code](https://ideone.com/NTxeNc)
-[F - Nim](https://atcoder.jp/contests/abc317/tasks/abc317_f)
 #### Tính tổng các số trong đoạn [L, R] thoả mãn điều kiện: 
 |Problems |Tags | Editorial
 |--|:--:|:--:
-[Writing Numbers](https://cses.fi/problemset/task/1086)
-[E. Segment Sum](https://codeforces.com/problemset/problem/1073/E)| |   
-#### Truy vết / Duy trì điều kiện 2 cận: 
+[Writing Numbers](https://cses.fi/problemset/task/1086)| | [code](https://ideone.com/kux8KV)
+[E. Segment Sum](https://codeforces.com/problemset/problem/1073/E)| | [code](https://ideone.com/JU3LHU)
+#### Đếm số bộ số thoả mãn điều kiện / Truy vết / Duy trì điều kiện 2 cận: 
 |Problems |Tags | Editorial
 |--|:--:|:--:
 [G. Maximum Product](https://codeforces.com/gym/100886/problem/G)| | [code](https://ideone.com/NA8oyp)
 [D. Little Girl and Maximum XOR](https://codeforces.com/contest/276/problem/D)
+[F - Nim](https://atcoder.jp/contests/abc317/tasks/abc317_f)| | [code](https://ideone.com/uX7gmj)
+[ICPC 2021 miền Bắc - E: Special Number](https://oj.vnoi.info/problem/icpc21_mb_e)| | [code](https://ideone.com/NTxeNc)
 
 ### Chương 4: Quy hoạch động Đoạn (DP Range)
 #### Tài liệu: 
