@@ -441,12 +441,12 @@ Những OJ để làm bài tập, contest:
 #### Bài tập: 
 Problems| Tags| Editorial
 |--|:--:|:--:
-[N - Slimes](https://atcoder.jp/contests/dp/tasks/dp_n)| |
+[N - Slimes](https://atcoder.jp/contests/dp/tasks/dp_n)| | [code](https://ideone.com/ZzfKS4)
 [[Pre-QNOI 2022#02] Mắt biếc](https://nbk.homes/problem/cwdmatbiec)
-[Empty String](https://cses.fi/problemset/task/1080)| |
-[B. Zuma](https://codeforces.com/problemset/problem/607/B)| |
-[F - Hammer 2](https://atcoder.jp/contests/abc273/tasks/abc273_f)| |
-[Knuth Division](https://cses.fi/problemset/task/2088)| Knuth's Optimization |
+[Empty String](https://cses.fi/problemset/task/1080)| | [code](https://ideone.com/a6mORL)
+[B. Zuma](https://codeforces.com/problemset/problem/607/B)| | [code](https://ideone.com/9Si4vh)
+[F - Hammer 2](https://atcoder.jp/contests/abc273/tasks/abc273_f)| | [code](https://ideone.com/UiZOYV)
+[Knuth Division](https://cses.fi/problemset/task/2088)| Knuth's Optimization | 
 
 ## Phần VI: Đồ thị (Graphs)
 ### Chương 1: Duyệt đồ thị (DFS/BFS)
