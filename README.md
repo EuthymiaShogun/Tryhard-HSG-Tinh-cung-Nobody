@@ -253,9 +253,8 @@ Những OJ để làm bài tập, contest:
 [Planets Queries I](https://cses.fi/problemset/task/1750)| | [code](https://ideone.com/6bHBzp)
 [Cyclic Array](https://cses.fi/problemset/task/1191/)| | [code](https://ideone.com/Mu0Rhu)
 [Movie Festival Queries](https://cses.fi/problemset/task/1664)| | [code](https://ideone.com/eOcntW)
-[Dãy bằng không](https://oj.vnoi.info/problem/codetour24_c3_c)| |
 [Increasing Array Queries](https://cses.fi/problemset/task/2416)| | [code](https://ideone.com/IsGYaa)
-
+[E - Permute K times](https://atcoder.jp/contests/abc367/tasks/abc367_e)| |
 ### Chương 7: DSU x Small to Large
 #### Tài liệu: 
 - [Disjoint Set Union](https://cp-algorithms.com/data_structures/disjoint_set_union.html) (cp-algorithms)
@@ -292,11 +291,10 @@ Những OJ để làm bài tập, contest:
 [Educational Backtracking: Đổi dấu](https://oj.vnoi.info/problem/backtrack_k)| |
   
 ## Phần V: Quy hoạch động (DP) 
-### Chương 1: Quy hoạch động (DP General)
+### Chương 1: DP General
 #### Tài liệu:
 - [Introduction to Dynamic Programming](https://cp-algorithms.com/dynamic_programming/intro-to-dp.html) (cp-algorithms)
 #### Bài tập: 
-#### DP General: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c)| | [code](https://atcoder.jp/contests/dp/submissions/52517660)
@@ -315,7 +313,7 @@ Những OJ để làm bài tập, contest:
 |Problems |Tags |Editorial
 |--|:--:|:--: 
 [F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f)| LCS | [code](https://ideone.com/MlUIdc)
-[E - Common Subsequence](https://atcoder.jp/contests/abc130/tasks/abc130_e)| Đếm số dãy con chung| 
+[E - Common Subsequence](https://atcoder.jp/contests/abc130/tasks/abc130_e)| Đếm số dãy con chung| [code](https://ideone.com/kq1jym)
 [VOI 14 Bài 2 - Dãy con chung bội hai dài nhất](https://oj.vnoi.info/problem/lcs2x)| |
 
 #### String: 
@@ -323,8 +321,8 @@ Những OJ để làm bài tập, contest:
 |--|:--:|:--:
 [Edit Distance](https://cses.fi/problemset/task/1639)| | [code](https://ideone.com/CoZVES)
 [D - String Bags](https://atcoder.jp/contests/abc344/tasks/abc344_d)| | [code](https://ideone.com/9cd7YE)
-[E - Strings of Impurity](https://atcoder.jp/contests/abc138/tasks/abc138_e)| |
-[String Removals](https://cses.fi/problemset/task/1149/)| |
+[E - Strings of Impurity](https://atcoder.jp/contests/abc138/tasks/abc138_e)| | [code](https://ideone.com/IhAu5O)
+[String Removals](https://cses.fi/problemset/task/1149/)| | [code](https://ideone.com/kOTpGK)
 #### Xâu đối xứng:
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -360,13 +358,14 @@ Những OJ để làm bài tập, contest:
 |--|:--:|:--:
 [VOI 11 Bài 1 - Phần thưởng](https://oj.vnoi.info/problem/bonus)| | [code](https://ideone.com/63KEem)
 [H. Queries for Number of Palindromes](https://codeforces.com/contest/245/problem/H)| |
-[VOI 15 Bài 4 - Cắt hình](https://oj.vnoi.info/problem/mincut)| |
+[VOI 15 Bài 4 - Cắt hình](https://oj.vnoi.info/problem/mincut)| | [code](https://ideone.com/BVAZvm)
 [Siêu thị (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3d)| | [code](https://ideone.com/ZX0pOR)
-#### Sort/Tham lam x DP: 
+#### Sort x DP: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Projects](https://cses.fi/problemset/task/1140)| Sort x Binary Search / BIT x DP| [code](https://ideone.com/JLYahs)
 [F - Maximum Composition](https://atcoder.jp/contests/abc366/tasks/abc366_f)| |
+[X - Tower](https://atcoder.jp/contests/dp/tasks/dp_x)| | 
 
 ### Chương 2.1: Bitmask - Thao tác bit
 #### Tài liệu:
@@ -405,7 +404,7 @@ Những OJ để làm bài tập, contest:
 #### Chia nhóm: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[F - Close Group](https://atcoder.jp/contests/abc187/tasks/abc187_f)| | [code](https://ideone.com/mtBh07)
+[F - Close Group](https://atcoder.jp/contests/abc187/tasks/abc187_f)| | [code](https://ideone.com/Fp3jIR)
 [U - Grouping](https://atcoder.jp/contests/dp/tasks/dp_u)| | [code](https://ideone.com/bj5xs8)
 
 ### Chương 3: Quy hoạch động chữ số (DP Digit)
@@ -442,11 +441,11 @@ Những OJ để làm bài tập, contest:
 Problems| Tags| Editorial
 |--|:--:|:--:
 [N - Slimes](https://atcoder.jp/contests/dp/tasks/dp_n)| | [code](https://ideone.com/ZzfKS4)
-[[Pre-QNOI 2022#02] Mắt biếc](https://nbk.homes/problem/cwdmatbiec)
-[Empty String](https://cses.fi/problemset/task/1080)| | [code](https://ideone.com/a6mORL)
-[B. Zuma](https://codeforces.com/problemset/problem/607/B)| | [code](https://ideone.com/9Si4vh)
-[F - Hammer 2](https://atcoder.jp/contests/abc273/tasks/abc273_f)| | [code](https://ideone.com/UiZOYV)
-[Knuth Division](https://cses.fi/problemset/task/2088)| Knuth's Optimization | 
+[[Pre-QNOI 2022#02] Mắt biếc](https://nbk.homes/problem/cwdmatbiec)| | [code](https://ideone.com/mG7T5y)
+[Empty String](https://cses.fi/problemset/task/1080)| | [code](https://ideone.com/lXIph9)
+[B. Zuma](https://codeforces.com/problemset/problem/607/B)| | [code](https://ideone.com/7Bv0Wm)
+[F - Hammer 2](https://atcoder.jp/contests/abc273/tasks/abc273_f)| | [code](https://ideone.com/h6SSLo)
+[Knuth Division](https://cses.fi/problemset/task/2088)| Knuth's Optimization | [code](https://ideone.com/iNUh48)
 
 ## Phần VI: Đồ thị (Graphs)
 ### Chương 1: Duyệt đồ thị (DFS/BFS)
@@ -493,6 +492,14 @@ Problems| Tags| Editorial
 
 ## Phần VIII: Xử lí xâu (String)
 ### Chương 1: Hashing
+#### Tài liệu: 
+- [Hash: A String Matching Algorithm](https://wiki.vnoi.info/vi/algo/string/hash) (VNOI Wiki)
+- [String Hashing](https://cp-algorithms.com/string/string-hashing.html) (cp-algorithms)
+- [Rabin-Karp Algorithm for string matching](https://cp-algorithms.com/string/rabin-karp.html) (cp-algorithms)
+- [XOR Hashing [TUTORIAL]](https://codeforces.com/blog/entry/85900?locale=ru) (blog Codeforces)
+#### Bài tập: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
 
 ### Chương 2: Trie
 #### Tài liệu: 
