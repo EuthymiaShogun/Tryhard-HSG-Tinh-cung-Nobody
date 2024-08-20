@@ -490,7 +490,7 @@ Problems| Tags| Editorial
 #### Tài liệu: 
 - [Đường đi Euler trên cây](https://wiki.vnoi.info/vi/algo/graph-theory/euler-tour-on-tree) (VNOI Wiki)
 
-## Phần VIII: Xử lí xâu (String)
+## Phần VIII: Thuật toán Xâu (String Algorithms)
 ### Chương 1: Hashing
 #### Tài liệu: 
 - [Hash: A String Matching Algorithm](https://wiki.vnoi.info/vi/algo/string/hash) (VNOI Wiki)
