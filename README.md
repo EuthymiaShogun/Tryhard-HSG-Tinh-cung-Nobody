@@ -418,8 +418,8 @@ Những OJ để làm bài tập, contest:
 [LUCKY13](https://oj.vnoi.info/problem/lucky13)| | [code](https://ideone.com/EKjDL2)
 [E - Digit Sum Divisible](https://atcoder.jp/contests/abc336/tasks/abc336_e)| | [code](https://ideone.com/8UQw0Y)
 [E - Digit Products](https://atcoder.jp/contests/abc208/tasks/abc208_e)| | [code](https://ideone.com/E3SnyC)
-[D. Magic Numbers](https://codeforces.com/contest/628/problem/D)| |
-[E. Salazar Slytherin's Locket](https://codeforces.com/problemset/problem/855/E)| |
+[D. Magic Numbers](https://codeforces.com/contest/628/problem/D)| | [code](https://ideone.com/d9Yv6f)
+[E. Salazar Slytherin's Locket](https://codeforces.com/problemset/problem/855/E)| | [code](https://ideone.com/DUBRG2)
 #### Tính tổng các số trong đoạn [L, R] thoả mãn điều kiện: 
 |Problems |Tags | Editorial
 |--|:--:|:--:
@@ -429,7 +429,7 @@ Những OJ để làm bài tập, contest:
 |Problems |Tags | Editorial
 |--|:--:|:--:
 [G. Maximum Product](https://codeforces.com/gym/100886/problem/G)| | [code](https://ideone.com/NA8oyp)
-[D. Little Girl and Maximum XOR](https://codeforces.com/contest/276/problem/D)
+[D. Little Girl and Maximum XOR](https://codeforces.com/contest/276/problem/D)| | [code](https://ideone.com/lVqBBU)
 [F - Nim](https://atcoder.jp/contests/abc317/tasks/abc317_f)| | [code](https://ideone.com/uX7gmj)
 [ICPC 2021 miền Bắc - E: Special Number](https://oj.vnoi.info/problem/icpc21_mb_e)| | [code](https://ideone.com/NTxeNc)
 
@@ -497,20 +497,46 @@ Problems| Tags| Editorial
 - [String Hashing](https://cp-algorithms.com/string/string-hashing.html) (cp-algorithms)
 - [Rabin-Karp Algorithm for string matching](https://cp-algorithms.com/string/rabin-karp.html) (cp-algorithms)
 - [XOR Hashing [TUTORIAL]](https://codeforces.com/blog/entry/85900?locale=ru) (blog Codeforces)
+- [Hashing](https://hackmd.io/@LetterC67/Hk4EUnbts) (LetterC67)
 #### Bài tập: 
+#### String Hashing: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
+[String Matching](https://cses.fi/problemset/task/1753/)| |
+[Finding Periods](https://cses.fi/problemset/task/1733/)| |
+[C. Watto and Mechanism](https://codeforces.com/contest/514/problem/C)| |
+[D. Good Substrings](https://codeforces.com/contest/271/problem/D)| |
+[Minimal Rotation](https://cses.fi/problemset/task/1110)| |
+[Longest Palindrome](https://cses.fi/problemset/task/1111)| |
+[D. Palindrome Degree](https://codeforces.com/contest/7/problem/D)| |
+[Palindrome Queries](https://cses.fi/problemset/task/2420)| Segment Tree x Hashing|
+[ITSTR](https://oj.vnoi.info/problem/segtree_itstr)| |
+[Bracket Circle](https://oj.vnoi.info/problem/codetour24_c2_c)| |
+#### XOR Hasing / Sum Hashing:
+|Problems |Tags |Editorial
+|--|:--:|:--: 
+[Lật xu](https://lqdoj.edu.vn/problem/coinflip)| XOR Hashing |
+[E - Prefix Equality](https://atcoder.jp/contests/abc250/tasks/abc250_e)
+[C. Double Profiles](https://codeforces.com/problemset/problem/154/C)| |
+[F - Rearrange Query](https://atcoder.jp/contests/abc367/tasks/abc367_f)| Sum Hashing |
 
 ### Chương 2: Trie
 #### Tài liệu: 
 - [Trie](https://wiki.vnoi.info/vi/algo/data-structures/trie) (VNOI Wiki)
 #### Bài tập: 
+#### Trie xâu: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
+[Lặp tên](https://oj.vnoi.info/problem/trie_shortcode)| |
 [Tách từ](https://oj.vnoi.info/problem/nksev)| |
+[Xâu đối xứng](https://oj.vnoi.info/problem/palinx)| |
+[E - Lexicographical disorder](https://atcoder.jp/contests/code-festival-2016-qualb/tasks/codefestival_2016_qualB_e)
+#### Trie số nguyên: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
 [Maximum Xor Subarray](https://cses.fi/problemset/task/1655)| |
-[E. Beautiful Subarrays](https://codeforces.com/problemset/problem/665/E)| |
+[KXOR](https://oj.vnoi.info/problem/trie_kxor)| |
+[VO 16 Bài 2 - XOR dãy số](https://oj.vnoi.info/problem/voxor)| |
 [Order statistic set](https://oj.vnoi.info/problem/ORDERSET)| |
-[E - Lexicographical disorder](https://atcoder.jp/contests/code-festival-2016-qualb/tasks/codefestival_2016_qualB_e)| |
 
 ### Chương 3: KMP
