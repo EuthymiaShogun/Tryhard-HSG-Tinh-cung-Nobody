@@ -419,7 +419,7 @@ Những OJ để làm bài tập, contest:
 [E - Digit Sum Divisible](https://atcoder.jp/contests/abc336/tasks/abc336_e)| | [code](https://ideone.com/8UQw0Y)
 [E - Digit Products](https://atcoder.jp/contests/abc208/tasks/abc208_e)| | [code](https://ideone.com/E3SnyC)
 [D. Magic Numbers](https://codeforces.com/contest/628/problem/D)| | [code](https://ideone.com/d9Yv6f)
-[E. Salazar Slytherin's Locket](https://codeforces.com/problemset/problem/855/E)| | [code](https://ideone.com/DUBRG2)
+[E. Salazar Slytherin's Locket](https://codeforces.com/problemset/problem/855/E)| | [code](https://ideone.com/JpiZH5)
 #### Tính tổng các số trong đoạn [L, R] thoả mãn điều kiện: 
 |Problems |Tags | Editorial
 |--|:--:|:--:
@@ -518,25 +518,26 @@ Problems| Tags| Editorial
 [Lật xu](https://lqdoj.edu.vn/problem/coinflip)| XOR Hashing |
 [E - Prefix Equality](https://atcoder.jp/contests/abc250/tasks/abc250_e)
 [C. Double Profiles](https://codeforces.com/problemset/problem/154/C)| |
+[F. Isomorphic Strings](https://codeforces.com/contest/985/problem/F)
 [F - Rearrange Query](https://atcoder.jp/contests/abc367/tasks/abc367_f)| Sum Hashing |
 
 ### Chương 2: Trie
 #### Tài liệu: 
 - [Trie](https://wiki.vnoi.info/vi/algo/data-structures/trie) (VNOI Wiki)
+- [Aho-Corasick algorithm](https://cp-algorithms.com/string/aho_corasick.html) (cp-algorithms) (mục **Construction of the trie**)
 #### Bài tập: 
 #### Trie xâu: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Lặp tên](https://oj.vnoi.info/problem/trie_shortcode)| |
 [Tách từ](https://oj.vnoi.info/problem/nksev)| |
+[Chuỗi từ](https://oj.vnoi.info/problem/chain2)| |
+[E - Lexicographical disorder](https://atcoder.jp/contests/code-festival-2016-qualb/tasks/codefestival_2016_qualB_e)| |
 [Xâu đối xứng](https://oj.vnoi.info/problem/palinx)| |
-[E - Lexicographical disorder](https://atcoder.jp/contests/code-festival-2016-qualb/tasks/codefestival_2016_qualB_e)
 #### Trie số nguyên: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Maximum Xor Subarray](https://cses.fi/problemset/task/1655)| |
 [KXOR](https://oj.vnoi.info/problem/trie_kxor)| |
 [VO 16 Bài 2 - XOR dãy số](https://oj.vnoi.info/problem/voxor)| |
-[Order statistic set](https://oj.vnoi.info/problem/ORDERSET)| |
-
+[TQUERY](https://oj.vnoi.info/problem/trie_tquery)| |
 ### Chương 3: KMP
