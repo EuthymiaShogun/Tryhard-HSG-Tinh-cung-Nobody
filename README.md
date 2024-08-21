@@ -360,6 +360,11 @@ Những OJ để làm bài tập, contest:
 [H. Queries for Number of Palindromes](https://codeforces.com/contest/245/problem/H)| |
 [VOI 15 Bài 4 - Cắt hình](https://oj.vnoi.info/problem/mincut)| | [code](https://ideone.com/BVAZvm)
 [Siêu thị (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3d)| | [code](https://ideone.com/ZX0pOR)
+#### Lý thuyết trò chơi: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[K - Stones](https://atcoder.jp/contests/dp/tasks/dp_k)| |
+[Removal Game](https://cses.fi/problemset/task/1097)| |
 #### Sort x DP: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -529,15 +534,20 @@ Problems| Tags| Editorial
 #### Trie xâu: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Tách từ](https://oj.vnoi.info/problem/nksev)| |
+[Tách từ](https://oj.vnoi.info/problem/nksev)| | [code](https://ideone.com/ZVzMvS)
 [Chuỗi từ](https://oj.vnoi.info/problem/chain2)| |
 [E - Lexicographical disorder](https://atcoder.jp/contests/code-festival-2016-qualb/tasks/codefestival_2016_qualB_e)| |
 [Xâu đối xứng](https://oj.vnoi.info/problem/palinx)| |
 #### Trie số nguyên: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Maximum Xor Subarray](https://cses.fi/problemset/task/1655)| |
+[Maximum Xor Subarray](https://cses.fi/problemset/task/1655)| | [code](https://ideone.com/nXGiqC)
 [KXOR](https://oj.vnoi.info/problem/trie_kxor)| |
 [VO 16 Bài 2 - XOR dãy số](https://oj.vnoi.info/problem/voxor)| |
 [TQUERY](https://oj.vnoi.info/problem/trie_tquery)| |
 ### Chương 3: KMP
+#### Bài tập: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Required Substring](https://cses.fi/problemset/task/1112)| |
+[B. Lucky Common Subsequence](https://codeforces.com/problemset/problem/346/B)| |
