@@ -534,10 +534,10 @@ Problems| Tags| Editorial
 #### Trie xâu: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Tách từ](https://oj.vnoi.info/problem/nksev)| | [code](https://ideone.com/ZVzMvS)
-[Chuỗi từ](https://oj.vnoi.info/problem/chain2)| |
-[Tìm kiếm động cơ](https://oj.vnoi.info/problem/trie_ddsearch)| |
-[E - Lexicographical disorder](https://atcoder.jp/contests/code-festival-2016-qualb/tasks/codefestival_2016_qualB_e)| |
+[Tách từ](https://oj.vnoi.info/problem/nksev)| | [code](https://ideone.com/0nIZEy)
+[Chuỗi từ](https://oj.vnoi.info/problem/chain2)| | [code](https://ideone.com/EHUhoB)
+[Tìm kiếm động cơ](https://oj.vnoi.info/problem/trie_ddsearch)| | [code](https://ideone.com/MhVFQ6)
+[E - Lexicographical disorder](https://atcoder.jp/contests/code-festival-2016-qualb/tasks/codefestival_2016_qualB_e)| | [code](https://ideone.com/URpJR8)
 [Xâu đối xứng](https://oj.vnoi.info/problem/palinx)| |
 #### Trie số nguyên: 
 |Problems |Tags |Editorial
