@@ -536,6 +536,7 @@ Problems| Tags| Editorial
 |--|:--:|:--:
 [Tách từ](https://oj.vnoi.info/problem/nksev)| | [code](https://ideone.com/ZVzMvS)
 [Chuỗi từ](https://oj.vnoi.info/problem/chain2)| |
+[Tìm kiếm động cơ](https://oj.vnoi.info/problem/trie_ddsearch)| |
 [E - Lexicographical disorder](https://atcoder.jp/contests/code-festival-2016-qualb/tasks/codefestival_2016_qualB_e)| |
 [Xâu đối xứng](https://oj.vnoi.info/problem/palinx)| |
 #### Trie số nguyên: 
