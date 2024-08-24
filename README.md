@@ -534,18 +534,19 @@ Problems| Tags| Editorial
 #### Trie xâu: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Tách từ](https://oj.vnoi.info/problem/nksev)| | [code](https://ideone.com/0nIZEy)
-[Chuỗi từ](https://oj.vnoi.info/problem/chain2)| | [code](https://ideone.com/EHUhoB)
-[Tìm kiếm động cơ](https://oj.vnoi.info/problem/trie_ddsearch)| | [code](https://ideone.com/MhVFQ6)
-[E - Lexicographical disorder](https://atcoder.jp/contests/code-festival-2016-qualb/tasks/codefestival_2016_qualB_e)| | [code](https://ideone.com/URpJR8)
+[Tách từ](https://oj.vnoi.info/problem/nksev)| | [code](https://ideone.com/3NiEaQ)
+[Chuỗi từ](https://oj.vnoi.info/problem/chain2)| | [code](https://ideone.com/ed2E0k)
+[Tìm kiếm động cơ](https://oj.vnoi.info/problem/trie_ddsearch)| | [code](https://ideone.com/EVC17H)
+[E - Lexicographical disorder](https://atcoder.jp/contests/code-festival-2016-qualb/tasks/codefestival_2016_qualB_e)| | [code](https://ideone.com/A6ACKw)
 [Xâu đối xứng](https://oj.vnoi.info/problem/palinx)| |
 #### Trie số nguyên: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Maximum Xor Subarray](https://cses.fi/problemset/task/1655)| | [code](https://ideone.com/nXGiqC)
-[KXOR](https://oj.vnoi.info/problem/trie_kxor)| |
-[VO 16 Bài 2 - XOR dãy số](https://oj.vnoi.info/problem/voxor)| |
-[TQUERY](https://oj.vnoi.info/problem/trie_tquery)| |
+[TQUERY](https://oj.vnoi.info/problem/trie_tquery)| | [code](https://ideone.com/3kMa25)
+[VO 16 Bài 2 - XOR dãy số](https://oj.vnoi.info/problem/voxor)| | [code](https://ideone.com/AEwnLc)
+[Maximum Xor Subarray](https://cses.fi/problemset/task/1655)| | [code](https://ideone.com/Nm6Lc5)
+[KXOR](https://oj.vnoi.info/problem/trie_kxor)| | [code](https://ideone.com/wlKPs9)
+
 ### Chương 3: KMP
 #### Bài tập: 
 |Problems |Tags |Editorial
