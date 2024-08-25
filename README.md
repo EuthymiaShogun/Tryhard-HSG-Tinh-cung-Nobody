@@ -116,7 +116,20 @@ Những OJ để làm bài tập, contest:
 [D - Binomial Coefficients](https://atcoder.jp/contests/abc094/tasks/arc095_b)| | [code](https://atcoder.jp/contests/abc094/submissions/52146163)
 [E - Max-Min Sums](https://atcoder.jp/contests/abc151/tasks/abc151_e)| | [code](https://atcoder.jp/contests/abc151/submissions/52157137)
 
-## Phần II: Tìm kiếm nhị phân & Kĩ thuật 2 con trỏ 
+### Chương 4: Bao hàm loại trừ
+#### Tài liệu:
+- [The Inclusion-Exclusion Principle](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html) (cp-algorithms)
+#### Bài tập: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Prime Multiples](https://cses.fi/problemset/task/2185)| |
+[Counting Coprime Pairs](https://cses.fi/problemset/task/2417)| |
+[E - Sum of gcd of Tuples (Hard)](https://atcoder.jp/contests/abc162/tasks/abc162_e)| |
+[Grid Paths](https://cses.fi/problemset/task/1078)| |
+[Christmas Party](https://cses.fi/problemset/task/1717)
+[Counting Sequences](https://cses.fi/problemset/task/2228)
+
+## Phần II: Tìm kiếm nhị phân & Kĩ thuật Hai con trỏ 
 ### Chương 1: Tìm kiếm nhị phân (Binary Search) 
 #### Tài liệu: 
 - [Chương 2: Tìm kiếm nhị phân](https://docs.google.com/presentation/d/1HgMD-vobIakIukE8eL4ZRiE0yc-cClibuwoGscD5Ztc/edit?usp=sharing)
@@ -137,6 +150,18 @@ Những OJ để làm bài tập, contest:
 [D. Max Median](https://codeforces.com/problemset/problem/1486/D)| Binary Search x Prefix Sum | [code](https://ideone.com/HJm0NH)
 [E - Average and Median](https://atcoder.jp/contests/abc236/tasks/abc236_e)| Binary Search x DP | [code](https://ideone.com/hvLwU6)
 
+### Chương 2: Kĩ thuật Hai con trỏ (Two Pointers)
+#### Tài liệu: 
+- [Kĩ thuật hai con trỏ](https://wiki.vnoi.info/algo/basic/two-pointers) (VNOI Wiki)
+#### Bài tập: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Sum of Three Values](https://cses.fi/problemset/task/1641)| |
+[Bộ số tam giác](https://lqdoj.edu.vn/problem/1819bosotg)| |
+[Khai bút đầu xuân](https://oj.vnoi.info/problem/sopenp)| |
+[VM 14 Bài 05 - Quá béo](https://oj.vnoi.info/problem/vmquabeo)| |
+[[QNOI 2021] Khiêu vũ](https://nbk.homes/problem/qn21dance)| |
+[VOI 08 Bài 1 - Trò chơi với dãy số](https://oj.vnoi.info/problem/nksgame)| |
 ## Phần III: Cấu trúc dữ liệu
 ### Chương 1: set/multiset, map, priority_queue 
 #### Tài liệu: 
@@ -314,7 +339,7 @@ Những OJ để làm bài tập, contest:
 |--|:--:|:--: 
 [F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f)| LCS | [code](https://ideone.com/MlUIdc)
 [E - Common Subsequence](https://atcoder.jp/contests/abc130/tasks/abc130_e)| Đếm số dãy con chung| [code](https://ideone.com/kq1jym)
-[VOI 14 Bài 2 - Dãy con chung bội hai dài nhất](https://oj.vnoi.info/problem/lcs2x)| |
+[VOI 14 Bài 2 - Dãy con chung bội hai dài nhất](https://oj.vnoi.info/problem/lcs2x)| | [code](https://ideone.com/TJVdjg)
 
 #### String: 
 |Problems |Tags |Editorial
@@ -337,7 +362,7 @@ Những OJ để làm bài tập, contest:
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)| | [code](https://atcoder.jp/contests/dp/submissions/52670320)
-[E - Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e)| |
+[E - Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e)| | [code](https://ideone.com/JbcJ0c)
 [Coin Combinations I](https://cses.fi/problemset/task/1635)| | [code](https://ideone.com/80i06s)
 [Coin Combinations II](https://cses.fi/problemset/task/1636)| | [code](https://ideone.com/uTxuar)
 [M - Candies](https://atcoder.jp/contests/dp/tasks/dp_m)| | [code](https://ideone.com/4sM1lH)
@@ -351,13 +376,13 @@ Những OJ để làm bài tập, contest:
 [Đường đi có tổng lớn nhất](https://oj.vnoi.info/problem/qbmax) | | [code](https://ideone.com/VJy6g8)
 [E - Queen on Grid](https://atcoder.jp/contests/abc183/tasks/abc183_e)| DP x Prefix Sum| [code](https://ideone.com/AFqrDH)
 [E - Rook Path](https://atcoder.jp/contests/abc232/tasks/abc232_e)| | [code](https://ideone.com/00bf79)
-[E - Warp](https://atcoder.jp/contests/abc265/tasks/abc265_e)| |
+[E - Warp](https://atcoder.jp/contests/abc265/tasks/abc265_e)| | [code](https://ideone.com/TwfvVV)
 [Olympic 30/4 2019 - Khối 10 - Bài 3 - Kinh nghiệm](https://lqdoj.edu.vn/problem/twopaths)| Đường đi trên lưới với 2 người| [code](https://ideone.com/w7mvZ0)
 #### Prefix Sum 2D: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [VOI 11 Bài 1 - Phần thưởng](https://oj.vnoi.info/problem/bonus)| | [code](https://ideone.com/63KEem)
-[H. Queries for Number of Palindromes](https://codeforces.com/contest/245/problem/H)| |
+[H. Queries for Number of Palindromes](https://codeforces.com/contest/245/problem/H)| | [code](https://ideone.com/Q0QjEl)
 [VOI 15 Bài 4 - Cắt hình](https://oj.vnoi.info/problem/mincut)| | [code](https://ideone.com/BVAZvm)
 [Siêu thị (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3d)| | [code](https://ideone.com/ZX0pOR)
 #### Lý thuyết trò chơi: 
