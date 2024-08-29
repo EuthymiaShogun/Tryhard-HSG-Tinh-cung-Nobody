@@ -1,8 +1,8 @@
  # Giáo án Training HSG Tỉnh by Nobody
-Giáo án đi từ những kiến thức nền tảng quan trọng nhất cho đến nâng cao, tập trung hướng đến kì thi HSG Tỉnh. 
+Giáo án đi từ những kiến thức nền tảng quan trọng nhất cho đến nâng cao, tập trung hướng đến kì thi HSG Tỉnh - Chọn đội tuyển tham dự kỳ thi HSG QG. 
 
 ## Dấu ấn cá nhân
-- Anh tên là Huỳnh Thiên An, anh trước đó học ITK19 NBK, anh cũng vừa mới ra trường thôi nên nếu gọi là cựu học sinh thì nghe hơi già :>, nói chung lứa anh thì cũng gần gũi với mấy đứa thôi à nên cứ thoải mái.
+- Anh tên là Huỳnh Thiên An, cựu học sinh trường THPT chuyên Nguyễn Bỉnh Khiêm tỉnh Quảng Nam (ITK19)
 - Giới thiệu sơ qua các thành tích nổi bật mà anh đã đạt được trong 3 năm cấp 3: 
    - Lớp 10 
       + Giải KK kỳ thi chọn đội tuyển tham dự kì thi HSG QG.
@@ -125,9 +125,10 @@ Những OJ để làm bài tập, contest:
 [Prime Multiples](https://cses.fi/problemset/task/2185)| |
 [Counting Coprime Pairs](https://cses.fi/problemset/task/2417)| |
 [E - Sum of gcd of Tuples (Hard)](https://atcoder.jp/contests/abc162/tasks/abc162_e)| |
+[VOI 18 Bài 4 - Phần thưởng](https://oj.vnoi.info/problem/voi18_bonus)| |
 [Grid Paths](https://cses.fi/problemset/task/1078)| |
-[Christmas Party](https://cses.fi/problemset/task/1717)
-[Counting Sequences](https://cses.fi/problemset/task/2228)
+[Christmas Party](https://cses.fi/problemset/task/1717)| |
+[Counting Sequences](https://cses.fi/problemset/task/2228)| |
 
 ## Phần II: Tìm kiếm nhị phân & Kĩ thuật Hai con trỏ 
 ### Chương 1: Tìm kiếm nhị phân (Binary Search) 
@@ -211,6 +212,7 @@ Những OJ để làm bài tập, contest:
 [Dãy số](https://oj.vnoi.info/problem/c11seq)| BIT x Prefix Sum|  [code](https://ideone.com/2CS8w5)
 [Salary Queries](https://cses.fi/problemset/task/1144/)| BIT x Nén số| [code](https://ideone.com/wVOedy)
 [D-query](https://oj.vnoi.info/problem/dquery)| Distinct Value Queries | [code](https://ideone.com/PUZYgc)
+[Khoảng cách](https://lqdoj.edu.vn/problem/dist2021)| Binary Search x BIT |
 [VOI 05 Bài 1 - Phân đoạn](https://oj.vnoi.info/problem/qbsegpar)| Binary Search x Prefix Sum x DP Optimization using BIT| [code](https://ideone.com/hIKz18)
 
 ### Chương 4: Cây phân đoạn (Segment Tree)
@@ -308,12 +310,12 @@ Những OJ để làm bài tập, contest:
 [VOI 22 Bài 1 - Chọn cặp](https://oj.vnoi.info/problem/voi22_pair) (subtask 1)| | [code](https://ideone.com/49NgRe)
 [Chessboard and Queens](https://cses.fi/problemset/task/1624)| | [code](https://ideone.com/G3zzM4)
 [Grid Paths](https://cses.fi/problemset/task/1625)| Nhánh cận (Branch and Bound)| [code](https://ideone.com/NHTVk7)
-[Educational Backtracking: Biểu thức](https://oj.vnoi.info/problem/backtrack_e)| | [code](https://ideone.com/r2c4u8)
+[Biểu thức](https://oj.vnoi.info/problem/backtrack_e)| | [code](https://ideone.com/r2c4u8)
 [A. LLPS](https://codeforces.com/contest/202/problem/A)| | [code](https://ideone.com/I4f3fQ)
 [B. Preparing Olympiad](https://codeforces.com/contest/550/problem/B)| | [code](https://ideone.com/ESsanF)
 [Binpacking](https://oj.vnoi.info/problem/binpack) (subtask 1)| | [code](https://ideone.com/Uf3Dqs)
-[Educational Backtracking: Bể chứa nước](https://oj.vnoi.info/problem/backtrack_c)| |
-[Educational Backtracking: Đổi dấu](https://oj.vnoi.info/problem/backtrack_k)| |
+[Bể chứa nước](https://oj.vnoi.info/problem/backtrack_c)| |
+[Đổi dấu](https://oj.vnoi.info/problem/backtrack_k)| |
   
 ## Phần V: Quy hoạch động (DP) 
 ### Chương 1: DP General
@@ -328,6 +330,7 @@ Những OJ để làm bài tập, contest:
 [Removing Digits](https://cses.fi/problemset/task/1637)| | [code](https://cses.fi/paste/bfa69186a1a66eb1897392/)
 [Rectangle Cutting](https://cses.fi/problemset/task/1744)| | [code](https://cses.fi/paste/b1cad99348e945e18973dd/)
 [[QNOI 2021] Xâu luân phiên](https://nbk.homes/problem/qn21altstr)| | [code](https://ideone.com/b95DUi)
+[ARITHMETIC PROGRESSION](https://oj.vnoi.info/problem/lem5)| |
 [E - Many Operations](https://atcoder.jp/contests/abc261/tasks/abc261_e)| |
 [F - Reordering](https://atcoder.jp/contests/abc234/tasks/abc234_f)| |
 #### LIS: 
@@ -479,25 +482,81 @@ Problems| Tags| Editorial
 
 ## Phần VI: Đồ thị (Graphs)
 ### Chương 1: Duyệt đồ thị (DFS/BFS)
-### Chương 2: Cây khung nhỏ nhất (MST) - Thuật toán Kruskal 
-### Chương 3: Đồ thị hai phía
-### Chương 4: Đường đi ngắn nhất
-* #### BFS
-* #### Dijkstra
-* #### Bellman - Ford
+#### Tài liệu:
+- [Graph Traversal](https://usaco.guide/silver/graph-traversal?lang=cpp) (USACO Guide)
+
+#### Bài tập:
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Counting Rooms](https://cses.fi/problemset/task/1192)| |
+[Bộ ba cao thủ](https://oj.vnoi.info/problem/nktrio)| |
+[Bảo vệ nông trang](https://oj.vnoi.info/problem/nkguard)| |
+[Mountain Walking](https://oj.vnoi.info/problem/mtwalk)| |
+
+### Chương 2: Cây khung nhỏ nhất (MST) - Thuật toán Kruskal
+#### Tài liệu: 
+- [Minimum spanning tree - Kruskal's algorithm](https://cp-algorithms.com/graph/mst_kruskal.html) (cp-algorithms)
+#### Bài tập:
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Cây khung nhỏ nhất (HEAP)](https://oj.vnoi.info/problem/qbmst)| |
+
+### Chương 3: Đường đi ngắn nhất
+#### Tài liệu:
+- [Breadth-first search](https://cp-algorithms.com/graph/breadth-first-search.html) (cp-algorithms)
+- [Dijkstra on sparse graphs](https://cp-algorithms.com/graph/dijkstra_sparse.html) (cp-algorithms)
+#### Bài tập: 
+#### BFS: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Labyrinth](https://cses.fi/problemset/task/1193)| |
+[Monsters](https://cses.fi/problemset/task/1194)| Multi-source BFS| 
+#### Dijkstra: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Shortest Routes I](https://cses.fi/problemset/task/1671)| |
+[Flight Routes](https://cses.fi/problemset/task/1196)| | 
+[VM 08 Bài 13 - Bin Laden](https://oj.vnoi.info/problem/binladen)| |
+[Vé xe miễn phí](https://oj.vnoi.info/problem/dhfrbus)| |
+[Đến trường](https://oj.vnoi.info/problem/qbschool)| |
+
+### Chương 4: DAG
+#### Bài tập: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[G - Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g)| |
+
 ### Chương 5: Cây DFS
-* #### Các loại cạnh, tìm chu trình
-* #### Khớp, cầu
-* #### Thành phần liên thông mạnh (SCC) 
-### Chương 6: DAG
+#### Tài liệu: 
+- [Cây DFS (Depth-First Search Tree) và ứng dụng](https://wiki.vnoi.info/algo/graph-theory/Depth-First-Search-Tree.md) (VNOI Wiki)
+#### Bài tập: 
+#### Các loại cạnh, tìm chu trình: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Round Trip](https://cses.fi/problemset/task/1669)| |
+[Round Trip II](https://cses.fi/problemset/task/1678)| |
+#### Khớp, cầu: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Tìm khớp và cầu (Cơ bản)](https://oj.vnoi.info/problem/graph_)| |
+[Sửa cầu](https://oj.vnoi.info/problem/kbuild)| |
+[Police](https://oj.vnoi.info/problem/nkpolice)| |
+#### Thành phần liên thông mạnh (SCC):
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Tìm TPLT mạnh](https://oj.vnoi.info/problem/tjalg)| |
+[Truyền tin](https://oj.vnoi.info/problem/message)| |
+[Coin Collector](https://cses.fi/problemset/task/1686)| |
 
 ## Phần VII: Cây  
 ### Chương 1: Đường kính của cây
 #### Tài liệu: 
+- [[Tutorial] Diameter of a tree and its applications](https://codeforces.com/blog/entry/101271)
 #### Bài tập:
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Tree Distances I](https://cses.fi/problemset/task/1132)| |
+[Dịch vụ chăm sóc khách hàng](https://lqdoj.edu.vn/problem/service)| |
 [F - Exactly K Steps](https://atcoder.jp/contests/abc267/tasks/abc267_f)| |
 
 ### Chương 2: LCA
@@ -507,18 +566,34 @@ Problems| Tags| Editorial
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
+[Company Queries I](https://cses.fi/problemset/task/1687)| |
+[Company Queries II](https://cses.fi/problemset/task/1688)| |
+[Distance Queries](https://cses.fi/problemset/task/1135)| |
+[Lubenica](https://oj.vnoi.info/problem/lubenica)| |
+[Counting Paths](https://cses.fi/problemset/task/1136)| |
+[VOI 11 Bài 6 - Nâng cấp mạng](https://oj.vnoi.info/problem/upgranet)| |
 
 ### Chương 3: Quy hoạch động trên Cây (DP on Trees)
 #### Tài liệu: 
 - [Quy hoạch động trên cây](https://wiki.vnoi.info/algo/dp/treedp) (VNOI Wiki)
+- [DP on Trees - Solving For All Roots](https://usaco.guide/gold/all-roots?lang=cpp) (USACO Guide)
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[P - Independent Set](https://atcoder.jp/contests/dp/tasks/dp_p)
+[Subordinates](https://cses.fi/problemset/task/1674)| |
+[P - Independent Set](https://atcoder.jp/contests/dp/tasks/dp_p)| |
+[Tổ chức đối lập](https://oj.vnoi.info/problem/v8org)| |
+[Another Tree Problem](https://oj.vnoi.info/problem/mtree)| |
+[Tree Distances II](https://cses.fi/problemset/task/1133)| DP Reroot |
 
 ### Chương 4: Euler Tour
 #### Tài liệu: 
 - [Đường đi Euler trên cây](https://wiki.vnoi.info/vi/algo/graph-theory/euler-tour-on-tree) (VNOI Wiki)
+#### Bài tập: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Subtree Queries](https://cses.fi/problemset/task/1137)| | 
+
 
 ## Phần VIII: Thuật toán Xâu (String Algorithms)
 ### Chương 1: Hashing
