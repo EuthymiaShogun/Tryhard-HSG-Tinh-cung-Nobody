@@ -607,23 +607,23 @@ Problems| Tags| Editorial
 #### String Hashing: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[String Matching](https://cses.fi/problemset/task/1753/)| |
-[Finding Periods](https://cses.fi/problemset/task/1733/)| |
-[C. Watto and Mechanism](https://codeforces.com/contest/514/problem/C)| |
-[D. Good Substrings](https://codeforces.com/contest/271/problem/D)| |
+[String Matching](https://cses.fi/problemset/task/1753/)| | [code](https://ideone.com/ztki97)
+[Finding Periods](https://cses.fi/problemset/task/1733/)| | 
 [Minimal Rotation](https://cses.fi/problemset/task/1110)| |
 [Longest Palindrome](https://cses.fi/problemset/task/1111)| |
 [D. Palindrome Degree](https://codeforces.com/contest/7/problem/D)| |
 [Palindrome Queries](https://cses.fi/problemset/task/2420)| Segment Tree x Hashing|
 [ITSTR](https://oj.vnoi.info/problem/segtree_itstr)| |
+[F. Isomorphic Strings](https://codeforces.com/contest/985/problem/F)
+[D. Good Substrings](https://codeforces.com/contest/271/problem/D)| |
+[C. Watto and Mechanism](https://codeforces.com/contest/514/problem/C)| |
 [Bracket Circle](https://oj.vnoi.info/problem/codetour24_c2_c)| |
 #### XOR Hasing / Sum Hashing:
 |Problems |Tags |Editorial
 |--|:--:|:--: 
-[Lật xu](https://lqdoj.edu.vn/problem/coinflip)| XOR Hashing |
+[Lật xu](https://lqdoj.edu.vn/problem/coinflip)| XOR Hashing | [code](https://ideone.com/NCXh8t)
 [E - Prefix Equality](https://atcoder.jp/contests/abc250/tasks/abc250_e)
-[C. Double Profiles](https://codeforces.com/problemset/problem/154/C)| |
-[F. Isomorphic Strings](https://codeforces.com/contest/985/problem/F)
+[C. Double Profiles](https://codeforces.com/problemset/problem/154/C)| Rolling Hash x XOR Hashing|
 [F - Rearrange Query](https://atcoder.jp/contests/abc367/tasks/abc367_f)| Sum Hashing |
 
 ### Chương 2: Trie
